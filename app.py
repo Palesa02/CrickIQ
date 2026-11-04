@@ -51,7 +51,7 @@ st.markdown("""
 
 @st.cache_resource
 def load_model():
-    with open('cricket_predictor_final.pkl', 'rb') as f:
+    with open('cricket_predictor_v3.pkl', 'rb') as f:
         return pickle.load(f)
 
 @st.cache_data
@@ -176,7 +176,7 @@ with h2:
 try:
     clf, le_team, le_venue, le_format, le_gender, model_df = load_model()
 except:
-    st.error("cricket_predictor_final.pkl not found. Run train.py first."); st.stop()
+    st.error("cricket_predictor_v3.pkl not found. Run train.py first."); st.stop()
 
 # ================= PREDICTOR TAB =================
 if st.session_state.active_tab == 'Predictor':
