@@ -1,0 +1,9 @@
+# HUGE DATA - don't push
+t20s_male_json/
+t20s_female_json/
+tests_male_json/
+tests_female_json/
+*.pkl
+*.csv
+__pycache__/
+.venv/
