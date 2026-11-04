@@ -174,9 +174,28 @@ with h2:
             st.session_state.active_tab="Insights"; st.rerun()
 
 try:
-    clf, le_team, le_venue, le_format, le_gender, model_df = load_model()
-except:
-    st.error("cricket_predictor_final.pkl not found. Run train.py first."); st.stop()
+    _loaded = load_model()
+    if isinstance(_loaded, dict):
+        clf = _loaded.get('clf') or _loaded.get('model')
+        le_team = _loaded.get('le_team')
+        le_venue = _loaded.get('le_venue')
+        le_format = _loaded.get('le_format')
+        le_gender = _loaded.get('le_gender')
+        model_df = _loaded.get('model_df')
+    elif len(_loaded) == 6:
+        clf, le_team, le_venue, le_format, le_gender, model_df = _loaded
+    elif len(_loaded) == 4:
+        clf, le_team, le_venue, le_format = _loaded
+        # Old model only saved 4 items - create fallbacks for the missing 2
+        from sklearn.preprocessing import LabelEncoder
+        le_gender = LabelEncoder()
+        le_gender.classes_ = __import__('numpy').array(['Male', 'Female'])
+        import pandas as pd
+        model_df = pd.DataFrame()
+    else:
+        st.error(f"Model load failed: unexpected format with {len(_loaded)} items"); st.stop()
+except Exception as e:
+    st.error(f"Model load failed: {e}"); st.stop()
 
 # ================= PREDICTOR TAB =================
 if st.session_state.active_tab == 'Predictor':
