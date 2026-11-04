@@ -1,0 +1,2200 @@
+match_id,team1,team2,venue,date,winner
+1043989,Australia,New Zealand,Melbourne Cricket Ground,2017-02-17,Australia
+1043991,Australia,New Zealand,"Simonds Stadium, South Geelong",2017-02-19,New Zealand
+1043993,Australia,New Zealand,Adelaide Oval,2017-02-22,New Zealand
+1044211,Sri Lanka,Australia,Sinhalese Sports Club Ground,2016-09-27,Australia
+1050615,New Zealand,Pakistan,Saxton Oval,2016-11-21,New Zealand
+1065348,India,Pakistan,Asian Institute of Technology Ground,2016-12-04,India
+1086067,England,Australia,North Sydney Oval,2017-11-17,Australia
+1086068,England,Australia,Manuka Oval,2017-11-19,England
+1086069,Australia,England,Manuka Oval,2017-11-21,England
+1122902,West Indies,Sri Lanka,Coolidge Cricket Ground,2017-10-21,West Indies
+1122908,New Zealand,Pakistan,Sharjah Cricket Stadium,2017-11-09,New Zealand
+1122909,New Zealand,Pakistan,Sharjah Cricket Stadium,2017-11-12,New Zealand
+1122910,Pakistan,New Zealand,Sharjah Cricket Stadium,2017-11-14,New Zealand
+1123206,South Africa,India,Senwes Park,2018-02-13,India
+1123207,South Africa,India,Buffalo Park,2018-02-16,India
+1123208,India,South Africa,The Wanderers Stadium,2018-02-18,South Africa
+1123209,South Africa,India,SuperSport Park,2018-02-21,
+1123210,India,South Africa,Newlands,2018-02-24,India
+1126720,New Zealand,South Africa,The Cooper Associates County Ground,2018-06-20,New Zealand
+1126721,England,South Africa,The Cooper Associates County Ground,2018-06-20,England
+1126722,England,South Africa,The Cooper Associates County Ground,2018-06-23,South Africa
+1126723,England,New Zealand,The Cooper Associates County Ground,2018-06-23,England
+1126724,South Africa,New Zealand,County Ground,2018-06-28,New Zealand
+1126725,New Zealand,England,County Ground,2018-06-28,England
+1126726,New Zealand,England,County Ground,2018-07-01,England
+1131235,India,Australia,Brabourne Stadium,2018-03-22,Australia
+1131236,Australia,England,Brabourne Stadium,2018-03-23,England
+1131237,India,England,Brabourne Stadium,2018-03-25,England
+1131238,Australia,India,Brabourne Stadium,2018-03-26,Australia
+1131239,England,Australia,Brabourne Stadium,2018-03-28,Australia
+1131240,England,India,Brabourne Stadium,2018-03-29,India
+1131241,Australia,England,Brabourne Stadium,2018-03-31,Australia
+1138194,New Zealand,West Indies,Bay Oval,2018-03-14,New Zealand
+1138195,New Zealand,West Indies,Bay Oval,2018-03-16,New Zealand
+1138196,New Zealand,West Indies,Pukekura Park,2018-03-20,New Zealand
+1138198,West Indies,New Zealand,Seddon Park,2018-03-25,New Zealand
+1138202,Sri Lanka,Pakistan,Sinhalese Sports Club Ground,2018-03-28,Pakistan
+1138203,Pakistan,Sri Lanka,Nondescripts Cricket Club Ground,2018-03-30,Sri Lanka
+1144441,South Africa,Bangladesh,Mangaung Oval,2018-05-19,South Africa
+1144442,South Africa,Bangladesh,Mangaung Oval,2018-05-20,South Africa
+1144978,New Zealand,Australia,North Sydney Oval,2018-09-29,Australia
+1144979,New Zealand,Australia,Allan Border Field,2018-10-01,Australia
+1144980,New Zealand,Australia,Manuka Oval,2018-10-05,Australia
+1145890,Ireland,New Zealand,YMCA Cricket Club,2018-06-06,New Zealand
+1145894,Ireland,Bangladesh,YMCA Cricket Club,2018-06-28,Bangladesh
+1145895,Ireland,Bangladesh,"The Village, Malahide, Dublin",2018-06-29,Bangladesh
+1145896,Bangladesh,Ireland,"Pembroke Cricket Club, Sandymount",2018-07-01,Ireland
+1147717,Thailand,Ireland,Sportpark Maarschalkerweerd,2018-07-07,Ireland
+1147718,Uganda,Scotland,VRA Ground,2018-07-07,Scotland
+1147719,Netherlands,United Arab Emirates,Sportpark Maarschalkerweerd,2018-07-07,United Arab Emirates
+1147720,Papua New Guinea,Bangladesh,VRA Ground,2018-07-07,Bangladesh
+1147722,Scotland,Ireland,VRA Ground,2018-07-08,Ireland
+1147723,Netherlands,Bangladesh,Sportpark Maarschalkerweerd,2018-07-08,Bangladesh
+1147724,United Arab Emirates,Papua New Guinea,VRA Ground,2018-07-08,Papua New Guinea
+1147725,Scotland,Thailand,Sportpark Maarschalkerweerd,2018-07-10,Scotland
+1147726,Uganda,Ireland,VRA Ground,2018-07-10,Ireland
+1147727,United Arab Emirates,Bangladesh,Sportpark Maarschalkerweerd,2018-07-10,Bangladesh
+1147728,Papua New Guinea,Netherlands,VRA Ground,2018-07-10,Papua New Guinea
+1147729,Ireland,Papua New Guinea,VRA Ground,2018-07-12,Ireland
+1147730,Netherlands,Uganda,Sportpark Maarschalkerweerd,2018-07-12,Uganda
+1147731,Bangladesh,Scotland,VRA Ground,2018-07-12,Bangladesh
+1147732,United Arab Emirates,Thailand,Sportpark Maarschalkerweerd,2018-07-12,Thailand
+1147733,Netherlands,United Arab Emirates,VRA Ground,2018-07-14,
+1147734,Papua New Guinea,Scotland,Sportpark Maarschalkerweerd,2018-07-14,Scotland
+1147735,Thailand,Uganda,VRA Ground,2018-07-14,Thailand
+1147736,Bangladesh,Ireland,Sportpark Maarschalkerweerd,2018-07-14,Bangladesh
+1148048,India,Malaysia,Kinrara Academy Oval,2018-06-03,India
+1148050,Thailand,Pakistan,Kinrara Academy Oval,2018-06-03,Pakistan
+1148051,Pakistan,Bangladesh,Kinrara Academy Oval,2018-06-04,Bangladesh
+1148052,India,Thailand,Royal Selangor Club,2018-06-04,India
+1148053,Sri Lanka,Malaysia,Royal Selangor Club,2018-06-04,Sri Lanka
+1148054,Pakistan,Sri Lanka,Kinrara Academy Oval,2018-06-06,Pakistan
+1148055,Malaysia,Thailand,Royal Selangor Club,2018-06-06,Thailand
+1148056,India,Bangladesh,Kinrara Academy Oval,2018-06-06,Bangladesh
+1148057,Thailand,Bangladesh,Kinrara Academy Oval,2018-06-07,Bangladesh
+1148058,Pakistan,Malaysia,Royal Selangor Club,2018-06-07,Pakistan
+1148059,Sri Lanka,India,Royal Selangor Club,2018-06-07,India
+1148060,Pakistan,India,Kinrara Academy Oval,2018-06-09,India
+1148061,Sri Lanka,Thailand,Royal Selangor Club,2018-06-09,Thailand
+1148062,Bangladesh,Malaysia,Kinrara Academy Oval,2018-06-09,Bangladesh
+1148063,India,Bangladesh,Kinrara Academy Oval,2018-06-10,Bangladesh
+1150533,India,New Zealand,Providence Stadium,2018-11-09,India
+1150534,Australia,Pakistan,Providence Stadium,2018-11-09,Australia
+1150535,West Indies,Bangladesh,Providence Stadium,2018-11-09,West Indies
+1150537,Pakistan,India,Providence Stadium,2018-11-11,India
+1150538,Ireland,Australia,Providence Stadium,2018-11-11,Australia
+1150539,Bangladesh,England,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-12,England
+1150540,Sri Lanka,South Africa,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-12,South Africa
+1150541,Pakistan,Ireland,Providence Stadium,2018-11-13,Pakistan
+1150542,Australia,New Zealand,Providence Stadium,2018-11-13,Australia
+1150543,Sri Lanka,Bangladesh,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-14,Sri Lanka
+1150544,West Indies,South Africa,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-14,West Indies
+1150545,India,Ireland,Providence Stadium,2018-11-15,India
+1150546,New Zealand,Pakistan,Providence Stadium,2018-11-15,New Zealand
+1150547,South Africa,England,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-16,England
+1150548,West Indies,Sri Lanka,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-16,West Indies
+1150549,India,Australia,Providence Stadium,2018-11-17,India
+1150550,Ireland,New Zealand,Providence Stadium,2018-11-17,New Zealand
+1150551,England,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-18,West Indies
+1150552,South Africa,Bangladesh,"Daren Sammy National Cricket Stadium, Gros Islet",2018-11-18,South Africa
+1150553,Australia,West Indies,"Sir Vivian Richards Stadium, North Sound",2018-11-22,Australia
+1150554,India,England,"Sir Vivian Richards Stadium, North Sound",2018-11-22,England
+1150555,England,Australia,"Sir Vivian Richards Stadium, North Sound",2018-11-24,Australia
+1153858,New Zealand,India,Westpac Stadium,2019-02-06,New Zealand
+1153859,New Zealand,India,Eden Park,2019-02-08,New Zealand
+1153860,New Zealand,India,Seddon Park,2019-02-10,New Zealand
+1156216,South Africa,West Indies,"Brian Lara Stadium, Tarouba",2018-09-28,West Indies
+1156218,West Indies,South Africa,"Brian Lara Stadium, Tarouba",2018-10-04,South Africa
+1156219,West Indies,South Africa,"Brian Lara Stadium, Tarouba",2018-10-06,South Africa
+1157710,Sri Lanka,India,Colts Cricket Club Ground,2018-09-21,
+1157711,Sri Lanka,India,Colombo Cricket Club Ground,2018-09-22,India
+1157712,Sri Lanka,India,Colombo Cricket Club Ground,2018-09-24,India
+1157713,India,Sri Lanka,Chilaw Marians Cricket Club Ground,2018-09-25,India
+1158344,Botswana,Lesotho,Botswana Cricket Association Oval 1,2018-08-20,Botswana
+1158345,Malawi,Namibia,Botswana Cricket Association Oval 2,2018-08-20,Namibia
+1158348,Sierra Leone,Namibia,Botswana Cricket Association Oval 1,2018-08-21,Namibia
+1158349,Mozambique,Lesotho,Botswana Cricket Association Oval 2,2018-08-21,Mozambique
+1158350,Mozambique,Botswana,Botswana Cricket Association Oval 1,2018-08-21,Botswana
+1158352,Botswana,Sierra Leone,Botswana Cricket Association Oval 1,2018-08-23,Sierra Leone
+1158353,Mozambique,Namibia,Botswana Cricket Association Oval 2,2018-08-23,Namibia
+1158354,Namibia,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2018-08-23,Namibia
+1158355,Sierra Leone,Malawi,Botswana Cricket Association Oval 2,2018-08-23,Sierra Leone
+1158356,Sierra Leone,Lesotho,Botswana Cricket Association Oval 1,2018-08-24,Sierra Leone
+1158358,Botswana,Namibia,Botswana Cricket Association Oval 1,2018-08-24,Namibia
+1158359,Lesotho,Malawi,Botswana Cricket Association Oval 1,2018-08-25,Malawi
+1158361,Sierra Leone,Namibia,Botswana Cricket Association Oval 1,2018-08-25,Namibia
+1161231,Australia,Pakistan,Kinrara Academy Oval,2018-10-25,Australia
+1161232,Pakistan,Australia,Kinrara Academy Oval,2018-10-27,Australia
+1161233,Pakistan,Australia,Kinrara Academy Oval,2018-10-29,Australia
+1168020,England,West Indies,County Ground,2019-06-21,England
+1168026,England,Australia,County Ground,2019-07-26,Australia
+1168027,England,Australia,"County Ground, Hove",2019-07-28,Australia
+1168028,England,Australia,County Ground,2019-07-31,England
+1168160,South Africa,Sri Lanka,Newlands,2019-02-01,South Africa
+1168162,South Africa,Sri Lanka,SuperSport Park,2019-02-06,South Africa
+1172163,India,England,Barsapara Cricket Stadium,2019-03-04,England
+1172164,India,England,Barsapara Cricket Stadium,2019-03-07,England
+1172165,India,England,Barsapara Cricket Stadium,2019-03-09,England
+1172469,Pakistan,West Indies,Southend Club Cricket Stadium,2019-01-31,West Indies
+1172470,Pakistan,West Indies,Southend Club Cricket Stadium,2019-02-01,
+1172471,Pakistan,West Indies,Southend Club Cricket Stadium,2019-02-03,Pakistan
+1172910,Thailand,China,Terdthai Cricket Ground,2019-02-18,Thailand
+1172911,Kuwait,Malaysia,Asian Institute of Technology Ground,2019-02-18,Malaysia
+1172912,Hong Kong,United Arab Emirates,Asian Institute of Technology Ground,2019-02-18,United Arab Emirates
+1172913,Malaysia,Nepal,Terdthai Cricket Ground,2019-02-19,Nepal
+1172914,China,Hong Kong,Terdthai Cricket Ground,2019-02-19,China
+1172915,Kuwait,United Arab Emirates,Asian Institute of Technology Ground,2019-02-19,United Arab Emirates
+1172916,Malaysia,United Arab Emirates,Terdthai Cricket Ground,2019-02-21,United Arab Emirates
+1172917,Thailand,Nepal,Asian Institute of Technology Ground,2019-02-21,Thailand
+1172918,China,Kuwait,Asian Institute of Technology Ground,2019-02-21,China
+1172919,Nepal,United Arab Emirates,Terdthai Cricket Ground,2019-02-22,Nepal
+1172920,Thailand,Hong Kong,Asian Institute of Technology Ground,2019-02-22,Thailand
+1172921,China,Malaysia,Terdthai Cricket Ground,2019-02-22,China
+1172922,China,United Arab Emirates,Terdthai Cricket Ground,2019-02-24,United Arab Emirates
+1172923,Thailand,Kuwait,Asian Institute of Technology Ground,2019-02-24,Thailand
+1172924,Hong Kong,Nepal,Asian Institute of Technology Ground,2019-02-24,Nepal
+1172925,Thailand,Malaysia,Terdthai Cricket Ground,2019-02-25,Thailand
+1172926,China,Nepal,Terdthai Cricket Ground,2019-02-25,Nepal
+1172927,Hong Kong,Kuwait,Asian Institute of Technology Ground,2019-02-25,Hong Kong
+1172929,Kuwait,Nepal,Asian Institute of Technology Ground,2019-02-27,Nepal
+1172930,Thailand,United Arab Emirates,Asian Institute of Technology Ground,2019-02-27,Thailand
+1173048,Australia,India,Sydney Showground Stadium,2020-02-21,India
+1173049,Thailand,West Indies,W.A.C.A. Ground,2020-02-22,West Indies
+1173050,New Zealand,Sri Lanka,W.A.C.A. Ground,2020-02-22,New Zealand
+1173051,England,South Africa,W.A.C.A. Ground,2020-02-23,South Africa
+1173052,Australia,Sri Lanka,W.A.C.A. Ground,2020-02-24,Australia
+1173053,Bangladesh,India,W.A.C.A. Ground,2020-02-24,India
+1173054,England,Thailand,Manuka Oval,2020-02-26,England
+1173055,Pakistan,West Indies,Manuka Oval,2020-02-26,Pakistan
+1173056,India,New Zealand,Junction Oval,2020-02-27,India
+1173057,Australia,Bangladesh,Manuka Oval,2020-02-27,Australia
+1173058,South Africa,Thailand,Manuka Oval,2020-02-28,South Africa
+1173059,England,Pakistan,Manuka Oval,2020-02-28,England
+1173060,Bangladesh,New Zealand,Junction Oval,2020-02-29,New Zealand
+1173061,India,Sri Lanka,Junction Oval,2020-02-29,India
+1173062,Pakistan,South Africa,Sydney Showground Stadium,2020-03-01,South Africa
+1173063,England,West Indies,Sydney Showground Stadium,2020-03-01,England
+1173064,Bangladesh,Sri Lanka,Junction Oval,2020-03-02,Sri Lanka
+1173065,Australia,New Zealand,Junction Oval,2020-03-02,Australia
+1173066,Pakistan,Thailand,Sydney Showground Stadium,2020-03-03,
+1173069,Australia,South Africa,Sydney Cricket Ground,2020-03-05,Australia
+1173070,Australia,India,Melbourne Cricket Ground,2020-03-08,Australia
+1176435,Sri Lanka,England,P Sara Oval,2019-03-24,England
+1176436,Sri Lanka,England,P Sara Oval,2019-03-26,England
+1176437,Sri Lanka,England,P Sara Oval,2019-03-28,England
+1177018,South Africa,Pakistan,LC de Villiers Oval,2019-05-15,Pakistan
+1177019,South Africa,Pakistan,City Oval,2019-05-18,South Africa
+1177020,South Africa,Pakistan,City Oval,2019-05-19,Pakistan
+1177021,South Africa,Pakistan,Willowmoore Park,2019-05-22,South Africa
+1177022,South Africa,Pakistan,Willowmoore Park,2019-05-23,South Africa
+1179016,Namibia,Botswana,United Cricket Club Ground,2019-04-01,Namibia
+1179017,Namibia,Botswana,United Cricket Club Ground,2019-04-03,Namibia
+1179018,Namibia,Botswana,United Cricket Club Ground,2019-04-03,Namibia
+1179610,Namibia,Botswana,United Cricket Club Ground,2019-04-02,Namibia
+1179611,Namibia,Botswana,United Cricket Club Ground,2019-04-02,Namibia
+1182642,Zimbabwe,Mozambique,Old Hararians,2019-05-05,Zimbabwe
+1182644,Sierra Leone,Uganda,Old Hararians,2019-05-05,Uganda
+1182646,Mozambique,Nigeria,Old Hararians,2019-05-06,Nigeria
+1182648,Namibia,Uganda,Old Hararians,2019-05-06,Namibia
+1182649,Zimbabwe,Tanzania,Takashinga Sports Club,2019-05-06,Zimbabwe
+1182650,Mozambique,Rwanda,Old Hararians,2019-05-08,Rwanda
+1182652,Kenya,Uganda,Old Hararians,2019-05-08,Uganda
+1182653,Namibia,Sierra Leone,Takashinga Sports Club,2019-05-08,Namibia
+1182654,Zimbabwe,Rwanda,Old Hararians,2019-05-09,Zimbabwe
+1182656,Zimbabwe,Nigeria,Old Hararians,2019-05-11,Zimbabwe
+1182657,Rwanda,Tanzania,Takashinga Sports Club,2019-05-11,Tanzania
+1182658,Zimbabwe,Namibia,Harare Sports Club,2019-05-12,Zimbabwe
+1182904,Vanuatu,Papua New Guinea,"Ground 1, Independence Park",2019-05-06,Papua New Guinea
+1182905,Indonesia,Japan,"Ground 2, Independence Park",2019-05-06,Indonesia
+1182906,Indonesia,Papua New Guinea,"Ground 1, Independence Park",2019-05-06,Papua New Guinea
+1182909,Fiji,Papua New Guinea,"Ground 2, Independence Park",2019-05-07,Papua New Guinea
+1182912,Vanuatu,Samoa,"Ground 1, Independence Park",2019-05-09,Samoa
+1182913,Fiji,Japan,"Ground 2, Independence Park",2019-05-09,Japan
+1182914,Japan,Papua New Guinea,"Ground 1, Independence Park",2019-05-09,Papua New Guinea
+1182916,Fiji,Indonesia,"Ground 1, Independence Park",2019-05-10,Indonesia
+1182917,Vanuatu,Japan,"Ground 2, Independence Park",2019-05-10,Vanuatu
+1182918,Papua New Guinea,Samoa,"Ground 1, Independence Park",2019-05-10,Papua New Guinea
+1183510,Australia,Sri Lanka,North Sydney Oval,2019-09-29,Australia
+1183511,Australia,Sri Lanka,North Sydney Oval,2019-09-30,Australia
+1183512,Australia,Sri Lanka,North Sydney Oval,2019-10-02,Australia
+1183543,England,India,Manuka Oval,2020-01-31,India
+1183544,Australia,England,Manuka Oval,2020-02-01,
+1183545,Australia,India,Manuka Oval,2020-02-02,Australia
+1183546,England,India,Junction Oval,2020-02-07,England
+1183547,Australia,India,Junction Oval,2020-02-08,India
+1183548,Australia,England,Junction Oval,2020-02-09,Australia
+1183549,Australia,India,Junction Oval,2020-02-12,Australia
+1183856,United States of America,Canada,Central Broward Regional Park Stadium Turf Ground,2019-05-18,United States of America
+1183857,United States of America,Canada,Central Broward Regional Park Stadium Turf Ground,2019-05-19,United States of America
+1185154,Ireland,West Indies,YMCA Cricket Club,2019-05-26,West Indies
+1185155,Ireland,West Indies,Sydney Parade,2019-05-28,West Indies
+1185156,Ireland,West Indies,Sydney Parade,2019-05-29,West Indies
+1187717,New Zealand,South Africa,Bay Oval,2020-02-02,New Zealand
+1187718,New Zealand,South Africa,Seddon Park,2020-02-06,New Zealand
+1187719,New Zealand,South Africa,Basin Reserve,2020-02-09,South Africa
+1187720,New Zealand,South Africa,Basin Reserve,2020-02-10,New Zealand
+1188784,Rwanda,Uganda,Gahanga International Cricket Stadium. Rwanda,2019-06-19,Uganda
+1188785,Rwanda,Mali,Gahanga International Cricket Stadium. Rwanda,2019-06-18,Rwanda
+1188786,Tanzania,Uganda,Gahanga International Cricket Stadium. Rwanda,2019-06-18,Tanzania
+1190605,Netherlands,Scotland,La Manga Club Top Ground,2019-06-26,Netherlands
+1190606,Germany,Netherlands,La Manga Club Top Ground,2019-06-27,Netherlands
+1190607,Netherlands,Scotland,La Manga Club Top Ground,2019-06-27,
+1190608,Germany,Scotland,La Manga Club Top Ground,2019-06-29,Scotland
+1190744,Netherlands,Ireland,Sportpark Het Schootsveld,2019-08-08,Ireland
+1190746,Netherlands,Scotland,Sportpark Het Schootsveld,2019-08-09,Scotland
+1190747,Ireland,Thailand,Sportpark Het Schootsveld,2019-08-09,Thailand
+1190749,Ireland,Scotland,Sportpark Het Schootsveld,2019-08-10,Scotland
+1190750,Scotland,Thailand,Sportpark Het Schootsveld,2019-08-12,Scotland
+1190751,Netherlands,Ireland,Sportpark Het Schootsveld,2019-08-12,
+1190752,Ireland,Thailand,Sportpark Het Schootsveld,2019-08-13,Thailand
+1190753,Netherlands,Scotland,Sportpark Het Schootsveld,2019-08-13,Scotland
+1190754,Ireland,Scotland,Sportpark Het Schootsveld,2019-08-14,Ireland
+1190755,Netherlands,Thailand,Sportpark Het Schootsveld,2019-08-14,Thailand
+1196033,Rwanda,Nigeria,Gahanga International Cricket Stadium. Rwanda,2019-09-07,Rwanda
+1197047,Bangladesh,Papua New Guinea,Forthill,2019-09-02,Bangladesh
+1197049,Scotland,United States of America,Forthill,2019-08-31,Scotland
+1197051,Namibia,Thailand,Forthill,2019-09-01,Thailand
+1197052,Scotland,Papua New Guinea,Lochlands,2019-09-01,Papua New Guinea
+1197053,Ireland,Netherlands,Forthill,2019-09-01,Ireland
+1197054,Bangladesh,United States of America,Lochlands,2019-09-01,Bangladesh
+1197055,Ireland,Thailand,Forthill,2019-09-03,Thailand
+1197056,Namibia,Netherlands,Lochlands,2019-09-03,Netherlands
+1197057,Scotland,Bangladesh,Forthill,2019-09-03,Bangladesh
+1197058,Papua New Guinea,United States of America,Lochlands,2019-09-03,Papua New Guinea
+1197059,Bangladesh,Ireland,Forthill,2019-09-05,Bangladesh
+1197061,Papua New Guinea,Thailand,Forthill,2019-09-05,Thailand
+1197062,Scotland,Namibia,Lochlands,2019-09-05,Scotland
+1197063,Ireland,Papua New Guinea,Forthill,2019-09-07,Ireland
+1197064,Namibia,United States of America,Lochlands,2019-09-07,United States of America
+1197065,Bangladesh,Thailand,Forthill,2019-09-07,Bangladesh
+1197066,Scotland,Netherlands,Lochlands,2019-09-07,Scotland
+1197246,South Korea,Japan,Yeonhui Cricket Ground,2019-09-19,Japan
+1197247,China,Hong Kong,Yeonhui Cricket Ground,2019-09-19,Hong Kong
+1197248,Hong Kong,Japan,Yeonhui Cricket Ground,2019-09-20,Japan
+1197249,South Korea,China,Yeonhui Cricket Ground,2019-09-20,China
+1197253,China,Hong Kong,Yeonhui Cricket Ground,2019-09-22,China
+1198217,Singapore,Malaysia,Indian Association Ground,2019-08-28,Malaysia
+1198218,Singapore,Malaysia,Indian Association Ground,2019-08-29,Malaysia
+1198219,Singapore,Malaysia,Indian Association Ground,2019-08-30,Malaysia
+1198475,West Indies,Australia,"Kensington Oval, Barbados",2019-09-14,Australia
+1198476,West Indies,Australia,"Kensington Oval, Barbados",2019-09-16,Australia
+1198477,West Indies,Australia,"Kensington Oval, Barbados",2019-09-18,Australia
+1198478,India,South Africa,Lalabhai Contractor Stadium,2019-09-24,India
+1198481,India,South Africa,Lalabhai Contractor Stadium,2019-10-01,India
+1198482,India,South Africa,Lalabhai Contractor Stadium,2019-10-04,South Africa
+1202252,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",2019-11-09,India
+1202253,West Indies,India,"Darren Sammy National Cricket Stadium, St Lucia",2019-11-10,India
+1202254,West Indies,India,"Providence Stadium, Guyana",2019-11-14,India
+1202255,West Indies,India,"Providence Stadium, Guyana",2019-11-17,India
+1202256,West Indies,India,"Providence Stadium, Guyana",2019-11-20,India
+1202366,India,South Africa,Lalabhai Contractor Stadium,2019-10-03,India
+1204726,Pakistan,Bangladesh,Gaddafi Stadium,2019-10-26,Pakistan
+1208347,England,Pakistan,Kinrara Academy Oval,2019-12-17,England
+1208348,England,Pakistan,Kinrara Academy Oval,2019-12-19,England
+1208349,England,Pakistan,Kinrara Academy Oval,2019-12-20,England
+1208804,Nepal,Maldives,Pokhara Rangasala,2019-12-02,Nepal
+1208806,Nepal,Bangladesh,Pokhara Rangasala,2019-12-04,Bangladesh
+1208808,Bangladesh,Maldives,Pokhara Rangasala,2019-12-05,Bangladesh
+1208810,Nepal,Maldives,Pokhara Rangasala,2019-12-07,Nepal
+1214763,Oman,Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2020-02-04,Germany
+1214764,Oman,Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2020-02-05,Germany
+1214765,Oman,Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2020-02-07,Germany
+1214766,Oman,Germany,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2020-02-08,Germany
+1223941,Australia,New Zealand,Allan Border Field,2020-09-26,Australia
+1223942,New Zealand,Australia,Allan Border Field,2020-09-27,Australia
+1223943,Australia,New Zealand,Allan Border Field,2020-09-30,New Zealand
+1229204,Germany,Austria,"Seebarn Cricket Centre, Lower Austria",2020-08-12,Germany
+1229205,Germany,Austria,Seebarn Cricket Centre,2020-08-13,Germany
+1229206,Austria,Germany,Seebarn Cricket Centre,2020-08-13,Germany
+1229207,Germany,Austria,Seebarn Cricket Centre,2020-08-14,Germany
+1229208,Germany,Austria,Seebarn Cricket Centre,2020-08-15,Germany
+1230855,England,West Indies,County Ground,2020-09-21,England
+1230856,England,West Indies,County Ground,2020-09-23,England
+1230857,England,West Indies,County Ground,2020-09-26,England
+1230858,England,West Indies,County Ground,2020-09-28,England
+1230859,West Indies,England,County Ground,2020-09-30,England
+1244846,Pakistan,South Africa,Kingsmead,2021-01-29,South Africa
+1244847,South Africa,Pakistan,Kingsmead,2021-01-31,South Africa
+1244848,Pakistan,South Africa,Kingsmead,2021-02-03,Pakistan
+1249235,New Zealand,England,Westpac Stadium,2021-03-03,England
+1249236,New Zealand,England,Westpac Stadium,2021-03-05,England
+1249237,England,New Zealand,Sky Stadium,2021-03-07,England
+1249238,New Zealand,Australia,Seddon Park,2021-03-28,Australia
+1249239,Australia,New Zealand,McLean Park,2021-03-30,New Zealand
+1249240,Australia,New Zealand,Eden Park,2021-04-01,
+1253272,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2021-03-20,South Africa
+1253273,India,South Africa,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2021-03-21,South Africa
+1253274,South Africa,India,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,2021-03-23,India
+1260097,England,India,"County Ground, Northampton",2021-07-09,England
+1260098,India,England,"County Ground, Hove",2021-07-11,India
+1260099,India,England,"County Ground, Chelmsford",2021-07-14,England
+1260100,England,New Zealand,"County Ground, Chelmsford",2021-09-01,England
+1260101,England,New Zealand,"County Ground, Hove",2021-09-04,New Zealand
+1260102,New Zealand,England,"The Cooper Associates County Ground, Taunton",2021-09-09,England
+1262917,Ireland,Scotland,"Civil Service Cricket Club, Stormont, Belfast",2021-05-25,Ireland
+1262918,Scotland,Ireland,"Civil Service Cricket Club, Stormont, Belfast",2021-05-24,Scotland
+1262919,Ireland,Scotland,"Civil Service Cricket Club, Stormont, Belfast",2021-05-26,Ireland
+1262920,Scotland,Ireland,"Civil Service Cricket Club, Stormont, Belfast",2021-05-27,Ireland
+1263572,England,Australia,Adelaide Oval,2022-01-20,Australia
+1263573,England,Australia,Adelaide Oval,2022-01-22,
+1263621,India,Australia,Carrara Oval,2021-10-07,
+1263622,India,Australia,Carrara Oval,2021-10-09,Australia
+1263623,Australia,India,Carrara Oval,2021-10-10,Australia
+1265214,Nigeria,Namibia,Gahanga International Cricket Stadium. Rwanda,2021-06-06,Namibia
+1265215,Botswana,Kenya,Gahanga International Cricket Stadium. Rwanda,2021-06-07,Kenya
+1265216,Namibia,Rwanda,Gahanga International Cricket Stadium. Rwanda,2021-06-07,Namibia
+1265218,Namibia,Botswana,Gahanga International Cricket Stadium. Rwanda,2021-06-08,Namibia
+1265220,Rwanda,Nigeria,Gahanga International Cricket Stadium. Rwanda,2021-06-09,Rwanda
+1265221,Kenya,Rwanda,Gahanga International Cricket Stadium. Rwanda,2021-06-10,Kenya
+1265222,Botswana,Nigeria,Gahanga International Cricket Stadium. Rwanda,2021-06-10,Nigeria
+1265223,Namibia,Nigeria,Gahanga International Cricket Stadium. Rwanda,2021-06-11,Namibia
+1265224,Kenya,Rwanda,Gahanga International Cricket Stadium. Rwanda,2021-06-11,Kenya
+1265225,Rwanda,Nigeria,Gahanga International Cricket Stadium. Rwanda,2021-06-12,Rwanda
+1265226,Namibia,Kenya,Gahanga International Cricket Stadium. Rwanda,2021-06-12,Kenya
+1267322,West Indies,Pakistan,"Sir Vivian Richards Stadium, North Sound, Antigua",2021-06-30,West Indies
+1267323,West Indies,Pakistan,"Coolidge Cricket Ground, Antigua",2021-07-02,West Indies
+1267324,Pakistan,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",2021-07-04,West Indies
+1268747,France,Germany,Bayer Uerdingen Cricket Ground,2021-07-08,Germany
+1268748,France,Germany,Bayer Uerdingen Cricket Ground,2021-07-08,Germany
+1268749,Germany,France,Bayer Uerdingen Cricket Ground,2021-07-09,Germany
+1268757,Ireland,Netherlands,"The Village, Malahide, Dublin",2021-07-26,Ireland
+1268759,Netherlands,Ireland,"The Village, Malahide, Dublin",2021-07-29,Ireland
+1268760,Ireland,Netherlands,"The Village, Malahide, Dublin",2021-07-30,Netherlands
+1272900,Thailand,Zimbabwe,"Takashinga Sports Club, Highfield, Harare",2021-08-27,Zimbabwe
+1272901,Thailand,Zimbabwe,"Takashinga Sports Club, Highfield, Harare",2021-08-28,Thailand
+1272902,Thailand,Zimbabwe,"Takashinga Sports Club, Highfield, Harare",2021-08-30,Thailand
+1273415,South Africa,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",2021-08-31,
+1273416,South Africa,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",2021-09-02,South Africa
+1273417,South Africa,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",2021-09-04,West Indies
+1274595,Netherlands,Scotland,La Manga Club Top Ground,2021-08-26,Scotland
+1274596,Ireland,Germany,La Manga Club Bottom Ground,2021-08-26,Ireland
+1274597,France,Netherlands,La Manga Club Top Ground,2021-08-26,Netherlands
+1274600,France,Germany,La Manga Club Bottom Ground,2021-08-27,Germany
+1274601,Ireland,Scotland,La Manga Club Top Ground,2021-08-27,Scotland
+1274602,Germany,Netherlands,La Manga Club Bottom Ground,2021-08-27,Netherlands
+1274604,France,Ireland,La Manga Club Bottom Ground,2021-08-29,Ireland
+1274606,France,Scotland,La Manga Club Bottom Ground,2021-08-30,Scotland
+1274608,Germany,Scotland,La Manga Club Top Ground,2021-08-29,Scotland
+1274609,Ireland,Netherlands,La Manga Club Top Ground,2021-08-30,Ireland
+1275074,Norway,Sweden,Guttsta Wicked Cricket Club,2021-08-29,Sweden
+1275104,Mozambique,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2021-09-09,Rwanda
+1275106,Botswana,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2021-09-09,Botswana
+1275107,Sierra Leone,Nigeria,"Botswana Cricket Association Oval 2, Gaborone",2021-09-09,Nigeria
+1275108,Tanzania,Zimbabwe,"Botswana Cricket Association Oval 1, Gaborone",2021-09-10,Zimbabwe
+1275110,Botswana,Mozambique,"Botswana Cricket Association Oval 1, Gaborone",2021-09-10,Botswana
+1275111,Namibia,Nigeria,"Botswana Cricket Association Oval 2, Gaborone",2021-09-10,Namibia
+1275112,Eswatini,Zimbabwe,"Botswana Cricket Association Oval 1, Gaborone",2021-09-11,Zimbabwe
+1275113,Cameroon,Sierra Leone,"Botswana Cricket Association Oval 2, Gaborone",2021-09-15,Sierra Leone
+1275114,Tanzania,Mozambique,"Botswana Cricket Association Oval 1, Gaborone",2021-09-11,Tanzania
+1275115,Uganda,Nigeria,"Botswana Cricket Association Oval 2, Gaborone",2021-09-11,Uganda
+1275116,Rwanda,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2021-09-12,Rwanda
+1275118,Tanzania,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2021-09-13,Tanzania
+1275122,Tanzania,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2021-09-14,Tanzania
+1275125,Sierra Leone,Uganda,"Botswana Cricket Association Oval 2, Gaborone",2021-09-14,Uganda
+1275126,Mozambique,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2021-09-16,Mozambique
+1275127,Zimbabwe,Rwanda,"Botswana Cricket Association Oval 2, Gaborone",2021-09-16,Zimbabwe
+1275128,Botswana,Tanzania,"Botswana Cricket Association Oval 1, Gaborone",2021-09-16,Tanzania
+1275129,Zimbabwe,Uganda,"Botswana Cricket Association Oval 1, Gaborone",2021-09-17,Zimbabwe
+1275131,Uganda,Tanzania,"Botswana Cricket Association Oval 1, Gaborone",2021-09-19,Tanzania
+1275132,Zimbabwe,Namibia,"Botswana Cricket Association Oval 1, Gaborone",2021-09-19,Zimbabwe
+1282929,Argentina,Brazil,"Reforma Athletic Club, Naucalpan",2021-10-19,Brazil
+1282930,Canada,United States of America,"Reforma Athletic Club, Naucalpan",2021-10-19,United States of America
+1282935,Canada,United States of America,"Reforma Athletic Club, Naucalpan",2021-10-24,Canada
+1286968,United Arab Emirates,Malaysia,"ICC Academy, Dubai",2021-11-22,United Arab Emirates
+1286970,Bhutan,Kuwait,"ICC Academy, Dubai",2021-11-22,Bhutan
+1286971,United Arab Emirates,Hong Kong,"ICC Academy, Dubai",2021-11-23,United Arab Emirates
+1286972,Malaysia,Kuwait,"ICC Academy, Dubai",2021-11-23,Malaysia
+1286973,Bhutan,Nepal,"ICC Academy Ground No 2, Dubai",2021-11-23,Nepal
+1286974,Malaysia,Hong Kong,"ICC Academy Ground No 2, Dubai",2021-11-25,Hong Kong
+1286975,Kuwait,Nepal,"ICC Academy, Dubai",2021-11-25,Nepal
+1286976,United Arab Emirates,Bhutan,"ICC Academy Ground No 2, Dubai",2021-11-25,United Arab Emirates
+1286978,Hong Kong,Bhutan,"ICC Academy, Dubai",2021-11-26,Hong Kong
+1286979,Kuwait,United Arab Emirates,"ICC Academy Ground No 2, Dubai",2021-11-26,United Arab Emirates
+1286980,United Arab Emirates,Nepal,"ICC Academy Ground No 2, Dubai",2021-11-28,United Arab Emirates
+1286981,Malaysia,Bhutan,"ICC Academy, Dubai",2021-11-28,Malaysia
+1286982,Hong Kong,Kuwait,"ICC Academy, Dubai",2021-11-28,Hong Kong
+1289031,New Zealand,India,"John Davies Oval, Queenstown",2022-02-09,New Zealand
+1289259,India,Australia,"Edgbaston, Birmingham",2022-07-29,Australia
+1289260,Barbados,Pakistan,"Edgbaston, Birmingham",2022-07-29,Barbados
+1289261,New Zealand,South Africa,"Edgbaston, Birmingham",2022-07-30,New Zealand
+1289262,Sri Lanka,England,"Edgbaston, Birmingham",2022-07-30,England
+1289263,Pakistan,India,"Edgbaston, Birmingham",2022-07-31,India
+1289264,Barbados,Australia,"Edgbaston, Birmingham",2022-07-31,Australia
+1289265,England,South Africa,"Edgbaston, Birmingham",2022-08-02,England
+1289266,New Zealand,Sri Lanka,"Edgbaston, Birmingham",2022-08-02,New Zealand
+1289267,Australia,Pakistan,"Edgbaston, Birmingham",2022-08-03,Australia
+1289268,India,Barbados,"Edgbaston, Birmingham",2022-08-03,India
+1289269,Sri Lanka,South Africa,"Edgbaston, Birmingham",2022-08-04,South Africa
+1289270,New Zealand,England,"Edgbaston, Birmingham",2022-08-04,England
+1289271,India,England,"Edgbaston, Birmingham",2022-08-06,India
+1289272,New Zealand,Australia,"Edgbaston, Birmingham",2022-08-06,Australia
+1289273,England,New Zealand,"Edgbaston, Birmingham",2022-08-07,New Zealand
+1289274,Australia,India,"Edgbaston, Birmingham",2022-08-07,Australia
+1289284,Nepal,Qatar,"West End Park International Cricket Stadium, Doha",2021-11-16,Nepal
+1289285,Nepal,Qatar,"West End Park International Cricket Stadium, Doha",2021-11-17,Nepal
+1289286,Nepal,Qatar,"West End Park International Cricket Stadium, Doha",2021-11-18,Nepal
+1296027,Malaysia,Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",2022-01-18,Bangladesh
+1296028,Sri Lanka,Scotland,"Kinrara Academy Oval, Kuala Lumpur",2022-01-18,Sri Lanka
+1296029,Bangladesh,Kenya,"Kinrara Academy Oval, Kuala Lumpur",2022-01-19,Bangladesh
+1296030,Scotland,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",2022-01-19,Scotland
+1296031,Kenya,Sri Lanka,"Kinrara Academy Oval, Kuala Lumpur",2022-01-20,Sri Lanka
+1296032,Scotland,Kenya,"Kinrara Academy Oval, Kuala Lumpur",2022-01-22,Scotland
+1296033,Sri Lanka,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",2022-01-22,Sri Lanka
+1296034,Scotland,Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",2022-01-23,Bangladesh
+1296035,Kenya,Malaysia,"Kinrara Academy Oval, Kuala Lumpur",2022-01-23,Malaysia
+1296036,Sri Lanka,Bangladesh,"Kinrara Academy Oval, Kuala Lumpur",2022-01-24,Sri Lanka
+1301331,South Africa,England,"County Ground, Chelmsford",2022-07-21,England
+1301332,South Africa,England,"County Ground, New Road, Worcester",2022-07-23,England
+1301333,England,South Africa,"County Ground, Derby",2022-07-25,England
+1301334,India,England,"Riverside Ground, Chester-le-Street",2022-09-10,England
+1301335,England,India,"County Ground, Derby",2022-09-13,India
+1301336,India,England,"County Ground, Bristol",2022-09-15,England
+1306384,Qatar,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-20,United Arab Emirates
+1306385,Saudi Arabia,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-20,Kuwait
+1306386,Qatar,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-21,Qatar
+1306387,Oman,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-21,Oman
+1306388,United Arab Emirates,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-21,United Arab Emirates
+1306389,Bahrain,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-22,Bahrain
+1306390,Qatar,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-22,Kuwait
+1306391,United Arab Emirates,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-22,United Arab Emirates
+1306392,Oman,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-03-24,Oman
+1306393,Saudi Arabia,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-24,United Arab Emirates
+1306394,Qatar,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-03-25,Qatar
+1306395,Kuwait,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-25,Bahrain
+1306396,Oman,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2022-03-26,Oman
+1306397,United Arab Emirates,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2022-03-26,United Arab Emirates
+1308236,Pakistan,Ireland,"Gaddafi Stadium, Lahore",2022-11-12,Ireland
+1308237,Ireland,Pakistan,"Gaddafi Stadium, Lahore",2022-11-14,Pakistan
+1308238,Ireland,Pakistan,"Gaddafi Stadium, Lahore",2022-11-16,Ireland
+1310887,Zimbabwe,Uganda,"Centre for Cricket Development Ground, Windhoek",2022-04-21,Zimbabwe
+1310888,Zimbabwe,Namibia,"Centre for Cricket Development Ground, Windhoek",2022-04-20,Namibia
+1310889,Namibia,Uganda,"Centre for Cricket Development Ground, Windhoek",2022-04-21,Namibia
+1310890,Zimbabwe,Uganda,"Centre for Cricket Development Ground, Windhoek",2022-04-22,Zimbabwe
+1310891,Namibia,Zimbabwe,"Centre for Cricket Development Ground, Windhoek",2022-04-23,Zimbabwe
+1310892,Namibia,Uganda,"Centre for Cricket Development Ground, Windhoek",2022-04-23,Namibia
+1310893,Zimbabwe,Uganda,"Centre for Cricket Development Ground, Windhoek",2022-04-24,Zimbabwe
+1310894,Zimbabwe,Namibia,"Centre for Cricket Development Ground, Windhoek",2022-04-24,Zimbabwe
+1310895,Uganda,Namibia,"Centre for Cricket Development Ground, Windhoek",2022-04-25,Namibia
+1310896,Namibia,Zimbabwe,"Centre for Cricket Development Ground, Windhoek",2022-04-26,Zimbabwe
+1310981,Sri Lanka,Pakistan,"Southend Club Cricket Stadium, Karachi",2022-05-24,Pakistan
+1310982,Sri Lanka,Pakistan,"Southend Club Cricket Stadium, Karachi",2022-05-26,Pakistan
+1310983,Sri Lanka,Pakistan,"Southend Club Cricket Stadium, Karachi",2022-05-28,Pakistan
+1311744,Hong Kong,United Arab Emirates,"Malek Cricket Ground, Ajman",2022-04-27,United Arab Emirates
+1311745,United Arab Emirates,Hong Kong,"Malek Cricket Ground, Ajman",2022-04-28,United Arab Emirates
+1311746,United Arab Emirates,Hong Kong,"Malek Cricket Ground, Ajman",2022-04-29,United Arab Emirates
+1311747,Hong Kong,United Arab Emirates,"Malek Cricket Ground, Ajman",2022-04-30,United Arab Emirates
+1314897,Uganda,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2022-05-16,Uganda
+1314898,Nepal,Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",2022-05-17,Uganda
+1314899,Nepal,Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",2022-05-19,Uganda
+1314900,Nepal,Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",2022-05-20,Nepal
+1314901,Nepal,Uganda,"Tribhuvan University International Cricket Ground, Kirtipur",2022-05-21,Nepal
+1316642,Ireland,South Africa,"Pembroke Cricket Club, Sandymount, Dublin",2022-06-03,Ireland
+1316643,Ireland,South Africa,"Pembroke Cricket Club, Sandymount, Dublin",2022-06-06,South Africa
+1316644,Ireland,South Africa,"Pembroke Cricket Club, Sandymount, Dublin",2022-06-08,South Africa
+1317635,Pakistan,Australia,"Bready Cricket Club, Magheramason, Bready",2022-07-16,
+1317636,Ireland,Australia,"Bready Cricket Club, Magheramason, Bready",2022-07-17,Australia
+1317637,Pakistan,Ireland,"Bready Cricket Club, Magheramason, Bready",2022-07-19,Pakistan
+1317638,Australia,Ireland,"Bready Cricket Club, Magheramason, Bready",2022-07-21,Australia
+1317639,Pakistan,Australia,"Bready Cricket Club, Magheramason, Bready",2022-07-23,
+1318373,Rwanda,Uganda,Gahanga International Cricket Stadium. Rwanda,2022-06-09,Uganda
+1318375,Brazil,Nigeria,Gahanga International Cricket Stadium. Rwanda,2022-06-09,Nigeria
+1318376,Uganda,Kenya,Gahanga International Cricket Stadium. Rwanda,2022-06-10,Kenya
+1318377,Tanzania,Botswana,Integrated Polytechnic Regional Centre,2022-06-10,Tanzania
+1318378,Rwanda,Brazil,Gahanga International Cricket Stadium. Rwanda,2022-06-10,Rwanda
+1318379,Germany,Nigeria,Integrated Polytechnic Regional Centre,2022-06-10,Nigeria
+1318380,Brazil,Germany,Gahanga International Cricket Stadium. Rwanda,2022-06-11,Brazil
+1318381,Uganda,Tanzania,Integrated Polytechnic Regional Centre,2022-06-11,Tanzania
+1318382,Rwanda,Kenya,Gahanga International Cricket Stadium. Rwanda,2022-06-11,Kenya
+1318383,Botswana,Nigeria,Integrated Polytechnic Regional Centre,2022-06-11,Nigeria
+1318393,Botswana,Rwanda,Gahanga International Cricket Stadium. Rwanda,2022-06-15,Rwanda
+1318394,Uganda,Germany,Integrated Polytechnic Regional Centre,2022-06-15,Uganda
+1318395,Nigeria,Tanzania,Gahanga International Cricket Stadium. Rwanda,2022-06-15,Tanzania
+1318396,Kenya,Brazil,Integrated Polytechnic Regional Centre,2022-06-15,Kenya
+1318404,Tanzania,Kenya,Gahanga International Cricket Stadium. Rwanda,2022-06-18,Tanzania
+1319709,India,Sri Lanka,Rangiri Dambulla International Stadium,2022-06-23,India
+1319710,Sri Lanka,India,Rangiri Dambulla International Stadium,2022-06-25,India
+1319711,India,Sri Lanka,Rangiri Dambulla International Stadium,2022-06-27,Sri Lanka
+1320190,Malaysia,Singapore,"Kinrara Academy Oval, Kuala Lumpur",2022-06-17,Malaysia
+1320191,Nepal,Bhutan,"UKM-YSD Cricket Oval, Bangi",2022-06-17,Nepal
+1320192,Oman,United Arab Emirates,"UKM-YSD Cricket Oval, Bangi",2022-06-17,
+1320193,Bahrain,Kuwait,"Kinrara Academy Oval, Kuala Lumpur",2022-06-17,
+1320194,Singapore,United Arab Emirates,"Kinrara Academy Oval, Kuala Lumpur",2022-06-18,United Arab Emirates
+1320195,Hong Kong,Bhutan,"UKM-YSD Cricket Oval, Bangi",2022-06-18,Hong Kong
+1320196,Qatar,Malaysia,"UKM-YSD Cricket Oval, Bangi",2022-06-18,Malaysia
+1320197,Nepal,Kuwait,"Kinrara Academy Oval, Kuala Lumpur",2022-06-18,Nepal
+1320198,Bahrain,Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",2022-06-19,Hong Kong
+1320199,Oman,Qatar,"UKM-YSD Cricket Oval, Bangi",2022-06-19,Qatar
+1320200,United Arab Emirates,Malaysia,"UKM-YSD Cricket Oval, Bangi",2022-06-20,United Arab Emirates
+1320201,Bahrain,Nepal,"Kinrara Academy Oval, Kuala Lumpur",2022-06-20,Nepal
+1320202,Oman,Singapore,"Kinrara Academy Oval, Kuala Lumpur",2022-06-20,Singapore
+1320203,Singapore,Qatar,"UKM-YSD Cricket Oval, Bangi",2022-06-21,Qatar
+1320204,Bhutan,Kuwait,"Kinrara Academy Oval, Kuala Lumpur",2022-06-21,Kuwait
+1320205,Nepal,Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",2022-06-21,Hong Kong
+1320206,Malaysia,Oman,"Kinrara Academy Oval, Kuala Lumpur",2022-06-22,Malaysia
+1320207,Hong Kong,Kuwait,"UKM-YSD Cricket Oval, Bangi",2022-06-22,Hong Kong
+1320208,United Arab Emirates,Qatar,"Kinrara Academy Oval, Kuala Lumpur",2022-06-22,United Arab Emirates
+1320209,Bhutan,Bahrain,"UKM-YSD Cricket Oval, Bangi",2022-06-22,Bhutan
+1320210,United Arab Emirates,Nepal,"Kinrara Academy Oval, Kuala Lumpur",2022-06-24,
+1320211,Malaysia,Hong Kong,"Kinrara Academy Oval, Kuala Lumpur",2022-06-24,Malaysia
+1320212,Malaysia,United Arab Emirates,"Kinrara Academy Oval, Kuala Lumpur",2022-06-25,United Arab Emirates
+1320997,Jersey,Guernsey,"Grainville, St Saviour",2022-06-25,Jersey
+1321335,Netherlands,Namibia,"Sportpark Harga, Schiedam",2022-06-28,Netherlands
+1321336,Namibia,Netherlands,"Sportpark Westvliet, Voorburg",2022-06-30,Netherlands
+1321337,Netherlands,Namibia,"Sportpark Westvliet, Voorburg",2022-07-01,Netherlands
+1322018,Singapore,Malaysia,"Indian Association Ground, Singapore",2022-07-08,Malaysia
+1322019,Malaysia,Singapore,"Indian Association Ground, Singapore",2022-07-09,Malaysia
+1322020,Malaysia,Singapore,"Indian Association Ground, Singapore",2022-07-10,Malaysia
+1322176,Netherlands,Namibia,"Sportpark Westvliet, Voorburg",2022-06-30,Namibia
+1329247,Zimbabwe,United Arab Emirates,"ICC Academy, Dubai",2022-09-12,Zimbabwe
+1329250,United States of America,United Arab Emirates,"ICC Academy, Dubai",2022-09-13,United States of America
+1330807,Scotland,Ireland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2022-09-05,Ireland
+1330808,Scotland,Ireland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2022-09-06,Ireland
+1331384,United Arab Emirates,Thailand,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-18,Thailand
+1331385,Bangladesh,Ireland,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-18,Bangladesh
+1331386,Papua New Guinea,Zimbabwe,"Tolerance Oval, Abu Dhabi",2022-09-18,Zimbabwe
+1331387,Scotland,United States of America,"Tolerance Oval, Abu Dhabi",2022-09-18,Scotland
+1331388,Thailand,Zimbabwe,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-19,Zimbabwe
+1331389,Scotland,Bangladesh,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-19,Bangladesh
+1331390,Papua New Guinea,United Arab Emirates,"Tolerance Oval, Abu Dhabi",2022-09-19,Papua New Guinea
+1331391,United States of America,Ireland,"Tolerance Oval, Abu Dhabi",2022-09-19,Ireland
+1331392,Bangladesh,United States of America,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-21,Bangladesh
+1331394,Ireland,Scotland,"Tolerance Oval, Abu Dhabi",2022-09-21,Ireland
+1331395,Zimbabwe,United Arab Emirates,"Tolerance Oval, Abu Dhabi",2022-09-21,United Arab Emirates
+1331396,Ireland,Zimbabwe,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-23,Ireland
+1331397,Scotland,United Arab Emirates,"Tolerance Oval, Abu Dhabi",2022-09-23,Scotland
+1331398,Bangladesh,Thailand,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-23,Bangladesh
+1331399,United States of America,Papua New Guinea,"Tolerance Oval, Abu Dhabi",2022-09-23,Papua New Guinea
+1331400,Zimbabwe,Thailand,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-25,Zimbabwe
+1331401,Bangladesh,Ireland,"Sheikh Zayed Stadium, Abu Dhabi",2022-09-25,Bangladesh
+1331402,United States of America,United Arab Emirates,"Tolerance Oval, Abu Dhabi",2022-09-25,United Arab Emirates
+1331403,Scotland,Papua New Guinea,"Tolerance Oval, Abu Dhabi",2022-09-25,Papua New Guinea
+1334415,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-09-28,West Indies
+1334416,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-10-01,New Zealand
+1334417,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-10-02,New Zealand
+1334418,New Zealand,West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-10-05,
+1334419,West Indies,New Zealand,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-10-06,New Zealand
+1335785,Thailand,Bangladesh,"Sylhet International Cricket Stadium, Academy Ground",2022-10-01,Bangladesh
+1335786,India,Sri Lanka,"Sylhet International Cricket Stadium, Academy Ground",2022-10-01,India
+1335787,Malaysia,Pakistan,"Sylhet International Cricket Stadium, Academy Ground",2022-10-02,Pakistan
+1335788,Sri Lanka,United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",2022-10-02,Sri Lanka
+1335789,Bangladesh,Pakistan,"Sylhet International Cricket Stadium, Academy Ground",2022-10-03,Pakistan
+1335790,India,Malaysia,"Sylhet International Cricket Stadium, Academy Ground",2022-10-03,India
+1335791,Sri Lanka,Thailand,"Sylhet International Cricket Stadium, Academy Ground",2022-10-04,Sri Lanka
+1335792,India,United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",2022-10-04,India
+1335793,Malaysia,United Arab Emirates,"Sylhet International Cricket Stadium, Academy Ground",2022-10-05,United Arab Emirates
+1335794,Pakistan,Thailand,Sylhet International Cricket Stadium,2022-10-06,Thailand
+1335795,Bangladesh,Malaysia,Sylhet International Cricket Stadium,2022-10-06,Bangladesh
+1335796,Thailand,United Arab Emirates,Sylhet International Cricket Stadium,2022-10-07,Thailand
+1335797,Pakistan,India,Sylhet International Cricket Stadium,2022-10-07,Pakistan
+1335798,Sri Lanka,Malaysia,Sylhet International Cricket Stadium,2022-10-08,Sri Lanka
+1335799,India,Bangladesh,Sylhet International Cricket Stadium,2022-10-08,India
+1335800,Thailand,Malaysia,Sylhet International Cricket Stadium,2022-10-09,Thailand
+1335801,Pakistan,United Arab Emirates,Sylhet International Cricket Stadium,2022-10-09,Pakistan
+1335802,Sri Lanka,Bangladesh,Sylhet International Cricket Stadium,2022-10-10,Sri Lanka
+1335803,Thailand,India,Sylhet International Cricket Stadium,2022-10-10,India
+1335805,Sri Lanka,Pakistan,Sylhet International Cricket Stadium,2022-10-11,Pakistan
+1335806,India,Thailand,Sylhet International Cricket Stadium,2022-10-13,India
+1335807,Sri Lanka,Pakistan,Sylhet International Cricket Stadium,2022-10-13,Sri Lanka
+1335808,Sri Lanka,India,Sylhet International Cricket Stadium,2022-10-15,India
+1336074,England,Australia,"Edgbaston, Birmingham",2023-07-01,Australia
+1336075,England,Australia,"Kennington Oval, London",2023-07-05,England
+1336076,Australia,England,"Lord's, London",2023-07-08,England
+1336080,England,Sri Lanka,"County Ground, Hove",2023-08-31,England
+1336081,England,Sri Lanka,"County Ground, Chelmsford",2023-09-02,Sri Lanka
+1336082,England,Sri Lanka,"County Ground, Derby",2023-09-06,Sri Lanka
+1336979,Japan,Hong Kong,Kaizuka Cricket Ground,2022-10-27,Hong Kong
+1336980,Japan,Hong Kong,Kaizuka Cricket Ground,2022-10-28,Hong Kong
+1336981,Hong Kong,Japan,Kaizuka Cricket Ground,2022-10-29,Hong Kong
+1336982,Hong Kong,Japan,Kaizuka Cricket Ground,2022-10-30,
+1338040,Sri Lanka,South Africa,"Newlands, Cape Town",2023-02-10,Sri Lanka
+1338041,West Indies,England,"Boland Park, Paarl",2023-02-11,England
+1338042,Australia,New Zealand,"Boland Park, Paarl",2023-02-11,Australia
+1338043,Pakistan,India,"Newlands, Cape Town",2023-02-12,India
+1338044,Bangladesh,Sri Lanka,"Newlands, Cape Town",2023-02-12,Sri Lanka
+1338045,Ireland,England,"Boland Park, Paarl",2023-02-13,England
+1338046,South Africa,New Zealand,"Boland Park, Paarl",2023-02-13,South Africa
+1338047,Bangladesh,Australia,"St George's Park, Gqeberha",2023-02-14,Australia
+1338048,West Indies,India,"Newlands, Cape Town",2023-02-15,India
+1338049,Pakistan,Ireland,"Newlands, Cape Town",2023-02-15,Pakistan
+1338050,Sri Lanka,Australia,"St George's Park, Gqeberha",2023-02-16,Australia
+1338051,New Zealand,Bangladesh,"Newlands, Cape Town",2023-02-17,New Zealand
+1338052,Ireland,West Indies,"Newlands, Cape Town",2023-02-17,West Indies
+1338053,England,India,"St George's Park, Gqeberha",2023-02-18,England
+1338054,South Africa,Australia,"St George's Park, Gqeberha",2023-02-18,Australia
+1338055,West Indies,Pakistan,"Boland Park, Paarl",2023-02-19,West Indies
+1338056,New Zealand,Sri Lanka,"Boland Park, Paarl",2023-02-19,New Zealand
+1338057,India,Ireland,"St George's Park, Gqeberha",2023-02-20,India
+1338058,England,Pakistan,"Newlands, Cape Town",2023-02-21,England
+1338059,Bangladesh,South Africa,"Newlands, Cape Town",2023-02-21,South Africa
+1338060,Australia,India,"Newlands, Cape Town",2023-02-23,Australia
+1338061,South Africa,England,"Newlands, Cape Town",2023-02-24,South Africa
+1338062,Australia,South Africa,"Newlands, Cape Town",2023-02-26,Australia
+1339555,Spain,Norway,"Desert Springs Cricket Ground, Almeria",2022-11-13,Spain
+1339558,Spain,Sweden,"Desert Springs Cricket Ground, Almeria",2022-11-14,Spain
+1343934,West Indies,England,"Sir Vivian Richards Stadium, North Sound, Antigua",2022-12-11,England
+1343935,England,West Indies,"Kensington Oval, Bridgetown, Barbados",2022-12-14,England
+1343936,England,West Indies,"Kensington Oval, Bridgetown, Barbados",2022-12-17,England
+1343937,England,West Indies,"Kensington Oval, Bridgetown, Barbados",2022-12-18,England
+1343938,West Indies,England,"Kensington Oval, Bridgetown, Barbados",2022-12-22,England
+1344507,Netherlands,Thailand,Royal Chiangmai Golf Club,2022-11-29,Thailand
+1344508,Thailand,Netherlands,Royal Chiangmai Golf Club,2022-11-30,Netherlands
+1344509,Netherlands,Thailand,Royal Chiangmai Golf Club,2022-12-02,Thailand
+1344510,Thailand,Netherlands,Royal Chiangmai Golf Club,2022-12-03,Thailand
+1344511,India,South Africa,"Buffalo Park, East London",2023-01-19,India
+1344512,South Africa,West Indies,"Buffalo Park, East London",2023-01-21,South Africa
+1344513,India,West Indies,"Buffalo Park, East London",2023-01-23,India
+1344514,West Indies,South Africa,"Buffalo Park, East London",2023-01-25,South Africa
+1344515,India,South Africa,"Buffalo Park, East London",2023-01-28,
+1344516,West Indies,India,"Buffalo Park, East London",2023-01-30,India
+1344517,India,South Africa,"Buffalo Park, East London",2023-02-02,South Africa
+1344619,New Zealand,Bangladesh,"Hagley Oval, Christchurch",2022-12-02,New Zealand
+1344620,New Zealand,Bangladesh,"University Oval, Dunedin",2022-12-04,New Zealand
+1344621,New Zealand,Bangladesh,"John Davies Oval, Queenstown",2022-12-07,New Zealand
+1345095,Pakistan,Australia,"North Sydney Oval, Sydney",2023-01-24,Australia
+1345096,Pakistan,Australia,"Bellerive Oval, Hobart",2023-01-26,Australia
+1345424,India,Australia,"Dr DY Patil Sports Academy, Mumbai",2022-12-09,Australia
+1345425,Australia,India,"Dr DY Patil Sports Academy, Mumbai",2022-12-11,
+1345426,Australia,India,"Brabourne Stadium, Mumbai",2022-12-14,Australia
+1345427,Australia,India,"Brabourne Stadium, Mumbai",2022-12-17,Australia
+1345428,Australia,India,"Brabourne Stadium, Mumbai",2022-12-20,Australia
+1346539,Qatar,Kenya,"Gymkhana Club Ground, Nairobi",2022-12-15,Kenya
+1346543,Kenya,Uganda,"Gymkhana Club Ground, Nairobi",2022-12-18,Uganda
+1346545,Tanzania,Kenya,"Gymkhana Club Ground, Nairobi",2022-12-19,Kenya
+1349150,Tanzania,Qatar,"Gymkhana Club Ground, Nairobi",2022-12-18,Tanzania
+1349151,Tanzania,Qatar,"Gymkhana Club Ground, Nairobi",2022-12-21,Tanzania
+1349152,Kenya,Uganda,"Gymkhana Club Ground, Nairobi",2022-12-21,Uganda
+1355838,Singapore,Cambodia,Morodok Techo National Stadium,2023-02-09,Singapore
+1355839,Cambodia,Singapore,Morodok Techo National Stadium,2023-02-10,Singapore
+1355840,Cambodia,Singapore,Morodok Techo National Stadium,2023-02-11,Singapore
+1355841,Cambodia,Singapore,Morodok Techo National Stadium,2023-02-12,Singapore
+1365310,Rwanda,Ghana,Tafawa Balewa Square (TBS) Cricket Oval,2023-03-27,Rwanda
+1365321,Zimbabwe,Thailand,"Terdthai Cricket Ground, Bangkok",2023-04-25,Zimbabwe
+1365322,Zimbabwe,Thailand,"Terdthai Cricket Ground, Bangkok",2023-04-27,Thailand
+1365323,Zimbabwe,Thailand,"Terdthai Cricket Ground, Bangkok",2023-04-28,Thailand
+1370902,United Arab Emirates,Uganda,"United Cricket Club Ground, Windhoek",2023-04-25,United Arab Emirates
+1370903,Namibia,Hong Kong,"United Cricket Club Ground, Windhoek",2023-04-25,Namibia
+1370904,United Arab Emirates,Hong Kong,"United Cricket Club Ground, Windhoek",2023-04-26,Hong Kong
+1370905,Hong Kong,Uganda,"United Cricket Club Ground, Windhoek",2023-04-27,Uganda
+1370906,United Arab Emirates,Namibia,"United Cricket Club Ground, Windhoek",2023-04-27,Namibia
+1370908,Namibia,Uganda,"United Cricket Club Ground, Windhoek",2023-04-29,Namibia
+1370910,Namibia,United Arab Emirates,"United Cricket Club Ground, Windhoek",2023-04-30,Namibia
+1370911,United Arab Emirates,Hong Kong,"United Cricket Club Ground, Windhoek",2023-05-01,United Arab Emirates
+1370912,Namibia,Uganda,"United Cricket Club Ground, Windhoek",2023-05-01,Uganda
+1370914,Uganda,Namibia,"United Cricket Club Ground, Windhoek",2023-05-02,Uganda
+1371604,Sri Lanka,Bangladesh,"Sinhalese Sports Club Ground, Colombo",2023-05-09,Bangladesh
+1371605,Bangladesh,Sri Lanka,"Sinhalese Sports Club Ground, Colombo",2023-05-11,Sri Lanka
+1371606,Sri Lanka,Bangladesh,"Sinhalese Sports Club Ground, Colombo",2023-05-12,Sri Lanka
+1375863,West Indies,Australia,"North Sydney Oval, Sydney",2023-10-01,Australia
+1375864,Australia,West Indies,"North Sydney Oval, Sydney",2023-10-02,West Indies
+1375865,Australia,West Indies,"Allan Border Field, Brisbane",2023-10-05,Australia
+1375869,South Africa,Australia,"Manuka Oval, Canberra",2024-01-27,Australia
+1375870,Australia,South Africa,"Manuka Oval, Canberra",2024-01-28,South Africa
+1375871,South Africa,Australia,"Bellerive Oval, Hobart",2024-01-30,Australia
+1376121,Nepal,Malaysia,"YSD-UKM Cricket Oval, Bangi",2023-05-29,Malaysia
+1376122,Malaysia,Nepal,"YSD-UKM Cricket Oval, Bangi",2023-05-30,Nepal
+1376123,Nepal,Malaysia,"YSD-UKM Cricket Oval, Bangi",2023-06-01,Nepal
+1376124,Nepal,Malaysia,"YSD-UKM Cricket Oval, Bangi",2023-06-03,Malaysia
+1376125,Malaysia,Nepal,"YSD-UKM Cricket Oval, Bangi",2023-06-04,Nepal
+1378006,Italy,Jersey,"Grainville, St Saviour, Jersey",2023-05-29,Jersey
+1378007,Turkey,Sweden,"FB Fields, St Clement",2023-05-29,Sweden
+1378008,France,Italy,"Grainville, St Saviour, Jersey",2023-05-29,Italy
+1378010,Jersey,Germany,"Grainville, St Saviour, Jersey",2023-05-30,Germany
+1378011,France,Sweden,"FB Fields, St Clement",2023-05-30,France
+1378012,Turkey,Jersey,"Grainville, St Saviour, Jersey",2023-05-30,Jersey
+1378014,Germany,Italy,"Grainville, St Saviour, Jersey",2023-06-01,Italy
+1378015,France,Turkey,"FB Fields, St Clement",2023-06-01,France
+1378016,Sweden,Germany,"Grainville, St Saviour, Jersey",2023-06-01,Germany
+1378017,France,Jersey,"FB Fields, St Clement",2023-06-01,France
+1378018,Italy,Turkey,"Grainville, St Saviour, Jersey",2023-06-02,Italy
+1378019,Jersey,Sweden,"FB Fields, St Clement",2023-06-02,Jersey
+1378020,France,Germany,"Grainville, St Saviour, Jersey",2023-06-02,France
+1378194,Ireland,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2023-07-04,West Indies
+1378195,Ireland,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2023-07-06,West Indies
+1378196,Ireland,West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2023-07-08,West Indies
+1378200,Netherlands,Ireland,"VRA Ground, Amstelveen",2023-08-14,Ireland
+1378201,Ireland,Netherlands,"VRA Ground, Amstelveen",2023-08-16,Ireland
+1378202,Netherlands,Ireland,"VRA Ground, Amstelveen",2023-08-17,Ireland
+1379695,Malaysia,United Arab Emirates,"Mission Road Ground, Mong Kok, Hong Kong",2023-06-14,United Arab Emirates
+1379760,Sri Lanka,New Zealand,"P Sara Oval, Colombo",2023-07-08,New Zealand
+1379761,Sri Lanka,New Zealand,"P Sara Oval, Colombo",2023-07-10,New Zealand
+1379762,New Zealand,Sri Lanka,"P Sara Oval, Colombo",2023-07-12,Sri Lanka
+1382160,South Africa,Pakistan,"National Stadium, Karachi",2023-09-01,Pakistan
+1382161,South Africa,Pakistan,"National Stadium, Karachi",2023-09-03,Pakistan
+1382162,Pakistan,South Africa,"National Stadium, Karachi",2023-09-04,Pakistan
+1382163,Bangladesh,India,"Shere Bangla National Stadium, Mirpur",2023-07-09,India
+1382164,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",2023-07-11,India
+1382165,India,Bangladesh,"Shere Bangla National Stadium, Mirpur",2023-07-13,Bangladesh
+1384545,Scotland,Thailand,"Sportpark Maarschalkerweerd, Utrecht",2023-07-10,Thailand
+1384546,Thailand,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2023-07-11,Netherlands
+1384547,Scotland,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2023-07-12,Scotland
+1384548,Thailand,Scotland,"Sportpark Maarschalkerweerd, Utrecht",2023-07-13,Scotland
+1384549,Netherlands,Thailand,"Sportpark Maarschalkerweerd, Utrecht",2023-07-14,Thailand
+1384550,Scotland,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2023-07-15,Netherlands
+1387944,Greece,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-04,Isle of Man
+1387945,Malta,Greece,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-04,Greece
+1387946,Romania,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-04,Isle of Man
+1387947,Greece,Romania,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-05,Greece
+1387948,Malta,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-05,Isle of Man
+1387949,Romania,Malta,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-05,Romania
+1387951,Greece,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2023-08-06,Isle of Man
+1388196,New Zealand,Pakistan,"University Oval, Dunedin",2023-12-03,Pakistan
+1388197,Pakistan,New Zealand,"University Oval, Dunedin",2023-12-05,Pakistan
+1388198,Pakistan,New Zealand,"John Davies Oval, Queenstown",2023-12-09,New Zealand
+1388202,England,New Zealand,"University Oval, Dunedin",2024-03-19,England
+1388203,England,New Zealand,"Saxton Oval, Nelson",2024-03-22,England
+1388204,New Zealand,England,"Saxton Oval, Nelson",2024-03-24,New Zealand
+1388205,England,New Zealand,"Basin Reserve, Wellington",2024-03-27,England
+1388206,New Zealand,England,"Basin Reserve, Wellington",2024-03-29,England
+1391650,Singapore,Myanmar,"Indian Association Ground, Singapore",2023-08-24,Myanmar
+1391651,Singapore,Myanmar,"Indian Association Ground, Singapore",2023-08-26,Myanmar
+1391652,Singapore,Myanmar,Turf City B Cricket Ground,2023-08-27,Myanmar
+1391655,Denmark,Sweden,Tikkurila Cricket Ground,2023-08-25,Sweden
+1391658,Denmark,Sweden,Kerava National Cricket Ground,2023-08-26,Sweden
+1391707,Netherlands,Jersey,"Sportpark Maarschalkerweerd, Utrecht",2023-08-24,Netherlands
+1391708,Netherlands,Jersey,"Sportpark Maarschalkerweerd, Utrecht",2023-08-24,Netherlands
+1391709,Netherlands,Jersey,"Sportpark Maarschalkerweerd, Utrecht",2023-08-25,
+1392352,New Zealand,South Africa,"Buffalo Park, East London",2023-10-08,
+1392354,South Africa,New Zealand,"Willowmoore Park, Benoni",2023-10-14,New Zealand
+1392355,South Africa,New Zealand,"Willowmoore Park, Benoni",2023-10-15,South Africa
+1393590,Kuwait,Malaysia,"Bayuemas Oval, Kuala Lumpur",2023-08-22,Malaysia
+1393591,Hong Kong,Nepal,"Bayuemas Oval, Kuala Lumpur",2023-08-22,Nepal
+1393592,Malaysia,Hong Kong,"Bayuemas Oval, Kuala Lumpur",2023-08-23,Hong Kong
+1393593,Nepal,Kuwait,"Bayuemas Oval, Kuala Lumpur",2023-08-23,Nepal
+1393594,Hong Kong,Kuwait,"Bayuemas Oval, Kuala Lumpur",2023-08-25,Hong Kong
+1393595,Nepal,Malaysia,"Bayuemas Oval, Kuala Lumpur",2023-08-25,Malaysia
+1393597,Hong Kong,Nepal,"Bayuemas Oval, Kuala Lumpur",2023-08-26,Nepal
+1393876,Japan,Vanuatu,Vanuatu Cricket Ground,2023-08-28,Vanuatu
+1393877,Vanuatu,Japan,Vanuatu Cricket Ground,2023-08-30,Vanuatu
+1394751,Nepal,Malaysia,"Bayuemas Oval, Kuala Lumpur",2023-08-31,Nepal
+1394752,Qatar,Bahrain,"UKM-YSD Cricket Oval, Bangi",2023-08-31,Bahrain
+1394753,Bhutan,United Arab Emirates,"Selangor Turf Club, Kuala Lumpur",2023-08-31,United Arab Emirates
+1394754,Kuwait,China,"Bayuemas Oval, Kuala Lumpur",2023-08-31,Kuwait
+1394755,Myanmar,Hong Kong,"UKM-YSD Cricket Oval, Bangi",2023-08-31,Hong Kong
+1394757,China,Hong Kong,"Selangor Turf Club, Kuala Lumpur",2023-09-01,Hong Kong
+1394758,Qatar,Bhutan,"Bayuemas Oval, Kuala Lumpur",2023-09-01,Bhutan
+1394759,Malaysia,United Arab Emirates,"UKM-YSD Cricket Oval, Bangi",2023-09-01,United Arab Emirates
+1394760,Bahrain,Nepal,"Selangor Turf Club, Kuala Lumpur",2023-09-01,Nepal
+1394761,Malaysia,Bahrain,"Bayuemas Oval, Kuala Lumpur",2023-09-03,Malaysia
+1394762,Bhutan,Nepal,"UKM-YSD Cricket Oval, Bangi",2023-09-03,Nepal
+1394763,United Arab Emirates,Qatar,"Selangor Turf Club, Kuala Lumpur",2023-09-03,United Arab Emirates
+1394764,Kuwait,Hong Kong,"Bayuemas Oval, Kuala Lumpur",2023-09-03,Hong Kong
+1394765,China,Thailand,"UKM-YSD Cricket Oval, Bangi",2023-09-03,Thailand
+1394766,United Arab Emirates,Bahrain,"Bayuemas Oval, Kuala Lumpur",2023-09-04,United Arab Emirates
+1394767,Qatar,Nepal,"UKM-YSD Cricket Oval, Bangi",2023-09-04,Nepal
+1394768,Bhutan,Malaysia,"Selangor Turf Club, Kuala Lumpur",2023-09-04,Malaysia
+1394769,Myanmar,China,"UKM-YSD Cricket Oval, Bangi",2023-09-04,China
+1394770,Kuwait,Thailand,"Selangor Turf Club, Kuala Lumpur",2023-09-04,
+1394774,Kuwait,Myanmar,"Bayuemas Oval, Kuala Lumpur",2023-09-06,Kuwait
+1394775,Thailand,Hong Kong,"UKM-YSD Cricket Oval, Bangi",2023-09-06,Thailand
+1394776,United Arab Emirates,Hong Kong,"Bayuemas Oval, Kuala Lumpur",2023-09-08,United Arab Emirates
+1394777,Thailand,Nepal,"UKM-YSD Cricket Oval, Bangi",2023-09-08,Thailand
+1394778,United Arab Emirates,Thailand,"Bayuemas Oval, Kuala Lumpur",2023-09-09,United Arab Emirates
+1394792,Japan,Cook Islands,Vanuatu Cricket Ground,2023-09-01,Japan
+1394794,Papua New Guinea,Vanuatu,Vanuatu Cricket Ground,2023-09-01,Vanuatu
+1394795,Fiji,Samoa,Vanuatu Cricket Ground (Oval 2),2023-09-01,Fiji
+1394796,Papua New Guinea,Cook Islands,Vanuatu Cricket Ground,2023-09-02,Papua New Guinea
+1394797,Vanuatu,Indonesia,Vanuatu Cricket Ground (Oval 2),2023-09-07,Vanuatu
+1394798,Japan,Samoa,Vanuatu Cricket Ground (Oval 2),2023-09-02,Japan
+1394799,Samoa,Papua New Guinea,Vanuatu Cricket Ground,2023-09-04,Papua New Guinea
+1394800,Cook Islands,Vanuatu,Vanuatu Cricket Ground (Oval 2),2023-09-04,Vanuatu
+1394801,Indonesia,Cook Islands,Vanuatu Cricket Ground,2023-09-04,Indonesia
+1394802,Fiji,Japan,Vanuatu Cricket Ground (Oval 2),2023-09-04,Japan
+1394805,Samoa,Indonesia,Vanuatu Cricket Ground (Oval 2),2023-09-05,Indonesia
+1394806,Japan,Indonesia,Vanuatu Cricket Ground,2023-09-07,Indonesia
+1394807,Fiji,Papua New Guinea,Vanuatu Cricket Ground (Oval 2),2023-09-07,Papua New Guinea
+1394809,Samoa,Vanuatu,Vanuatu Cricket Ground,2023-09-08,Vanuatu
+1394810,Fiji,Cook Islands,Vanuatu Cricket Ground (Oval 2),2023-09-08,Cook Islands
+1394811,Papua New Guinea,Indonesia,Vanuatu Cricket Ground,2023-09-08,Papua New Guinea
+1394917,Kenya,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2023-09-02,Kenya
+1394918,Malawi,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2023-09-02,Malawi
+1394919,Mozambique,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2023-09-02,Mozambique
+1394920,Cameroon,Sierra Leone,"Botswana Cricket Association Oval 2, Gaborone",2023-09-02,Sierra Leone
+1394921,Malawi,Kenya,"Botswana Cricket Association Oval 1, Gaborone",2023-09-03,Kenya
+1394922,Botswana,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2023-09-03,Botswana
+1394923,Mozambique,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2023-09-03,Sierra Leone
+1394924,Cameroon,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2023-09-03,Cameroon
+1394925,Cameroon,Mozambique,"Botswana Cricket Association Oval 1, Gaborone",2023-09-05,Cameroon
+1394926,Sierra Leone,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2023-09-05,Sierra Leone
+1394927,Botswana,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2023-09-05,Botswana
+1394928,Kenya,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2023-09-05,Kenya
+1394929,Botswana,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2023-09-06,Botswana
+1394930,Kenya,Cameroon,"Botswana Cricket Association Oval 1, Gaborone",2023-09-06,Kenya
+1394931,Cameroon,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2023-09-08,Sierra Leone
+1394932,Botswana,Kenya,"Botswana Cricket Association Oval 1, Gaborone",2023-09-08,Kenya
+1395007,United States of America,Argentina,"Woodley Cricket Field, Los Angeles",2023-09-04,United States of America
+1395008,Canada,Brazil,"Woodley Cricket Field, Los Angeles",2023-09-04,Canada
+1395009,United States of America,Brazil,"Woodley Cricket Field, Los Angeles",2023-09-05,United States of America
+1395010,Canada,Argentina,"Woodley Cricket Field, Los Angeles",2023-09-05,Canada
+1395011,United States of America,Canada,"Woodley Cricket Field, Los Angeles",2023-09-07,United States of America
+1395012,Brazil,Argentina,"Woodley Cricket Field, Los Angeles",2023-09-07,Brazil
+1395013,Canada,Brazil,"Woodley Cricket Field, Los Angeles",2023-09-08,Canada
+1395014,United States of America,Argentina,"Woodley Cricket Field, Los Angeles",2023-09-08,United States of America
+1395015,Canada,Argentina,"Woodley Cricket Field, Los Angeles",2023-09-10,Canada
+1395016,Brazil,United States of America,"Woodley Cricket Field, Los Angeles",2023-09-10,United States of America
+1395017,Argentina,Brazil,"Woodley Cricket Field, Los Angeles",2023-09-11,Brazil
+1395018,United States of America,Canada,"Woodley Cricket Field, Los Angeles",2023-09-11,United States of America
+1395026,France,Netherlands,"Desert Springs Cricket Ground, Almeria",2023-09-06,Netherlands
+1395028,Netherlands,Scotland,"Desert Springs Cricket Ground, Almeria",2023-09-07,Netherlands
+1395029,Italy,France,"Desert Springs Cricket Ground, Almeria",2023-09-07,Italy
+1395030,Italy,Netherlands,"Desert Springs Cricket Ground, Almeria",2023-09-08,Netherlands
+1395031,France,Scotland,"Desert Springs Cricket Ground, Almeria",2023-09-08,Scotland
+1395032,Scotland,Italy,"Desert Springs Cricket Ground, Almeria",2023-09-10,Scotland
+1395033,France,Netherlands,"Desert Springs Cricket Ground, Almeria",2023-09-10,Netherlands
+1395035,Scotland,Netherlands,"Desert Springs Cricket Ground, Almeria",2023-09-11,Scotland
+1395036,Scotland,France,"Desert Springs Cricket Ground, Almeria",2023-09-12,Scotland
+1395037,Italy,Netherlands,"Desert Springs Cricket Ground, Almeria",2023-09-12,Netherlands
+1398254,Bangladesh,South Africa,"Willowmoore Park, Benoni",2023-12-03,Bangladesh
+1398255,Bangladesh,South Africa,"Diamond Oval, Kimberley",2023-12-06,
+1398256,Bangladesh,South Africa,"Diamond Oval, Kimberley",2023-12-08,South Africa
+1398261,South Africa,Sri Lanka,"Willowmoore Park, Benoni",2024-03-27,South Africa
+1398262,South Africa,Sri Lanka,"Senwes Park, Potchefstroom",2024-03-30,Sri Lanka
+1398263,South Africa,Sri Lanka,"Buffalo Park, East London",2024-04-03,Sri Lanka
+1398268,England,Pakistan,"Edgbaston, Birmingham",2024-05-11,England
+1398269,England,Pakistan,"County Ground, Northampton",2024-05-17,England
+1398270,England,Pakistan,"Headingley, Leeds",2024-05-19,England
+1398277,England,New Zealand,"The Rose Bowl, Southampton",2024-07-06,England
+1398278,England,New Zealand,"County Ground, Hove",2024-07-09,England
+1398279,New Zealand,England,"St Lawrence Ground, Canterbury",2024-07-11,England
+1398280,New Zealand,England,"Kennington Oval, London",2024-07-13,England
+1398281,England,New Zealand,"Lord's, London",2024-07-17,England
+1399055,India,Malaysia,Zhejiang University of Technology Cricket Field,2023-09-21,
+1399057,Thailand,Sri Lanka,Zhejiang University of Technology Cricket Field,2023-09-22,Sri Lanka
+1399059,Bangladesh,India,Zhejiang University of Technology Cricket Field,2023-09-24,India
+1399060,Pakistan,Sri Lanka,Zhejiang University of Technology Cricket Field,2023-09-24,Sri Lanka
+1399061,Pakistan,Bangladesh,Zhejiang University of Technology Cricket Field,2023-09-25,Bangladesh
+1399062,India,Sri Lanka,Zhejiang University of Technology Cricket Field,2023-09-25,India
+1400036,United Arab Emirates,Namibia,Dubai International Cricket Stadium,2023-09-26,United Arab Emirates
+1400037,United Arab Emirates,Namibia,Dubai International Cricket Stadium,2023-09-27,Namibia
+1400038,United Arab Emirates,Namibia,Dubai International Cricket Stadium,2023-09-29,Namibia
+1400039,Namibia,United Arab Emirates,Dubai International Cricket Stadium,2023-09-30,Namibia
+1400040,United Arab Emirates,Namibia,Dubai International Cricket Stadium,2023-10-02,Namibia
+1400041,Namibia,United Arab Emirates,"ICC Academy, Dubai",2023-10-03,United Arab Emirates
+1402765,Argentina,Chile,San Albano,2023-10-14,Argentina
+1402766,Argentina,Chile,San Albano,2023-10-15,Argentina
+1403686,Scotland,Ireland,"Desert Springs Cricket Ground, Almeria",2023-10-23,Ireland
+1403687,Ireland,Scotland,"Desert Springs Cricket Ground, Almeria",2023-10-24,Scotland
+1405121,Pakistan,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-10-25,Bangladesh
+1405122,Bangladesh,Pakistan,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-10-27,Bangladesh
+1405123,Pakistan,Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",2023-10-29,Pakistan
+1406073,England,India,"Wankhede Stadium, Mumbai",2023-12-06,England
+1406074,India,England,"Wankhede Stadium, Mumbai",2023-12-09,England
+1406075,England,India,"Wankhede Stadium, Mumbai",2023-12-10,India
+1406081,Australia,India,"Dr DY Patil Sports Academy, Mumbai",2024-01-05,India
+1406082,India,Australia,"Dr DY Patil Sports Academy, Mumbai",2024-01-07,Australia
+1406083,India,Australia,"Dr DY Patil Sports Academy, Mumbai",2024-01-09,Australia
+1407864,Nepal,Japan,Hong Kong Cricket Club,2023-11-18,Nepal
+1407865,Tanzania,Hong Kong,Hong Kong Cricket Club,2023-11-18,Hong Kong
+1407866,Tanzania,Japan,Hong Kong Cricket Club,2023-11-16,Tanzania
+1407867,Nepal,Hong Kong,Hong Kong Cricket Club,2023-11-16,Hong Kong
+1407868,Tanzania,Nepal,Hong Kong Cricket Club,2023-11-15,Tanzania
+1407869,Japan,Hong Kong,Hong Kong Cricket Club,2023-11-15,Hong Kong
+1407870,Nepal,Japan,Hong Kong Cricket Club,2023-11-19,Nepal
+1407871,Tanzania,Hong Kong,Hong Kong Cricket Club,2023-11-19,Hong Kong
+1411261,Zimbabwe,Kenya,Entebbe Cricket Oval,2023-12-09,Zimbabwe
+1411262,Botswana,Tanzania,Entebbe Cricket Oval,2023-12-09,Tanzania
+1411263,Namibia,Nigeria,Entebbe Cricket Oval,2023-12-10,Namibia
+1411264,Rwanda,Uganda,Entebbe Cricket Oval,2023-12-10,Uganda
+1411265,Kenya,Tanzania,Entebbe Cricket Oval,2023-12-11,Tanzania
+1411266,Zimbabwe,Botswana,Entebbe Cricket Oval,2023-12-11,Zimbabwe
+1411267,Rwanda,Nigeria,Entebbe Cricket Oval,2023-12-12,Nigeria
+1411268,Namibia,Uganda,Entebbe Cricket Oval,2023-12-12,Uganda
+1411269,Botswana,Kenya,Entebbe Cricket Oval,2023-12-13,Kenya
+1411270,Tanzania,Zimbabwe,Entebbe Cricket Oval,2023-12-13,Zimbabwe
+1411271,Namibia,Rwanda,Entebbe Cricket Oval,2023-12-14,Namibia
+1411272,Nigeria,Uganda,Entebbe Cricket Oval,2023-12-14,Uganda
+1411273,Zimbabwe,Namibia,Entebbe Cricket Oval,2023-12-16,Zimbabwe
+1411274,Uganda,Tanzania,Entebbe Cricket Oval,2023-12-16,Uganda
+1411276,Uganda,Zimbabwe,Entebbe Cricket Oval,2023-12-17,Zimbabwe
+1415983,Ireland,Zimbabwe,Harare Sports Club,2024-01-26,Ireland
+1415984,Ireland,Zimbabwe,Harare Sports Club,2024-01-28,Ireland
+1415985,Ireland,Zimbabwe,Harare Sports Club,2024-01-30,Ireland
+1415986,Zimbabwe,Ireland,Harare Sports Club,2024-02-01,Ireland
+1415987,Ireland,Zimbabwe,Harare Sports Club,2024-02-02,Ireland
+1419510,Malaysia,Kuwait,Johor Cricket Academy Oval,2024-02-04,Malaysia
+1419511,Kuwait,Malaysia,Johor Cricket Academy Oval,2024-02-05,Malaysia
+1419906,Myanmar,Thailand,"Bayuemas Oval, Kuala Lumpur",2024-02-10,Thailand
+1419907,United Arab Emirates,China,"YSD-UKM Cricket Oval, Bangi",2024-02-10,United Arab Emirates
+1419908,Indonesia,Malaysia,"Royal Selangor Club, Kuala Lumpur",2024-02-10,Malaysia
+1419909,Hong Kong,Nepal,"Selangor Turf Club, Kuala Lumpur",2024-02-10,Nepal
+1419910,Singapore,Kuwait,"Bayuemas Oval, Kuala Lumpur",2024-02-10,Kuwait
+1419911,Japan,Oman,"YSD-UKM Cricket Oval, Bangi",2024-02-10,Japan
+1419912,Bahrain,Qatar,"Royal Selangor Club, Kuala Lumpur",2024-02-10,Qatar
+1419913,Bhutan,Maldives,"Selangor Turf Club, Kuala Lumpur",2024-02-10,Bhutan
+1419914,Thailand,Kuwait,"YSD-UKM Cricket Oval, Bangi",2024-02-11,Thailand
+1419915,United Arab Emirates,Oman,"Royal Selangor Club, Kuala Lumpur",2024-02-11,United Arab Emirates
+1419916,Indonesia,Bahrain,"Selangor Turf Club, Kuala Lumpur",2024-02-11,Indonesia
+1419917,Bhutan,Nepal,"Bayuemas Oval, Kuala Lumpur",2024-02-11,Nepal
+1419918,Singapore,Myanmar,"YSD-UKM Cricket Oval, Bangi",2024-02-11,Myanmar
+1419919,China,Japan,"Royal Selangor Club, Kuala Lumpur",2024-02-11,Japan
+1419920,Malaysia,Qatar,"Selangor Turf Club, Kuala Lumpur",2024-02-11,Malaysia
+1419921,Hong Kong,Maldives,"Bayuemas Oval, Kuala Lumpur",2024-02-11,Hong Kong
+1419922,Kuwait,Myanmar,"Royal Selangor Club, Kuala Lumpur",2024-02-13,Kuwait
+1419923,Oman,China,"Selangor Turf Club, Kuala Lumpur",2024-02-13,China
+1419924,Malaysia,Bahrain,"Bayuemas Oval, Kuala Lumpur",2024-02-13,Malaysia
+1419925,Hong Kong,Bhutan,"YSD-UKM Cricket Oval, Bangi",2024-02-13,Hong Kong
+1419926,Thailand,Singapore,"Royal Selangor Club, Kuala Lumpur",2024-02-13,Thailand
+1419927,Japan,United Arab Emirates,"Selangor Turf Club, Kuala Lumpur",2024-02-13,United Arab Emirates
+1419928,Qatar,Indonesia,"Bayuemas Oval, Kuala Lumpur",2024-02-13,Indonesia
+1419929,Nepal,Maldives,"YSD-UKM Cricket Oval, Bangi",2024-02-13,Nepal
+1419930,Hong Kong,Thailand,"Bayuemas Oval, Kuala Lumpur",2024-02-14,Thailand
+1419931,United Arab Emirates,Indonesia,"YSD-UKM Cricket Oval, Bangi",2024-02-14,United Arab Emirates
+1419932,Malaysia,Japan,"Bayuemas Oval, Kuala Lumpur",2024-02-14,Malaysia
+1419933,Kuwait,Nepal,"YSD-UKM Cricket Oval, Bangi",2024-02-14,Nepal
+1419934,United Arab Emirates,Thailand,"Bayuemas Oval, Kuala Lumpur",2024-02-16,United Arab Emirates
+1419935,Nepal,Malaysia,"Bayuemas Oval, Kuala Lumpur",2024-02-16,Malaysia
+1419936,United Arab Emirates,Malaysia,"Bayuemas Oval, Kuala Lumpur",2024-02-18,United Arab Emirates
+1423459,Namibia,South Africa,"Achimota Senior Secondary School A Field, Accra",2024-03-07,Namibia
+1423460,Tanzania,Nigeria,"Achimota Senior Secondary School B Field, Accra",2024-03-07,
+1423463,Tanzania,South Africa,"Achimota Senior Secondary School A Field, Accra",2024-03-08,South Africa
+1423464,Nigeria,Namibia,"Achimota Senior Secondary School B Field, Accra",2024-03-08,Nigeria
+1423465,Uganda,Zimbabwe,"Achimota Senior Secondary School A Field, Accra",2024-03-08,Zimbabwe
+1423467,Namibia,Tanzania,"Achimota Senior Secondary School A Field, Accra",2024-03-10,Tanzania
+1423470,Uganda,Rwanda,"Achimota Senior Secondary School B Field, Accra",2024-03-10,Uganda
+1423471,South Africa,Uganda,"Achimota Senior Secondary School A Field, Accra",2024-03-11,South Africa
+1423472,Nigeria,Zimbabwe,"Achimota Senior Secondary School A Field, Accra",2024-03-11,Zimbabwe
+1423473,Uganda,Nigeria,"Achimota Senior Secondary School A Field, Accra",2024-03-13,Nigeria
+1423474,Zimbabwe,South Africa,"Achimota Senior Secondary School A Field, Accra",2024-03-13,
+1425064,Bangladesh,Australia,"Shere Bangla National Stadium, Mirpur",2024-03-31,Australia
+1425065,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",2024-04-02,Australia
+1425066,Australia,Bangladesh,"Shere Bangla National Stadium, Mirpur",2024-04-04,Australia
+1425638,Sri Lanka,Thailand,"Tolerance Oval, Abu Dhabi",2024-04-25,Sri Lanka
+1425639,United Arab Emirates,Ireland,"Zayed Cricket Stadium, Abu Dhabi",2024-04-25,Ireland
+1425640,Scotland,Uganda,"Tolerance Oval, Abu Dhabi",2024-04-25,Scotland
+1425641,Zimbabwe,Vanuatu,"Zayed Cricket Stadium, Abu Dhabi",2024-04-25,Vanuatu
+1425642,Netherlands,Vanuatu,"Tolerance Oval, Abu Dhabi",2024-04-27,Netherlands
+1425643,United States of America,Uganda,"Zayed Cricket Stadium, Abu Dhabi",2024-04-27,Uganda
+1425644,United Arab Emirates,Zimbabwe,"Tolerance Oval, Abu Dhabi",2024-04-27,Zimbabwe
+1425645,Scotland,Sri Lanka,"Zayed Cricket Stadium, Abu Dhabi",2024-04-27,Sri Lanka
+1425646,Scotland,United States of America,"Tolerance Oval, Abu Dhabi",2024-04-29,Scotland
+1425647,Ireland,Zimbabwe,"Zayed Cricket Stadium, Abu Dhabi",2024-04-29,Ireland
+1425648,Uganda,Thailand,"Tolerance Oval, Abu Dhabi",2024-04-29,Thailand
+1425649,Netherlands,United Arab Emirates,"Zayed Cricket Stadium, Abu Dhabi",2024-04-29,United Arab Emirates
+1425650,Netherlands,Zimbabwe,"Tolerance Oval, Abu Dhabi",2024-05-01,Netherlands
+1425651,Sri Lanka,Uganda,"Zayed Cricket Stadium, Abu Dhabi",2024-05-01,Sri Lanka
+1425652,Vanuatu,Ireland,"Tolerance Oval, Abu Dhabi",2024-05-01,Ireland
+1425653,United States of America,Thailand,"Zayed Cricket Stadium, Abu Dhabi",2024-05-01,Thailand
+1425654,Thailand,Scotland,"Tolerance Oval, Abu Dhabi",2024-05-03,Scotland
+1425655,United Arab Emirates,Vanuatu,"Zayed Cricket Stadium, Abu Dhabi",2024-05-03,United Arab Emirates
+1425656,Sri Lanka,United States of America,"Tolerance Oval, Abu Dhabi",2024-05-03,Sri Lanka
+1425657,Ireland,Netherlands,"Zayed Cricket Stadium, Abu Dhabi",2024-05-03,Ireland
+1425658,Ireland,Scotland,"Zayed Cricket Stadium, Abu Dhabi",2024-05-05,Scotland
+1425659,Sri Lanka,United Arab Emirates,"Zayed Cricket Stadium, Abu Dhabi",2024-05-05,Sri Lanka
+1425660,Sri Lanka,Scotland,"Zayed Cricket Stadium, Abu Dhabi",2024-05-07,Sri Lanka
+1426048,Papua New Guinea,Zimbabwe,Harare Sports Club,2024-03-30,Zimbabwe
+1426049,Zimbabwe,Papua New Guinea,Harare Sports Club,2024-03-31,
+1426050,Zimbabwe,Papua New Guinea,Harare Sports Club,2024-04-02,Zimbabwe
+1426084,West Indies,Pakistan,"National Stadium, Karachi",2024-04-26,West Indies
+1426085,Pakistan,West Indies,"National Stadium, Karachi",2024-04-28,West Indies
+1426086,West Indies,Pakistan,"National Stadium, Karachi",2024-04-30,West Indies
+1426087,West Indies,Pakistan,"National Stadium, Karachi",2024-05-02,Pakistan
+1426088,Pakistan,West Indies,"National Stadium, Karachi",2024-05-03,West Indies
+1426617,New Zealand,Australia,"Great Barrier Reef Arena, Mackay",2024-09-19,Australia
+1426618,Australia,New Zealand,"Great Barrier Reef Arena, Mackay",2024-09-22,Australia
+1426619,New Zealand,Australia,"Allan Border Field, Brisbane",2024-09-24,Australia
+1426626,Australia,England,Sydney Cricket Ground,2025-01-20,Australia
+1426627,Australia,England,"Manuka Oval, Canberra",2025-01-23,Australia
+1426628,Australia,England,Adelaide Oval,2025-01-25,Australia
+1426756,United Arab Emirates,Nepal,Rangiri Dambulla International Stadium,2024-07-19,Nepal
+1426757,Pakistan,India,Rangiri Dambulla International Stadium,2024-07-19,India
+1426758,Thailand,Malaysia,Rangiri Dambulla International Stadium,2024-07-20,Thailand
+1426759,Bangladesh,Sri Lanka,Rangiri Dambulla International Stadium,2024-07-20,Sri Lanka
+1426760,India,United Arab Emirates,Rangiri Dambulla International Stadium,2024-07-21,India
+1426761,Nepal,Pakistan,Rangiri Dambulla International Stadium,2024-07-21,Pakistan
+1426762,Sri Lanka,Malaysia,Rangiri Dambulla International Stadium,2024-07-22,Sri Lanka
+1426763,Thailand,Bangladesh,Rangiri Dambulla International Stadium,2024-07-22,Bangladesh
+1426764,United Arab Emirates,Pakistan,Rangiri Dambulla International Stadium,2024-07-23,Pakistan
+1426765,India,Nepal,Rangiri Dambulla International Stadium,2024-07-23,India
+1426766,Bangladesh,Malaysia,Rangiri Dambulla International Stadium,2024-07-24,Bangladesh
+1426767,Thailand,Sri Lanka,Rangiri Dambulla International Stadium,2024-07-24,Sri Lanka
+1426768,Bangladesh,India,Rangiri Dambulla International Stadium,2024-07-26,India
+1426769,Pakistan,Sri Lanka,Rangiri Dambulla International Stadium,2024-07-26,Sri Lanka
+1426770,India,Sri Lanka,Rangiri Dambulla International Stadium,2024-07-28,Sri Lanka
+1427420,Gibraltar,Estonia,Europa Sports Complex,2024-04-20,Gibraltar
+1427421,Gibraltar,Estonia,Europa Sports Complex,2024-04-21,Gibraltar
+1427422,Gibraltar,Estonia,Europa Sports Complex,2024-04-21,Gibraltar
+1429008,Thailand,Ireland,"7he Sevens Stadium, Dubai",2024-04-18,Ireland
+1429009,Indonesia,Mongolia,Udayana Cricket Ground,2024-04-21,Indonesia
+1429010,Indonesia,Mongolia,Udayana Cricket Ground,2024-04-21,Indonesia
+1429011,Mongolia,Indonesia,Udayana Cricket Ground,2024-04-22,Indonesia
+1429012,Indonesia,Mongolia,Udayana Cricket Ground,2024-04-22,Indonesia
+1429013,Indonesia,Mongolia,Udayana Cricket Ground,2024-04-24,Indonesia
+1429014,Mongolia,Indonesia,Udayana Cricket Ground,2024-04-24,Indonesia
+1429393,India,Bangladesh,Sylhet International Cricket Stadium,2024-04-28,India
+1429394,Bangladesh,India,Sylhet International Cricket Stadium,2024-04-30,India
+1429395,Bangladesh,India,Sylhet International Cricket Stadium,2024-05-02,India
+1429396,India,Bangladesh,Sylhet International Cricket Stadium,2024-05-06,India
+1429397,India,Bangladesh,Sylhet International Cricket Stadium,2024-05-09,India
+1429622,Botswana,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2024-04-22,Botswana
+1429623,Mozambique,Rwanda,"Botswana Cricket Association Oval 2, Gaborone",2024-04-22,Rwanda
+1429624,Lesotho,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2024-04-22,Rwanda
+1429625,Mozambique,Botswana,"Botswana Cricket Association Oval 2, Gaborone",2024-04-22,Botswana
+1429626,Botswana,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2024-04-23,Rwanda
+1429627,Mozambique,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2024-04-23,Mozambique
+1429628,Mozambique,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2024-04-23,Botswana
+1429630,Mozambique,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2024-04-25,Rwanda
+1429631,Botswana,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2024-04-25,Botswana
+1429632,Botswana,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2024-04-25,Rwanda
+1429634,Mozambique,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2024-04-26,Mozambique
+1429635,Botswana,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2024-04-26,Rwanda
+1430812,Ireland,Sri Lanka,"Pembroke Cricket Club, Sandymount, Dublin",2024-08-11,Sri Lanka
+1430813,Ireland,Sri Lanka,"Pembroke Cricket Club, Sandymount, Dublin",2024-08-13,Ireland
+1430820,England,Ireland,"Castle Avenue, Dublin",2024-09-14,England
+1430821,England,Ireland,"Castle Avenue, Dublin",2024-09-15,Ireland
+1432225,South Africa,England,"Buffalo Park, East London",2024-11-24,England
+1432226,England,South Africa,"Willowmoore Park, Benoni",2024-11-27,England
+1432227,South Africa,England,"SuperSport Park, Centurion",2024-11-30,England
+1432422,Bangladesh,Scotland,Sharjah Cricket Stadium,2024-10-03,Bangladesh
+1432423,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2024-10-03,Pakistan
+1432424,West Indies,South Africa,Dubai International Cricket Stadium,2024-10-04,South Africa
+1432425,New Zealand,India,Dubai International Cricket Stadium,2024-10-04,New Zealand
+1432426,Sri Lanka,Australia,Sharjah Cricket Stadium,2024-10-05,Australia
+1432427,England,Bangladesh,Sharjah Cricket Stadium,2024-10-05,England
+1432428,Pakistan,India,Dubai International Cricket Stadium,2024-10-06,India
+1432429,Scotland,West Indies,Dubai International Cricket Stadium,2024-10-06,West Indies
+1432430,South Africa,England,Sharjah Cricket Stadium,2024-10-07,England
+1432431,Australia,New Zealand,Sharjah Cricket Stadium,2024-10-08,Australia
+1432432,South Africa,Scotland,Dubai International Cricket Stadium,2024-10-09,South Africa
+1432433,India,Sri Lanka,Dubai International Cricket Stadium,2024-10-09,India
+1432434,Bangladesh,West Indies,Sharjah Cricket Stadium,2024-10-10,West Indies
+1432435,Pakistan,Australia,Dubai International Cricket Stadium,2024-10-11,Australia
+1432436,Sri Lanka,New Zealand,Sharjah Cricket Stadium,2024-10-12,New Zealand
+1432437,Bangladesh,South Africa,Dubai International Cricket Stadium,2024-10-12,South Africa
+1432438,Scotland,England,Sharjah Cricket Stadium,2024-10-13,England
+1432439,Australia,India,Sharjah Cricket Stadium,2024-10-13,Australia
+1432440,New Zealand,Pakistan,Dubai International Cricket Stadium,2024-10-14,New Zealand
+1432441,England,West Indies,Dubai International Cricket Stadium,2024-10-15,West Indies
+1432442,Australia,South Africa,Dubai International Cricket Stadium,2024-10-17,South Africa
+1432443,New Zealand,West Indies,Sharjah Cricket Stadium,2024-10-18,New Zealand
+1432444,New Zealand,South Africa,Dubai International Cricket Stadium,2024-10-20,New Zealand
+1433772,Netherlands,Italy,"Sportpark Harga, Schiedam",2024-05-28,Netherlands
+1433775,Italy,Netherlands,"Sportpark Harga, Schiedam",2024-05-30,Netherlands
+1434291,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",2024-07-05,South Africa
+1434292,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",2024-07-07,
+1434293,South Africa,India,"MA Chidambaram Stadium, Chepauk, Chennai",2024-07-09,India
+1435618,Rwanda,Cameroon,"Gahanga International Cricket Stadium, Rwanda",2024-05-30,Rwanda
+1435620,Uganda,Botswana,"Gahanga International Cricket Stadium, Rwanda",2024-05-30,Uganda
+1435621,Kenya,Nigeria,"Gahanga B Ground, Rwanda",2024-06-02,Kenya
+1435623,Uganda,Nigeria,"Gahanga B Ground, Rwanda",2024-05-31,Uganda
+1435624,Botswana,Cameroon,"Gahanga International Cricket Stadium, Rwanda",2024-05-31,Botswana
+1435625,Malawi,Rwanda,"Gahanga B Ground, Rwanda",2024-05-31,Rwanda
+1435626,Rwanda,Botswana,"Gahanga International Cricket Stadium, Rwanda",2024-06-01,Rwanda
+1435627,Kenya,Malawi,"Gahanga B Ground, Rwanda",2024-06-01,Kenya
+1435628,Cameroon,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2024-06-01,Nigeria
+1435630,Uganda,Malawi,"Gahanga International Cricket Stadium, Rwanda",2024-06-03,Uganda
+1435632,Botswana,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2024-06-03,Nigeria
+1435633,Rwanda,Kenya,"Gahanga B Ground, Rwanda",2024-06-03,Rwanda
+1435634,Nigeria,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2024-06-04,Nigeria
+1435635,Kenya,Uganda,"Gahanga B Ground, Rwanda",2024-06-04,Uganda
+1435637,Cameroon,Malawi,"Gahanga B Ground, Rwanda",2024-06-04,Malawi
+1435638,Cameroon,Kenya,"Gahanga International Cricket Stadium, Rwanda",2024-06-05,Kenya
+1435639,Botswana,Malawi,"Gahanga B Ground, Rwanda",2024-06-05,Botswana
+1435640,Uganda,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2024-06-05,Uganda
+1435643,Uganda,Cameroon,Gahanga International Cricket Stadium. Rwanda,2024-06-07,Uganda
+1435644,Nigeria,Malawi,"Gahanga B Ground, Rwanda",2024-06-07,Nigeria
+1435645,Kenya,Botswana,"Gahanga B Ground, Rwanda",2024-06-07,Kenya
+1435646,Cameroon,Malawi,"Gahanga B Ground, Rwanda",2024-06-08,Malawi
+1435647,Kenya,Botswana,"Gahanga International Cricket Stadium, Rwanda",2024-06-08,Kenya
+1435648,Nigeria,Rwanda,"Gahanga B Ground, Rwanda",2024-06-08,Rwanda
+1436889,West Indies,Sri Lanka,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",2024-06-24,Sri Lanka
+1436890,Sri Lanka,West Indies,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",2024-06-26,West Indies
+1436891,Sri Lanka,West Indies,"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa, Hambantota",2024-06-28,West Indies
+1438090,Gibraltar,Czech Republic,"Scott Page Field, Vinor",2024-06-14,Gibraltar
+1438091,Croatia,Czech Republic,"Scott Page Field, Vinor",2024-06-14,Croatia
+1438092,Croatia,Gibraltar,"Scott Page Field, Vinor",2024-06-15,Croatia
+1438093,Czech Republic,Croatia,"Scott Page Field, Vinor",2024-06-15,Croatia
+1438094,Croatia,Gibraltar,"Scott Page Field, Vinor",2024-06-16,Gibraltar
+1438095,Gibraltar,Czech Republic,"Scott Page Field, Vinor",2024-06-16,Gibraltar
+1438097,Estonia,Cyprus,Happy Valley Ground,2024-06-17,Cyprus
+1438099,Cyprus,Estonia,Happy Valley Ground,2024-06-18,Cyprus
+1438101,Cyprus,Estonia,Happy Valley Ground,2024-06-19,Cyprus
+1438102,Netherlands,Hong Kong,"Sportpark Maarschalkerweerd, Utrecht",2024-06-17,Netherlands
+1438103,Hong Kong,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2024-06-18,Netherlands
+1438104,Hong Kong,Netherlands,"Sportpark Maarschalkerweerd, Utrecht",2024-06-19,Netherlands
+1438105,Netherlands,Hong Kong,"Sportpark Maarschalkerweerd, Utrecht",2024-06-19,Netherlands
+1440443,Indonesia,Bhutan,Udayana Cricket Ground,2024-07-02,Indonesia
+1440444,Singapore,Indonesia,Udayana Cricket Ground,2024-07-02,Indonesia
+1440446,Bhutan,Indonesia,Udayana Cricket Ground,2024-07-03,Indonesia
+1440447,Indonesia,Singapore,Udayana Cricket Ground,2024-07-05,Indonesia
+1440448,Bhutan,Singapore,Udayana Cricket Ground,2024-07-06,Singapore
+1440449,Indonesia,Bhutan,Udayana Cricket Ground,2024-07-07,Bhutan
+1440450,Indonesia,Singapore,Udayana Cricket Ground,2024-07-07,Indonesia
+1440451,Bhutan,Singapore,Udayana Cricket Ground,2024-07-08,Bhutan
+1442996,Jersey,Guernsey,"Grainville, St Saviour",2024-07-14,Jersey
+1443571,New Zealand,Sri Lanka,"Hagley Oval, Christchurch",2025-03-14,Sri Lanka
+1443572,Sri Lanka,New Zealand,"Hagley Oval, Christchurch",2025-03-16,New Zealand
+1443573,New Zealand,Sri Lanka,"University Oval, Dunedin",2025-03-18,
+1443574,New Zealand,Australia,"Eden Park, Auckland",2025-03-21,Australia
+1443575,Australia,New Zealand,"Bay Oval, Mount Maunganui",2025-03-23,Australia
+1443576,Australia,New Zealand,"Sky Stadium, Wellington",2025-03-26,Australia
+1444531,Germany,Italy,Bayer Uerdingen Cricket Ground,2024-07-26,Italy
+1444532,Germany,Jersey,Bayer Uerdingen Cricket Ground,2024-07-26,Germany
+1444534,Italy,Germany,Bayer Uerdingen Cricket Ground,2024-07-27,Italy
+1444535,Germany,Jersey,Bayer Uerdingen Cricket Ground,2024-07-27,Jersey
+1444536,Italy,Jersey,Bayer Uerdingen Cricket Ground,2024-07-27,Italy
+1444537,Germany,Italy,Bayer Uerdingen Cricket Ground,2024-07-28,Italy
+1444549,Netherlands,Papua New Guinea,"VRA Ground, Amstelveen",2024-08-14,
+1444550,Scotland,Papua New Guinea,"VRA Ground, Amstelveen",2024-08-15,Scotland
+1444551,Scotland,Netherlands,"VRA Ground, Amstelveen",2024-08-16,Scotland
+1444669,Italy,Germany,Bayer Uerdingen Cricket Ground,2024-07-28,Italy
+1445485,Denmark,Norway,"Ekeberg Cricket Ground 1, Oslo",2024-08-11,Denmark
+1445489,Norway,Guernsey,"Ekeberg Cricket Ground 1, Oslo",2024-08-11,Guernsey
+1445491,Norway,Estonia,"Ekeberg Cricket Ground 1, Oslo",2024-08-10,Norway
+1445493,Estonia,Denmark,"Ekeberg Cricket Ground 2, Oslo",2024-08-11,Denmark
+1447543,Malta,Isle of Man,Marsa Sports Club,2024-08-21,Isle of Man
+1447550,Isle of Man,Greece,Marsa Sports Club,2024-08-24,Isle of Man
+1447551,Greece,Serbia,Marsa Sports Club,2024-08-25,Greece
+1447553,Greece,Isle of Man,Marsa Sports Club,2024-08-25,Isle of Man
+1448391,West Indies,England,"St Lawrence Ground, Canterbury",2025-05-21,England
+1448392,West Indies,England,"County Ground, Hove",2025-05-23,England
+1448393,England,West Indies,"County Ground, Chelmsford",2025-05-26,England
+1448397,India,England,"Trent Bridge, Nottingham",2025-06-28,India
+1448398,India,England,"County Ground, Bristol",2025-07-01,India
+1448399,England,India,"Kennington Oval, London",2025-07-04,England
+1448400,England,India,"Old Trafford, Manchester",2025-07-09,India
+1448401,India,England,"Edgbaston, Birmingham",2025-07-12,England
+1449011,South Africa,Pakistan,Multan Cricket Stadium,2024-09-16,South Africa
+1449012,Pakistan,South Africa,Multan Cricket Stadium,2024-09-18,Pakistan
+1449013,Pakistan,South Africa,Multan Cricket Stadium,2024-09-20,South Africa
+1449019,Namibia,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",2024-09-06,United Arab Emirates
+1449020,United Arab Emirates,Zimbabwe,"Wanderers Cricket Ground, Windhoek",2024-09-07,Zimbabwe
+1449021,Zimbabwe,Namibia,"Wanderers Cricket Ground, Windhoek",2024-09-08,Namibia
+1449022,United Arab Emirates,Namibia,"Wanderers Cricket Ground, Windhoek",2024-09-09,United Arab Emirates
+1449023,Zimbabwe,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",2024-09-10,United Arab Emirates
+1449024,Zimbabwe,Namibia,"Wanderers Cricket Ground, Windhoek",2024-09-11,Namibia
+1449025,Namibia,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",2024-09-12,United Arab Emirates
+1449026,Zimbabwe,United Arab Emirates,"Wanderers Cricket Ground, Windhoek",2024-09-13,United Arab Emirates
+1449027,Namibia,Zimbabwe,"Wanderers Cricket Ground, Windhoek",2024-09-14,Namibia
+1450198,Denmark,Norway,Koge Cricket Club,2024-09-14,Denmark
+1450199,Austria,Luxembourg,Koge Cricket Club 2,2024-09-14,Austria
+1450200,Austria,Denmark,Koge Cricket Club,2024-09-14,Denmark
+1450202,Denmark,Luxembourg,Koge Cricket Club,2024-09-15,Denmark
+1450204,Norway,Luxembourg,Koge Cricket Club 2,2024-09-15,Norway
+1450462,Kenya,Rwanda,"Sikh Union Club Ground, Nairobi",2024-09-10,Kenya
+1450463,Rwanda,Kenya,"Sikh Union Club Ground, Nairobi",2024-09-11,Rwanda
+1450464,Kenya,Rwanda,"Sikh Union Club Ground, Nairobi",2024-09-11,Rwanda
+1450465,Kenya,Rwanda,"Sikh Union Club Ground, Nairobi",2024-09-13,Rwanda
+1450466,Rwanda,Kenya,"Sikh Union Club Ground, Nairobi",2024-09-14,Rwanda
+1450467,Serbia,Cyprus,Lisicji Jarak Cricket Ground,2024-09-14,Cyprus
+1450468,Cyprus,Serbia,Lisicji Jarak Cricket Ground,2024-09-14,Cyprus
+1451291,Spain,Greece,"Marina Ground, Corfu",2024-09-21,Spain
+1451292,Greece,Spain,"Marina Ground, Corfu",2024-09-21,Spain
+1451293,Greece,Spain,"Marina Ground, Corfu",2024-09-22,Spain
+1451294,Greece,Spain,"Marina Ground, Corfu",2024-09-22,Spain
+1451303,Singapore,Japan,Sano International Cricket Ground,2024-10-01,Japan
+1451304,Singapore,Japan,Sano International Cricket Ground,2024-10-02,Japan
+1451305,Japan,Singapore,Sano International Cricket Ground,2024-10-04,Japan
+1451306,Japan,Singapore,Sano International Cricket Ground,2024-10-05,Japan
+1451307,Japan,Singapore,Sano International Cricket Ground,2024-10-06,Japan
+1451308,Hong Kong,Japan,"Yeonhui Cricket Ground, Incheon",2024-10-08,Hong Kong
+1451311,Hong Kong,China,"Yeonhui Cricket Ground, Incheon",2024-10-09,Hong Kong
+1451317,Hong Kong,South Korea,"Yeonhui Cricket Ground, Incheon",2024-10-12,Hong Kong
+1451318,South Korea,China,"Yeonhui Cricket Ground, Incheon",2024-10-13,China
+1454935,Serbia,Bulgaria,Lisicji Jarak Cricket Ground,2024-10-12,Serbia
+1454936,Bulgaria,Serbia,Lisicji Jarak Cricket Ground,2024-10-13,Serbia
+1454937,Bulgaria,Serbia,Lisicji Jarak Cricket Ground,2024-10-13,Serbia
+1456121,Singapore,Myanmar,Singapore National Cricket Ground,2024-10-21,Myanmar
+1456122,Kuwait,Myanmar,Singapore National Cricket Ground,2024-10-22,Kuwait
+1456123,Singapore,Kuwait,Singapore National Cricket Ground,2024-10-22,Kuwait
+1456124,Singapore,Myanmar,Singapore National Cricket Ground,2024-10-24,Myanmar
+1456125,Myanmar,Kuwait,Singapore National Cricket Ground,2024-10-25,Myanmar
+1456126,Singapore,Kuwait,Singapore National Cricket Ground,2024-10-26,Kuwait
+1456127,Myanmar,Singapore,Singapore National Cricket Ground,2024-10-27,Myanmar
+1456128,Kuwait,Myanmar,Singapore National Cricket Ground,2024-10-28,Kuwait
+1456129,Singapore,Kuwait,Singapore National Cricket Ground,2024-10-29,Kuwait
+1456130,Kuwait,Myanmar,Singapore National Cricket Ground,2024-10-30,Myanmar
+1456854,Bulgaria,Greece,"Marina Ground, Corfu",2024-10-26,Greece
+1456858,China,Hong Kong,Zhejiang University of Technology Cricket Field,2024-11-08,Hong Kong
+1456859,Myanmar,Mongolia,Zhejiang University of Technology Cricket Field,2024-11-08,Myanmar
+1456860,Mongolia,China,Zhejiang University of Technology Cricket Field,2024-11-07,China
+1456861,Myanmar,Hong Kong,Zhejiang University of Technology Cricket Field,2024-11-07,Myanmar
+1456862,Myanmar,China,Zhejiang University of Technology Cricket Field,2024-11-09,China
+1456863,Mongolia,Hong Kong,Zhejiang University of Technology Cricket Field,2024-11-09,Hong Kong
+1456864,Mongolia,Myanmar,Zhejiang University of Technology Cricket Field,2024-11-10,Myanmar
+1456865,China,Hong Kong,Zhejiang University of Technology Cricket Field,2024-11-10,Hong Kong
+1457354,Rwanda,Kenya,"Gahanga B Ground, Rwanda",2024-10-29,Rwanda
+1457355,Kenya,Rwanda,"Gahanga B Ground, Rwanda",2024-10-30,Kenya
+1457356,Rwanda,Kenya,"Gahanga B Ground, Rwanda",2024-10-31,Rwanda
+1457357,Kenya,Rwanda,"Gahanga B Ground, Rwanda",2024-11-02,Kenya
+1457358,Kenya,Rwanda,"Gahanga B Ground, Rwanda",2024-11-02,Rwanda
+1458414,Ireland,Bangladesh,Sylhet Stadium,2024-12-05,Ireland
+1458415,Ireland,Bangladesh,Sylhet Stadium,2024-12-07,Ireland
+1458416,Bangladesh,Ireland,Sylhet Stadium,2024-12-09,Ireland
+1459718,Costa Rica,Mexico,"Reforma Athletic Club, Naucalpan",2024-11-16,Mexico
+1459719,Costa Rica,Mexico,"Reforma Athletic Club, Naucalpan",2024-11-16,Mexico
+1459720,Costa Rica,Mexico,Las Caballerizas,2024-11-17,
+1459891,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",2024-12-15,India
+1459892,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",2024-12-17,West Indies
+1459893,India,West Indies,"Dr DY Patil Sports Academy, Navi Mumbai",2024-12-19,India
+1462850,Namibia,Thailand,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-04,Thailand
+1462851,Hong Kong,China,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-04,Hong Kong
+1462852,China,Namibia,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-05,Namibia
+1462853,Thailand,Hong Kong,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-05,Thailand
+1462854,Thailand,China,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-07,Thailand
+1462855,Hong Kong,Namibia,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-07,Namibia
+1462856,Hong Kong,China,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-08,Hong Kong
+1462857,Thailand,Namibia,"Mission Road Ground, Mong Kok, Hong Kong",2024-12-08,Thailand
+1462858,Malaysia,Namibia,"Selangor Turf Club, Kuala Lumpur",2024-12-10,Namibia
+1462860,Malaysia,Namibia,"Selangor Turf Club, Kuala Lumpur",2024-12-12,Namibia
+1463008,Bahrain,Qatar,"West End Park International Cricket Stadium, Doha",2024-12-04,Qatar
+1463009,Bahrain,Qatar,"West End Park International Cricket Stadium, Doha",2024-12-06,Bahrain
+1463010,Bahrain,Qatar,"West End Park International Cricket Stadium, Doha",2024-12-07,Qatar
+1463011,Bahrain,Qatar,"West End Park International Cricket Stadium, Doha",2024-12-08,Qatar
+1464722,Gibraltar,Jersey,Europa Sports Complex,2024-12-15,Jersey
+1464723,Gibraltar,Jersey,Europa Sports Complex,2024-12-16,Jersey
+1464725,Bhutan,Myanmar,Gelephu International Cricket Ground,2024-12-22,Myanmar
+1464726,Myanmar,Bhutan,Gelephu International Cricket Ground,2024-12-24,Myanmar
+1464727,Bhutan,Myanmar,Gelephu International Cricket Ground,2024-12-26,Myanmar
+1464728,Bhutan,Myanmar,Gelephu International Cricket Ground,2024-12-27,Myanmar
+1464730,Singapore,Philippines,Singapore National Cricket Ground,2024-12-24,Singapore
+1464731,Philippines,Singapore,Singapore National Cricket Ground,2024-12-26,Singapore
+1464732,Singapore,Philippines,Singapore National Cricket Ground,2024-12-27,Philippines
+1468402,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",2025-01-27,West Indies
+1468403,West Indies,Bangladesh,"Warner Park, Basseterre, St Kitts",2025-01-29,West Indies
+1468404,Bangladesh,West Indies,"Warner Park, Basseterre, St Kitts",2025-01-31,West Indies
+1468724,Netherlands,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2025-01-30,Netherlands
+1468725,Nepal,Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-01,Thailand
+1468726,Netherlands,Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",2025-01-31,Thailand
+1468727,Netherlands,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-02,Netherlands
+1468728,Thailand,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-04,Thailand
+1468729,Thailand,Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-03,Thailand
+1468730,Nepal,Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-05,Netherlands
+1468731,Nepal,Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-07,Thailand
+1468732,Thailand,Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",2025-02-06,Netherlands
+1472537,South Africa,West Indies,"Three Ws Oval, Cave Hill, Barbados",2025-06-20,South Africa
+1472538,South Africa,West Indies,"Three Ws Oval, Cave Hill, Barbados",2025-06-22,West Indies
+1472539,South Africa,West Indies,"Three Ws Oval, Cave Hill, Barbados",2025-06-23,West Indies
+1474422,Fiji,France,"N'Du Stadium, Noumea, New Caledonia",2025-03-13,Fiji
+1474423,Vanuatu,Samoa,"N'Du Stadium, Noumea, New Caledonia",2025-03-10,Vanuatu
+1474424,Vanuatu,France,"N'Du Stadium, Noumea, New Caledonia",2025-03-11,Vanuatu
+1474426,France,Samoa,"N'Du Stadium, Noumea, New Caledonia",2025-03-12,Samoa
+1474427,Vanuatu,Fiji,"N'Du Stadium, Noumea, New Caledonia",2025-03-12,Vanuatu
+1474429,Vanuatu,Samoa,"N'Du Stadium, Noumea, New Caledonia",2025-03-14,Samoa
+1474981,Canada,United States of America,"St Albans Club, Buenos Aires",2025-03-10,Canada
+1474982,Brazil,Argentina,"St Albans Club, Buenos Aires",2025-03-10,Brazil
+1474983,United States of America,Brazil,"St Albans Club, Buenos Aires",2025-03-11,United States of America
+1474984,Argentina,Canada,"St Albans Club, Buenos Aires",2025-03-11,Argentina
+1474985,United States of America,Argentina,"St Albans Club, Buenos Aires",2025-03-13,United States of America
+1474986,Brazil,Canada,"St Albans Club, Buenos Aires",2025-03-13,Canada
+1474987,Canada,Argentina,"St Albans Club, Buenos Aires",2025-03-14,Canada
+1474988,United States of America,Brazil,"St Albans Club, Buenos Aires",2025-03-14,United States of America
+1474990,Argentina,United States of America,"St Albans Club, Buenos Aires",2025-03-16,United States of America
+1474991,Argentina,Brazil,"St Albans Club, Buenos Aires",2025-03-17,Brazil
+1474992,United States of America,Canada,"St Albans Club, Buenos Aires",2025-03-17,United States of America
+1476152,Hong Kong,Uganda,Entebbe Cricket Oval,2025-03-08,Uganda
+1476153,Nepal,Namibia,Entebbe Cricket Oval,2025-03-08,Namibia
+1476154,Uganda,Nepal,Entebbe Cricket Oval,2025-03-09,Nepal
+1476155,Namibia,Hong Kong,Entebbe Cricket Oval,2025-03-09,Hong Kong
+1476156,Uganda,Namibia,Entebbe Cricket Oval,2025-03-10,Uganda
+1476157,Hong Kong,Nepal,Entebbe Cricket Oval,2025-03-10,Hong Kong
+1476158,Namibia,Nepal,Entebbe Cricket Oval,2025-03-12,Namibia
+1476159,Uganda,Hong Kong,Entebbe Cricket Oval,2025-03-12,Hong Kong
+1476160,Hong Kong,Namibia,Entebbe Cricket Oval,2025-03-13,Namibia
+1476161,Uganda,Nepal,Entebbe Cricket Oval,2025-03-13,Uganda
+1476162,Hong Kong,Nepal,Entebbe Cricket Oval,2025-03-14,Nepal
+1476163,Uganda,Namibia,Entebbe Cricket Oval,2025-03-14,Uganda
+1476165,Namibia,Uganda,Entebbe Cricket Oval,2025-03-16,Uganda
+1476987,Zimbabwe,Ireland,"Pembroke Cricket Club, Sandymount, Dublin",2025-07-20,Ireland
+1476988,Ireland,Zimbabwe,"Pembroke Cricket Club, Sandymount, Dublin",2025-07-22,Ireland
+1476989,Ireland,Zimbabwe,"Pembroke Cricket Club, Sandymount, Dublin",2025-07-23,Ireland
+1476992,Ireland,Pakistan,"Clontarf Cricket Club Ground, Dublin",2025-08-06,Ireland
+1476993,Pakistan,Ireland,"Clontarf Cricket Club Ground, Dublin",2025-08-08,Ireland
+1476994,Ireland,Pakistan,"Clontarf Cricket Club Ground, Dublin",2025-08-10,Pakistan
+1477591,South Africa,Ireland,"Newlands, Cape Town",2025-12-05,South Africa
+1477592,South Africa,Ireland,"Boland Park, Paarl",2025-12-07,South Africa
+1477597,Pakistan,South Africa,"Senwes Park, Potchefstroom",2026-02-10,South Africa
+1477598,Pakistan,South Africa,"Willowmoore Park, Benoni",2026-02-13,South Africa
+1477599,Pakistan,South Africa,"Willowmoore Park, Benoni",2026-02-16,Pakistan
+1477662,Botswana,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2025-04-26,Botswana
+1477663,Mozambique,Sierra Leone,"Botswana Cricket Association Oval 2, Gaborone",2025-04-26,Sierra Leone
+1477664,Eswatini,Botswana,"Botswana Cricket Association Oval 2, Gaborone",2025-04-29,Botswana
+1477665,Botswana,Mozambique,"Botswana Cricket Association Oval 2, Gaborone",2025-04-26,Botswana
+1477666,Mozambique,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-04-29,Sierra Leone
+1477667,Mozambique,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-04-27,Mozambique
+1477668,Sierra Leone,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2025-04-27,Sierra Leone
+1477669,Sierra Leone,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-04-27,Sierra Leone
+1477670,Botswana,Mozambique,"Botswana Cricket Association Oval 1, Gaborone",2025-04-27,Botswana
+1477671,Eswatini,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-04-26,Sierra Leone
+1477672,Mozambique,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2025-04-30,Mozambique
+1477673,Sierra Leone,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2025-04-30,Sierra Leone
+1477674,Botswana,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-04-29,Sierra Leone
+1477675,Mozambique,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-04-29,Mozambique
+1477676,Bulgaria,Estonia,Estonian National Cricket and Rugby Field,2025-05-15,Estonia
+1477677,Bulgaria,Estonia,Estonian National Cricket and Rugby Field,2025-05-15,Estonia
+1477679,Cook Islands,Indonesia,Udayana Cricket Ground,2025-04-09,Indonesia
+1477680,Indonesia,Philippines,Udayana Cricket Ground,2025-04-10,Indonesia
+1477681,Cook Islands,Philippines,Udayana Cricket Ground,2025-04-11,Cook Islands
+1477682,Cook Islands,Indonesia,Udayana Cricket Ground,2025-04-12,Indonesia
+1478411,Portugal,Norway,Santarem Cricket Ground,2025-04-07,Portugal
+1478412,Portugal,Norway,Santarem Cricket Ground,2025-04-08,Norway
+1478413,Norway,Portugal,Santarem Cricket Ground,2025-04-09,Portugal
+1478912,Australia,India,Sydney Cricket Ground,2026-02-15,India
+1478913,Australia,India,"Manuka Oval, Canberra",2026-02-19,Australia
+1478914,India,Australia,Adelaide Oval,2026-02-21,India
+1479929,Uganda,Namibia,"High Performance Oval, Windhoek",2025-04-08,Uganda
+1479930,Uganda,Namibia,"High Performance Oval, Windhoek",2025-04-09,Uganda
+1479931,Namibia,Uganda,"High Performance Oval, Windhoek",2025-04-11,Namibia
+1479932,Namibia,Uganda,"High Performance Oval, Windhoek",2025-04-12,Namibia
+1479933,Namibia,Uganda,"High Performance Oval, Windhoek",2025-04-14,Namibia
+1479934,Namibia,Uganda,"High Performance Oval, Windhoek",2025-04-15,Uganda
+1481709,Zimbabwe,United States of America,"Grand Prairie Stadium, Dallas",2025-04-25,Zimbabwe
+1481710,Zimbabwe,United States of America,"Grand Prairie Stadium, Dallas",2025-04-27,Zimbabwe
+1481711,Zimbabwe,United States of America,"Grand Prairie Stadium, Dallas",2025-04-29,United States of America
+1483063,Cyprus,Czech Republic,"Scott Page Field, Vinor",2025-05-02,Cyprus
+1483064,Cyprus,Czech Republic,"Scott Page Field, Vinor",2025-05-02,Cyprus
+1483065,Czech Republic,Cyprus,"Scott Page Field, Vinor",2025-05-03,Cyprus
+1483066,Czech Republic,Cyprus,"Scott Page Field, Vinor",2025-05-03,Cyprus
+1483067,Czech Republic,Cyprus,"Scott Page Field, Vinor",2025-05-04,Cyprus
+1483068,Croatia,Malta,Marsa Sports Club,2025-05-05,Malta
+1483069,Croatia,Malta,Marsa Sports Club,2025-05-05,Malta
+1483070,Germany,Greece,"Marina Ground, Corfu",2025-05-10,Germany
+1483071,Germany,Greece,"Marina Ground, Corfu",2025-05-10,Germany
+1483072,Germany,Greece,"Marina Ground, Corfu",2025-05-11,Germany
+1483073,Greece,Germany,"Marina Ground, Corfu",2025-05-11,Germany
+1483754,United Arab Emirates,Hong Kong,"Terdthai Cricket Ground, Bangkok",2025-05-03,United Arab Emirates
+1483755,Kuwait,Thailand,"Terdthai Cricket Ground, Bangkok",2025-05-03,Thailand
+1483756,Thailand,Hong Kong,"Terdthai Cricket Ground, Bangkok",2025-05-04,Thailand
+1483757,United Arab Emirates,Kuwait,"Terdthai Cricket Ground, Bangkok",2025-05-04,United Arab Emirates
+1483758,Hong Kong,Kuwait,"Terdthai Cricket Ground, Bangkok",2025-05-06,Hong Kong
+1483759,Thailand,United Arab Emirates,"Terdthai Cricket Ground, Bangkok",2025-05-06,Thailand
+1483760,Kuwait,Thailand,"Terdthai Cricket Ground, Bangkok",2025-05-09,Thailand
+1483762,Malaysia,United Arab Emirates,"Asian Institute of Technology Ground, Bangkok",2025-05-09,United Arab Emirates
+1483763,Bahrain,Nepal,"Terdthai Cricket Ground, Bangkok",2025-05-10,Nepal
+1483765,United Arab Emirates,Qatar,"Terdthai Cricket Ground, Bangkok",2025-05-10,United Arab Emirates
+1483766,Kuwait,Bhutan,"Terdthai Cricket Ground, Bangkok",2025-05-12,Kuwait
+1483767,Bahrain,Hong Kong,"Terdthai Cricket Ground, Bangkok",2025-05-12,
+1483770,Nepal,Hong Kong,"Asian Institute of Technology Ground, Bangkok",2025-05-13,Hong Kong
+1483772,Thailand,Bhutan,"Terdthai Cricket Ground, Bangkok",2025-05-15,Thailand
+1483773,Bahrain,Nepal,"Terdthai Cricket Ground, Bangkok",2025-05-15,Nepal
+1483775,Kuwait,Bhutan,"Terdthai Cricket Ground, Bangkok",2025-05-16,Bhutan
+1483777,Qatar,Malaysia,"Terdthai Cricket Ground, Bangkok",2025-05-16,Malaysia
+1483778,Thailand,United Arab Emirates,"Terdthai Cricket Ground, Bangkok",2025-05-18,Thailand
+1483779,United Arab Emirates,Nepal,"Terdthai Cricket Ground, Bangkok",2025-05-19,Nepal
+1483808,Belgium,Switzerland,"Stars Arena Hofstade, Zemst",2025-05-28,Switzerland
+1483809,Belgium,Switzerland,"Stars Arena Hofstade, Zemst",2025-05-28,Switzerland
+1483810,Belgium,Switzerland,"Stars Arena Hofstade, Zemst",2025-05-29,Switzerland
+1483811,Switzerland,Belgium,"Stars Arena Hofstade, Zemst",2025-05-29,Switzerland
+1483941,Bahrain,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2025-05-02,Oman
+1483942,Oman,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-05-03,Oman
+1483943,Bahrain,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-05-05,Oman
+1485406,Hong Kong,Japan,Sano International Cricket Ground,2025-06-04,Hong Kong
+1485407,Philippines,China,Sano International Cricket Ground,2025-06-04,China
+1485409,Mongolia,China,Sano International Cricket Ground,2025-06-05,China
+1485410,Japan,China,Sano International Cricket Ground,2025-06-06,Japan
+1485411,Philippines,Mongolia,Sano International Cricket Ground,2025-06-06,Philippines
+1485412,Japan,Philippines,Sano International Cricket Ground,2025-06-07,Japan
+1485413,Mongolia,Hong Kong,Sano International Cricket Ground,2025-06-07,Hong Kong
+1485414,Philippines,China,Sano International Cricket Ground,2025-06-08,China
+1485415,Japan,Hong Kong,Sano International Cricket Ground,2025-06-08,Japan
+1485778,Thailand,Nepal,"Terdthai Cricket Ground, Bangkok",2025-05-20,Thailand
+1486088,Jersey,Italy,Roma Cricket Ground,2025-05-25,Italy
+1486089,Sweden,Spain,"Simar Cricket Ground, Rome",2025-05-25,Sweden
+1486090,Isle of Man,Italy,Roma Cricket Ground,2025-05-25,Italy
+1486091,Germany,Spain,"Simar Cricket Ground, Rome",2025-05-25,Germany
+1486092,Germany,Jersey,Roma Cricket Ground,2025-05-26,Germany
+1486093,Sweden,Isle of Man,"Simar Cricket Ground, Rome",2025-05-26,Isle of Man
+1486094,Spain,Jersey,Roma Cricket Ground,2025-05-26,Jersey
+1486095,Sweden,Italy,"Simar Cricket Ground, Rome",2025-05-26,Italy
+1486096,Italy,Germany,Roma Cricket Ground,2025-05-28,Italy
+1486097,Isle of Man,Spain,"Simar Cricket Ground, Rome",2025-05-28,Spain
+1486098,Germany,Sweden,Roma Cricket Ground,2025-05-28,Germany
+1486099,Jersey,Isle of Man,"Simar Cricket Ground, Rome",2025-05-28,Jersey
+1486100,Italy,Spain,Roma Cricket Ground,2025-05-29,Italy
+1486101,Sweden,Jersey,"Simar Cricket Ground, Rome",2025-05-29,Sweden
+1486102,Isle of Man,Germany,Roma Cricket Ground,2025-05-29,Germany
+1487652,Netherlands,United States of America,"Sportpark Maarschalkerweerd, Utrecht",2025-06-09,Netherlands
+1487653,Netherlands,United States of America,"Sportpark Maarschalkerweerd, Utrecht",2025-06-11,Netherlands
+1487654,Netherlands,United States of America,"Sportpark Maarschalkerweerd, Utrecht",2025-06-12,Netherlands
+1487655,Netherlands,United States of America,"Sportpark Maarschalkerweerd, Utrecht",2025-06-13,Netherlands
+1487658,Austria,Gibraltar,"Scott Page Field, Vinor",2025-06-12,Austria
+1487660,Gibraltar,Czech Republic,"Scott Page Field, Vinor",2025-06-13,Gibraltar
+1487661,Czech Republic,Austria,"Scott Page Field, Vinor",2025-06-13,Austria
+1487693,Rwanda,Cameroon,"Gahanga International Cricket Stadium, Rwanda",2025-06-03,Rwanda
+1487695,Tanzania,Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",2025-06-03,Tanzania
+1487696,Malawi,Brazil,"Gahanga B Ground, Rwanda",2025-06-03,Brazil
+1487697,Rwanda,Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",2025-06-04,Rwanda
+1487698,Cameroon,Uganda,"Gahanga B Ground, Rwanda",2025-06-04,Uganda
+1487699,Nigeria,Brazil,"Gahanga International Cricket Stadium, Rwanda",2025-06-04,Brazil
+1487700,Tanzania,Malawi,"Gahanga B Ground, Rwanda",2025-06-04,Tanzania
+1487702,Cameroon,Sierra Leone,"Gahanga B Ground, Rwanda",2025-06-05,Cameroon
+1487703,Rwanda,Malawi,"Gahanga International Cricket Stadium, Rwanda",2025-06-05,Rwanda
+1487704,Tanzania,Nigeria,"Gahanga B Ground, Rwanda",2025-06-05,Nigeria
+1487706,Sierra Leone,Uganda,"Gahanga B Ground, Rwanda",2025-06-06,Uganda
+1487707,Cameroon,Malawi,"Gahanga International Cricket Stadium, Rwanda",2025-06-06,Malawi
+1487708,Rwanda,Nigeria,"Gahanga B Ground, Rwanda",2025-06-06,Rwanda
+1487709,Brazil,Uganda,"Gahanga International Cricket Stadium, Rwanda",2025-06-07,Uganda
+1487710,Malawi,Sierra Leone,"Gahanga B Ground, Rwanda",2025-06-07,Sierra Leone
+1487712,Nigeria,Cameroon,"Gahanga B Ground, Rwanda",2025-06-07,Nigeria
+1487713,Uganda,Malawi,"Gahanga International Cricket Stadium, Rwanda",2025-06-08,Uganda
+1487714,Brazil,Tanzania,"Gahanga B Ground, Rwanda",2025-06-08,Tanzania
+1487715,Nigeria,Sierra Leone,"Gahanga International Cricket Stadium, Rwanda",2025-06-08,Nigeria
+1487717,Uganda,Tanzania,"Gahanga International Cricket Stadium, Rwanda",2025-06-10,Uganda
+1487720,Rwanda,Brazil,"Gahanga B Ground, Rwanda",2025-06-10,Rwanda
+1487721,Nigeria,Uganda,"Gahanga International Cricket Stadium, Rwanda",2025-06-11,Nigeria
+1487722,Rwanda,Tanzania,"Gahanga B Ground, Rwanda",2025-06-11,Tanzania
+1487723,Brazil,Cameroon,"Gahanga International Cricket Stadium, Rwanda",2025-06-11,Brazil
+1487725,Tanzania,Cameroon,"Gahanga International Cricket Stadium, Rwanda",2025-06-12,Tanzania
+1487726,Uganda,Rwanda,"Gahanga B Ground, Rwanda",2025-06-12,Rwanda
+1487728,Sierra Leone,Brazil,"Gahanga B Ground, Rwanda",2025-06-12,Brazil
+1487729,Tanzania,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2025-06-13,Tanzania
+1487731,Uganda,Rwanda,"Gahanga B Ground, Rwanda",2025-06-14,Uganda
+1489041,Mongolia,Philippines,Sano International Cricket Ground 2,2025-06-08,Philippines
+1489042,Vanuatu,Samoa,"Amini Park, Port Moresby",2025-06-15,
+1489043,Papua New Guinea,Vanuatu,"Amini Park, Port Moresby",2025-06-16,Papua New Guinea
+1489044,Samoa,Papua New Guinea,"Amini Park, Port Moresby",2025-06-17,Papua New Guinea
+1489045,Vanuatu,Samoa,"Amini Park, Port Moresby",2025-06-19,Vanuatu
+1489046,Papua New Guinea,Vanuatu,"Amini Park, Port Moresby",2025-06-20,Papua New Guinea
+1489047,Papua New Guinea,Samoa,"Amini Park, Port Moresby",2025-06-21,Papua New Guinea
+1490225,Singapore,Indonesia,Singapore National Cricket Ground,2025-07-02,
+1490226,Singapore,Indonesia,Singapore National Cricket Ground,2025-07-03,Indonesia
+1490227,Indonesia,Singapore,Singapore National Cricket Ground,2025-07-05,Indonesia
+1490677,England,Sri Lanka,"Edgbaston, Birmingham",2026-06-12,England
+1490678,Scotland,Ireland,"Old Trafford, Manchester",2026-06-13,Scotland
+1490679,Australia,South Africa,"Old Trafford, Manchester",2026-06-13,Australia
+1490680,New Zealand,West Indies,"The Rose Bowl, Southampton",2026-06-13,West Indies
+1490681,Netherlands,Bangladesh,"Edgbaston, Birmingham",2026-06-14,Bangladesh
+1490682,India,Pakistan,"Edgbaston, Birmingham",2026-06-14,India
+1490683,New Zealand,Sri Lanka,"The Rose Bowl, Southampton",2026-06-16,Sri Lanka
+1490684,Ireland,England,"The Rose Bowl, Southampton",2026-06-16,England
+1490685,Bangladesh,Australia,"Headingley, Leeds",2026-06-17,Australia
+1490686,India,Netherlands,"Headingley, Leeds",2026-06-17,India
+1490687,Pakistan,South Africa,"Edgbaston, Birmingham",2026-06-17,South Africa
+1490688,West Indies,Scotland,"Headingley, Leeds",2026-06-18,West Indies
+1490689,New Zealand,Ireland,"The Rose Bowl, Southampton",2026-06-19,New Zealand
+1490690,Australia,Netherlands,"The Rose Bowl, Southampton",2026-06-20,Australia
+1490691,Bangladesh,Pakistan,"The Rose Bowl, Southampton",2026-06-20,Bangladesh
+1490692,England,Scotland,"Headingley, Leeds",2026-06-20,England
+1490693,Sri Lanka,West Indies,"County Ground, Bristol",2026-06-21,West Indies
+1490694,India,South Africa,"Old Trafford, Manchester",2026-06-21,South Africa
+1490695,Scotland,New Zealand,"County Ground, Bristol",2026-06-23,New Zealand
+1490696,Ireland,Sri Lanka,"County Ground, Bristol",2026-06-23,Sri Lanka
+1490697,Australia,Pakistan,"Headingley, Leeds",2026-06-23,Australia
+1490698,England,West Indies,"Lord's, London",2026-06-24,England
+1490699,Bangladesh,India,"Old Trafford, Manchester",2026-06-25,India
+1490700,South Africa,Netherlands,"County Ground, Bristol",2026-06-25,South Africa
+1490701,Scotland,Sri Lanka,"Old Trafford, Manchester",2026-06-26,Sri Lanka
+1490702,Pakistan,Netherlands,"County Ground, Bristol",2026-06-27,Pakistan
+1490703,West Indies,Ireland,"County Ground, Bristol",2026-06-27,Ireland
+1490704,New Zealand,England,"Kennington Oval, London",2026-06-27,England
+1490705,Bangladesh,South Africa,"Lord's, London",2026-06-28,South Africa
+1490706,India,Australia,"Lord's, London",2026-06-28,Australia
+1490707,West Indies,Australia,"Kennington Oval, London",2026-06-30,Australia
+1490708,England,South Africa,"Kennington Oval, London",2026-07-02,England
+1490709,England,Australia,"Lord's, London",2026-07-05,Australia
+1490854,Turkey,Greece,"Vassil Levski National Sports Academy, Sofia",2025-07-07,Turkey
+1490855,Bulgaria,Serbia,"Vassil Levski National Sports Academy, Sofia",2025-07-07,Serbia
+1490856,Turkey,Serbia,"Vassil Levski National Sports Academy, Sofia",2025-07-07,Turkey
+1490857,Greece,Bulgaria,"Vassil Levski National Sports Academy, Sofia",2025-07-08,Greece
+1490858,Serbia,Greece,"Vassil Levski National Sports Academy, Sofia",2025-07-08,Greece
+1490859,Turkey,Bulgaria,"Vassil Levski National Sports Academy, Sofia",2025-07-08,Turkey
+1490860,Bulgaria,Serbia,"Vassil Levski National Sports Academy, Sofia",2025-07-09,Serbia
+1490861,Turkey,Greece,"Vassil Levski National Sports Academy, Sofia",2025-07-09,Turkey
+1491699,New Zealand,Zimbabwe,"Seddon Park, Hamilton",2026-02-25,New Zealand
+1491700,New Zealand,Zimbabwe,"Seddon Park, Hamilton",2026-02-27,New Zealand
+1491701,Zimbabwe,New Zealand,"Seddon Park, Hamilton",2026-03-01,New Zealand
+1491705,New Zealand,South Africa,"Bay Oval, Mount Maunganui",2026-03-15,New Zealand
+1491706,South Africa,New Zealand,"Seddon Park, Hamilton",2026-03-17,South Africa
+1491707,South Africa,New Zealand,"Eden Park, Auckland",2026-03-20,New Zealand
+1491708,South Africa,New Zealand,"Sky Stadium, Wellington",2026-03-22,New Zealand
+1491709,New Zealand,South Africa,"Hagley Oval, Christchurch",2026-03-25,New Zealand
+1494124,Lesotho,Rwanda,"Botswana Cricket Association Oval 1, Gaborone",2025-07-20,Rwanda
+1494125,Botswana,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-07-20,Botswana
+1494126,Malawi,Cameroon,"Botswana Cricket Association Oval 1, Gaborone",2025-07-20,Malawi
+1494127,Sierra Leone,Mozambique,"Botswana Cricket Association Oval 2, Gaborone",2025-07-20,Sierra Leone
+1494128,Mozambique,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2025-07-21,Botswana
+1494129,Rwanda,Malawi,"Botswana Cricket Association Oval 2, Gaborone",2025-07-21,Rwanda
+1494130,Sierra Leone,Eswatini,"Botswana Cricket Association Oval 1, Gaborone",2025-07-21,Sierra Leone
+1494131,Cameroon,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2025-07-21,Cameroon
+1494132,Malawi,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2025-07-23,Malawi
+1494133,Mozambique,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-07-23,Mozambique
+1494134,Botswana,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-07-23,Sierra Leone
+1494135,Cameroon,Rwanda,"Botswana Cricket Association Oval 2, Gaborone",2025-07-23,Rwanda
+1494136,Cameroon,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-07-24,Cameroon
+1494137,Rwanda,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2025-07-24,Rwanda
+1494138,Lesotho,Mozambique,"Botswana Cricket Association Oval 2, Gaborone",2025-07-24,Mozambique
+1494139,Malawi,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-07-24,Sierra Leone
+1494140,Botswana,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2025-07-26,Botswana
+1494141,Lesotho,Eswatini,"Botswana Cricket Association Oval 2, Gaborone",2025-07-26,Lesotho
+1494142,Mozambique,Cameroon,"Botswana Cricket Association Oval 2, Gaborone",2025-07-26,Cameroon
+1494143,Rwanda,Sierra Leone,"Botswana Cricket Association Oval 1, Gaborone",2025-07-26,Rwanda
+1494577,Estonia,Finland,Kerava National Cricket Ground,2025-07-19,Finland
+1494578,Finland,Switzerland,Kerava National Cricket Ground,2025-07-19,Switzerland
+1494579,Switzerland,Estonia,Kerava National Cricket Ground,2025-07-19,Switzerland
+1494580,Estonia,Finland,Kerava National Cricket Ground,2025-07-20,Estonia
+1494581,Finland,Switzerland,Kerava National Cricket Ground,2025-07-20,Switzerland
+1496545,New Zealand,England,"County Ground, Derby",2026-05-20,England
+1496546,New Zealand,England,"St Lawrence Ground, Canterbury",2026-05-23,New Zealand
+1496547,New Zealand,England,"County Ground, Hove",2026-05-25,England
+1496548,India,England,"County Ground, Chelmsford",2026-05-28,India
+1496549,England,India,"County Ground, Bristol",2026-05-30,England
+1496550,India,England,"The Cooper Associates County Ground, Taunton",2026-06-02,England
+1498203,Singapore,Cambodia,Singapore National Cricket Ground,2025-08-13,Singapore
+1498204,Singapore,Cambodia,Singapore National Cricket Ground,2025-08-14,Singapore
+1498205,Singapore,Cambodia,Singapore National Cricket Ground,2025-08-16,Singapore
+1498206,Netherlands,Italy,"Hazelaarweg, Rotterdam",2025-08-20,Netherlands
+1498207,Germany,Ireland,"Hazelaarweg, Rotterdam",2025-08-20,Ireland
+1498208,Netherlands,Ireland,"Hazelaarweg, Rotterdam",2025-08-21,Ireland
+1498209,Germany,Italy,"Hazelaarweg, Rotterdam",2025-08-21,Italy
+1498210,Ireland,Italy,"Hazelaarweg, Rotterdam",2025-08-23,Ireland
+1498211,Netherlands,Germany,"Hazelaarweg, Rotterdam",2025-08-23,Netherlands
+1498212,Ireland,Germany,"Hazelaarweg, Rotterdam",2025-08-24,Ireland
+1498213,Italy,Netherlands,"Hazelaarweg, Rotterdam",2025-08-24,Netherlands
+1498214,Germany,Italy,"Hazelaarweg, Rotterdam",2025-08-26,Italy
+1498215,Netherlands,Ireland,"Hazelaarweg, Rotterdam",2025-08-26,Ireland
+1498216,Netherlands,Germany,"Hazelaarweg, Rotterdam",2025-08-27,Netherlands
+1498217,Ireland,Italy,"Hazelaarweg, Rotterdam",2025-08-27,Ireland
+1498707,Nigeria,Sierra Leone,"Namibia Cricket Ground, Windhoek",2025-08-31,Nigeria
+1498708,Kenya,Rwanda,"High Performance Oval, Windhoek",2025-08-31,Rwanda
+1498709,Zimbabwe,Namibia,"Namibia Cricket Ground, Windhoek",2025-08-31,Zimbabwe
+1498710,Tanzania,Uganda,"High Performance Oval, Windhoek",2025-08-31,Tanzania
+1498711,Sierra Leone,Zimbabwe,"Namibia Cricket Ground, Windhoek",2025-09-01,Zimbabwe
+1498712,Tanzania,Kenya,"High Performance Oval, Windhoek",2025-09-01,Tanzania
+1498713,Nigeria,Namibia,"Namibia Cricket Ground, Windhoek",2025-09-01,Namibia
+1498714,Rwanda,Uganda,"High Performance Oval, Windhoek",2025-09-01,Uganda
+1498715,Tanzania,Rwanda,"Namibia Cricket Ground, Windhoek",2025-09-03,Tanzania
+1498716,Namibia,Sierra Leone,"High Performance Oval, Windhoek",2025-09-03,Namibia
+1498717,Kenya,Uganda,"Namibia Cricket Ground, Windhoek",2025-09-03,Uganda
+1498718,Nigeria,Zimbabwe,"High Performance Oval, Windhoek",2025-09-03,Zimbabwe
+1498719,Uganda,Zimbabwe,"Namibia Cricket Ground, Windhoek",2025-09-04,Zimbabwe
+1498720,Kenya,Nigeria,"High Performance Oval, Windhoek",2025-09-04,Kenya
+1498721,Tanzania,Namibia,"Namibia Cricket Ground, Windhoek",2025-09-04,Namibia
+1498722,Rwanda,Sierra Leone,"High Performance Oval, Windhoek",2025-09-04,Rwanda
+1498723,Tanzania,Uganda,"Namibia Cricket Ground, Windhoek",2025-09-06,Tanzania
+1498724,Nigeria,Sierra Leone,"High Performance Oval, Windhoek",2025-09-06,Nigeria
+1498725,Rwanda,Kenya,"High Performance Oval, Windhoek",2025-09-06,Rwanda
+1498726,Namibia,Zimbabwe,"Namibia Cricket Ground, Windhoek",2025-09-06,Zimbabwe
+1499021,Finland,Germany,"Ishoj Cricket Club, Vejledalen",2025-08-29,Germany
+1499022,Sweden,Norway,Albertslund Cricket Club,2025-08-29,Sweden
+1499023,Finland,Norway,"Ishoj Cricket Club, Vejledalen",2025-08-30,Norway
+1499024,Sweden,Denmark,Albertslund Cricket Club,2025-08-30,Sweden
+1499025,Finland,Denmark,Albertslund Cricket Club,2025-08-30,Denmark
+1499026,Germany,Norway,"Ishoj Cricket Club, Vejledalen",2025-08-30,Germany
+1499027,Norway,Denmark,Albertslund Cricket Club,2025-08-31,Denmark
+1499028,Germany,Sweden,"Ishoj Cricket Club, Vejledalen",2025-08-31,Germany
+1499029,Germany,Denmark,"Ishoj Cricket Club, Vejledalen",2025-08-31,Germany
+1499030,Sweden,Finland,Albertslund Cricket Club,2025-08-31,Sweden
+1499779,Japan,Fiji,"Albert Park 1, Suva",2025-09-05,Japan
+1499780,Japan,Fiji,"Albert Park 1, Suva",2025-09-06,Japan
+1499781,Czech Republic,Estonia,Estonian National Cricket and Rugby Field,2025-09-06,Estonia
+1499782,Estonia,Czech Republic,Estonian National Cricket and Rugby Field,2025-09-06,Estonia
+1499783,Czech Republic,Estonia,Estonian National Cricket and Rugby Field,2025-09-07,Estonia
+1499784,Cook Islands,Fiji,"Albert Park 1, Suva",2025-09-09,Fiji
+1499785,Papua New Guinea,Japan,"Albert Park 2, Suva",2025-09-09,Papua New Guinea
+1499786,Vanuatu,Indonesia,"Albert Park 1, Suva",2025-09-09,Vanuatu
+1499787,Philippines,Samoa,"Albert Park 2, Suva",2025-09-09,Samoa
+1499788,Japan,Samoa,"Albert Park 1, Suva",2025-09-10,Japan
+1499789,Indonesia,Fiji,"Albert Park 2, Suva",2025-09-10,Indonesia
+1499790,Papua New Guinea,Philippines,"Albert Park 1, Suva",2025-09-10,Papua New Guinea
+1499791,Cook Islands,Vanuatu,"Albert Park 2, Suva",2025-09-10,Vanuatu
+1499792,Indonesia,Cook Islands,"Albert Park 1, Suva",2025-09-12,Indonesia
+1499794,Vanuatu,Fiji,"Albert Park 1, Suva",2025-09-12,Vanuatu
+1499795,Samoa,Papua New Guinea,"Albert Park 2, Suva",2025-09-12,Samoa
+1499796,Samoa,Cook Islands,"Albert Park 1, Suva",2025-09-13,Samoa
+1499797,Philippines,Fiji,"Albert Park 2, Suva",2025-09-13,Fiji
+1499798,Indonesia,Papua New Guinea,"Albert Park 1, Suva",2025-09-13,Papua New Guinea
+1499799,Vanuatu,Japan,"Albert Park 2, Suva",2025-09-13,Vanuatu
+1499800,Samoa,Fiji,"Albert Park 1, Suva",2025-09-15,Fiji
+1499801,Cook Islands,Philippines,"Albert Park 2, Suva",2025-09-15,Philippines
+1499802,Japan,Indonesia,"Albert Park 2, Suva",2025-09-15,Indonesia
+1499803,Vanuatu,Papua New Guinea,"Albert Park 1, Suva",2025-09-15,Papua New Guinea
+1500635,Isle of Man,Brazil,"New Farnley CC, Leeds",2025-08-31,Brazil
+1500636,Brazil,Isle of Man,"New Farnley CC, Leeds",2025-09-01,Brazil
+1500638,Jersey,Isle of Man,"New Farnley CC, Leeds",2025-09-02,Isle of Man
+1500864,Switzerland,Luxembourg,Pierre Werner Cricket Ground,2025-09-12,Switzerland
+1500866,Austria,Switzerland,Pierre Werner Cricket Ground,2025-09-13,Switzerland
+1500867,Austria,Luxembourg,Pierre Werner Cricket Ground,2025-09-14,Luxembourg
+1500868,Luxembourg,Switzerland,Pierre Werner Cricket Ground,2025-09-14,Switzerland
+1503565,United Arab Emirates,Zimbabwe,"Queens Sports Club, Bulawayo",2025-10-05,United Arab Emirates
+1503566,United Arab Emirates,Zimbabwe,"Queens Sports Club, Bulawayo",2025-10-06,United Arab Emirates
+1505114,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2025-10-02,Malaysia
+1505115,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2025-10-04,Nepal
+1505116,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2025-10-05,Malaysia
+1505117,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2025-10-07,Nepal
+1505118,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2025-10-08,Nepal
+1506181,Romania,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-09,Romania
+1506182,Turkey,Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-09,Turkey
+1506183,Austria,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-10,Austria
+1506184,Romania,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-10,Turkey
+1506185,Romania,Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-10,Romania
+1506186,Norway,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-11,Norway
+1506187,Bulgaria,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-11,Austria
+1506188,Norway,Romania,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-11,Romania
+1506189,Austria,Norway,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-12,Norway
+1506190,Norway,Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",2025-10-12,Norway
+1506664,Canada,Uganda,"Lugogo Cricket Oval, Kampala",2025-10-20,Uganda
+1506665,Canada,Uganda,"Lugogo Cricket Oval, Kampala",2025-10-21,Uganda
+1506666,Uganda,Canada,"Lugogo Cricket Oval, Kampala",2025-10-23,Uganda
+1506667,Uganda,Canada,"Lugogo Cricket Oval, Kampala",2025-10-24,Uganda
+1506668,Uganda,Canada,"Lugogo Cricket Oval, Kampala",2025-10-26,Uganda
+1506669,Canada,Tanzania,University of Dar-es-Salaam Ground,2025-11-04,
+1506670,Tanzania,Canada,"Gymkhana Club Ground, Dar-es-Salaam",2025-11-05,Tanzania
+1506671,Canada,Tanzania,"Gymkhana Club Ground, Dar-es-Salaam",2025-11-05,Canada
+1510279,Scotland,Papua New Guinea,"Terdthai Cricket Ground, Bangkok",2025-11-14,Scotland
+1510280,Thailand,Namibia,"Terdthai Cricket Ground, Bangkok",2025-11-14,Thailand
+1510281,Namibia,Papua New Guinea,"Terdthai Cricket Ground, Bangkok",2025-11-15,Papua New Guinea
+1510282,Thailand,Scotland,"Terdthai Cricket Ground, Bangkok",2025-11-15,Scotland
+1510283,Namibia,Scotland,"Terdthai Cricket Ground, Bangkok",2025-11-17,Scotland
+1510284,Papua New Guinea,Thailand,"Terdthai Cricket Ground, Bangkok",2025-11-17,Thailand
+1510285,Thailand,Netherlands,"Terdthai Cricket Ground, Bangkok",2025-11-20,Thailand
+1510286,Papua New Guinea,United Arab Emirates,"Asian Institute of Technology Ground, Bangkok",2025-11-20,United Arab Emirates
+1510287,Namibia,Tanzania,"Asian Institute of Technology Ground, Bangkok",2025-11-20,Tanzania
+1510288,Scotland,Uganda,"Terdthai Cricket Ground, Bangkok",2025-11-20,Scotland
+1510289,United Arab Emirates,Netherlands,"Asian Institute of Technology Ground, Bangkok",2025-11-21,Netherlands
+1510290,Papua New Guinea,Thailand,"Terdthai Cricket Ground, Bangkok",2025-11-21,Papua New Guinea
+1510291,Namibia,Uganda,"Terdthai Cricket Ground, Bangkok",2025-11-21,Namibia
+1510292,Scotland,Tanzania,"Asian Institute of Technology Ground, Bangkok",2025-11-21,Scotland
+1510293,Tanzania,Netherlands,"Asian Institute of Technology Ground, Bangkok",2025-11-23,Netherlands
+1510294,Uganda,Papua New Guinea,"Terdthai Cricket Ground, Bangkok",2025-11-23,Uganda
+1510295,United Arab Emirates,Scotland,"Terdthai Cricket Ground, Bangkok",2025-11-23,Scotland
+1510296,Thailand,Namibia,"Asian Institute of Technology Ground, Bangkok",2025-11-23,Thailand
+1510297,Thailand,Tanzania,"Terdthai Cricket Ground, Bangkok",2025-11-25,Thailand
+1510298,Uganda,United Arab Emirates,"Asian Institute of Technology Ground, Bangkok",2025-11-25,United Arab Emirates
+1510299,Namibia,Scotland,"Asian Institute of Technology Ground, Bangkok",2025-11-25,Scotland
+1510300,Papua New Guinea,Netherlands,"Terdthai Cricket Ground, Bangkok",2025-11-25,Papua New Guinea
+1510301,Tanzania,United Arab Emirates,"Terdthai Cricket Ground, Bangkok",2025-11-26,United Arab Emirates
+1510302,Uganda,Thailand,"Asian Institute of Technology Ground, Bangkok",2025-11-26,Thailand
+1510303,Netherlands,Namibia,"Terdthai Cricket Ground, Bangkok",2025-11-26,Netherlands
+1510304,Papua New Guinea,Scotland,"Asian Institute of Technology Ground, Bangkok",2025-11-26,Scotland
+1510305,United Arab Emirates,Thailand,"Terdthai Cricket Ground, Bangkok",2025-11-28,United Arab Emirates
+1510306,Tanzania,Uganda,"Asian Institute of Technology Ground, Bangkok",2025-11-28,Uganda
+1510307,Papua New Guinea,Namibia,"Asian Institute of Technology Ground, Bangkok",2025-11-28,Papua New Guinea
+1510308,Netherlands,Scotland,"Terdthai Cricket Ground, Bangkok",2025-11-28,Netherlands
+1510309,Uganda,Netherlands,"Terdthai Cricket Ground, Bangkok",2025-11-30,Netherlands
+1510310,United Arab Emirates,Namibia,"Asian Institute of Technology Ground, Bangkok",2025-11-30,United Arab Emirates
+1510311,Scotland,Thailand,"Asian Institute of Technology Ground, Bangkok",2025-11-30,Thailand
+1510312,Papua New Guinea,Tanzania,"Terdthai Cricket Ground, Bangkok",2025-11-30,Papua New Guinea
+1510313,Singapore,Myanmar,Singapore National Cricket Ground,2025-11-27,Myanmar
+1510314,Singapore,Myanmar,Singapore National Cricket Ground,2025-11-29,Myanmar
+1510315,Myanmar,Singapore,Singapore National Cricket Ground,2025-11-30,Myanmar
+1513735,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-12-21,India
+1513736,Sri Lanka,India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2025-12-23,India
+1513737,Sri Lanka,India,"Greenfield International Stadium, Thiruvananthapuram",2025-12-26,India
+1513738,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",2025-12-28,India
+1513739,India,Sri Lanka,"Greenfield International Stadium, Thiruvananthapuram",2025-12-30,India
+1513755,Myanmar,Thailand,"Terdthai Cricket Ground, Bangkok",2025-12-15,Thailand
+1513756,Malaysia,Indonesia,"Terdthai Cricket Ground, Bangkok",2025-12-15,Malaysia
+1513757,Indonesia,Philippines,"Terdthai Cricket Ground, Bangkok",2025-12-16,Indonesia
+1513758,Thailand,Singapore,"Terdthai Cricket Ground, Bangkok",2025-12-16,Thailand
+1513759,Philippines,Malaysia,"Terdthai Cricket Ground, Bangkok",2025-12-17,Malaysia
+1513760,Myanmar,Singapore,"Terdthai Cricket Ground, Bangkok",2025-12-17,Myanmar
+1513761,Thailand,Indonesia,"Terdthai Cricket Ground, Bangkok",2025-12-18,Thailand
+1513762,Malaysia,Myanmar,"Terdthai Cricket Ground, Bangkok",2025-12-18,Malaysia
+1513763,Myanmar,Indonesia,"Terdthai Cricket Ground, Bangkok",2025-12-19,Indonesia
+1513764,Malaysia,Thailand,"Terdthai Cricket Ground, Bangkok",2025-12-19,Thailand
+1514510,Bahrain,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2025-12-06,Oman
+1514511,Oman,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2025-12-07,Oman
+1514513,Oman,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2025-12-10,Oman
+1514514,Kuwait,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-12,Kuwait
+1514515,Oman,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-12,United Arab Emirates
+1514516,Bahrain,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-12,Bahrain
+1514517,United Arab Emirates,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-13,United Arab Emirates
+1514518,Oman,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-13,Oman
+1514519,Bahrain,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-13,Kuwait
+1514520,Bahrain,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-15,Oman
+1514521,Saudi Arabia,Qatar,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-15,Qatar
+1514522,Kuwait,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-15,United Arab Emirates
+1514523,Qatar,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-16,Qatar
+1514524,United Arab Emirates,Saudi Arabia,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-16,United Arab Emirates
+1514525,Kuwait,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-16,Oman
+1514526,Saudi Arabia,Kuwait,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-18,Kuwait
+1514527,United Arab Emirates,Bahrain,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-18,United Arab Emirates
+1514528,Qatar,Oman,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-18,Oman
+1514529,Oman,United Arab Emirates,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2025-12-19,United Arab Emirates
+1515208,Netherlands,Zimbabwe,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-18,Netherlands
+1515209,Bangladesh,United States of America,Mulpani Cricket Ground,2026-01-18,Bangladesh
+1515210,Ireland,Papua New Guinea,Mulpani Cricket Ground,2026-01-18,Ireland
+1515211,Nepal,Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-18,Thailand
+1515212,Bangladesh,Papua New Guinea,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-20,Bangladesh
+1515213,Thailand,Zimbabwe,Mulpani Cricket Ground,2026-01-20,Thailand
+1515214,Netherlands,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-20,Netherlands
+1515215,Namibia,United States of America,Mulpani Cricket Ground,2026-01-20,United States of America
+1515216,Ireland,United States of America,Mulpani Cricket Ground,2026-01-22,Ireland
+1515217,Netherlands,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-22,Netherlands
+1515218,Bangladesh,Namibia,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-22,Bangladesh
+1515219,Zimbabwe,Scotland,Mulpani Cricket Ground,2026-01-22,Scotland
+1515220,Thailand,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-24,Scotland
+1515221,Namibia,Papua New Guinea,Mulpani Cricket Ground,2026-01-24,Papua New Guinea
+1515222,Zimbabwe,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-24,Nepal
+1515223,Bangladesh,Ireland,Mulpani Cricket Ground,2026-01-24,Bangladesh
+1515224,Scotland,Nepal,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-26,Scotland
+1515225,Papua New Guinea,United States of America,Mulpani Cricket Ground,2026-01-26,United States of America
+1515226,Namibia,Ireland,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-26,Ireland
+1515227,Netherlands,Thailand,Mulpani Cricket Ground,2026-01-26,Netherlands
+1515228,Scotland,Ireland,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-28,Scotland
+1515229,Bangladesh,Thailand,Mulpani Cricket Ground,2026-01-28,Bangladesh
+1515230,United States of America,Netherlands,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-28,Netherlands
+1515231,Bangladesh,Scotland,"Tribhuvan University International Cricket Ground, Kirtipur",2026-01-30,Bangladesh
+1515232,Ireland,Netherlands,Mulpani Cricket Ground,2026-01-30,Ireland
+1515233,United States of America,Thailand,Mulpani Cricket Ground,2026-01-30,United States of America
+1515234,Ireland,Thailand,"Tribhuvan University International Cricket Ground, Kirtipur",2026-02-01,Ireland
+1515235,Netherlands,Bangladesh,Mulpani Cricket Ground,2026-02-01,Bangladesh
+1515236,Scotland,United States of America,"Tribhuvan University International Cricket Ground, Kirtipur",2026-02-01,Scotland
+1519145,Malaysia,Bhutan,Gelephu International Cricket Ground,2026-01-20,Bhutan
+1519146,Hong Kong,Malaysia,Gelephu International Cricket Ground,2026-01-21,Hong Kong
+1519147,Hong Kong,Bhutan,Gelephu International Cricket Ground,2026-01-22,Hong Kong
+1519148,Malaysia,Bhutan,Gelephu International Cricket Ground,2026-01-24,Bhutan
+1519149,Hong Kong,Bhutan,Gelephu International Cricket Ground,2026-01-25,Hong Kong
+1519150,Malaysia,Hong Kong,Gelephu International Cricket Ground,2026-01-26,Hong Kong
+1519151,Malaysia,Bhutan,Gelephu International Cricket Ground,2026-01-27,Bhutan
+1519152,Hong Kong,Bhutan,Gelephu International Cricket Ground,2026-01-29,Hong Kong
+1520970,Oman,Denmark,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2026-02-03,Oman
+1520971,Oman,Denmark,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2026-02-04,Oman
+1520972,Oman,Denmark,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),2026-02-06,Oman
+1520973,Oman,Denmark,Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),2026-02-07,Oman
+1522068,Thailand,Malaysia,"Terdthai Cricket Ground, Bangkok",2026-02-14,Thailand
+1522984,Oman,Qatar,"West End Park International Cricket Stadium, Doha",2026-02-09,Oman
+1522985,Oman,Qatar,"West End Park International Cricket Stadium, Doha",2026-02-10,Oman
+1522986,Oman,Qatar,"West End Park International Cricket Stadium, Doha",2026-02-12,Oman
+1522987,Qatar,Oman,"West End Park International Cricket Stadium, Doha",2026-02-13,Oman
+1522988,Qatar,Oman,"West End Park International Cricket Stadium, Doha",2026-02-14,Qatar
+1523981,West Indies,Sri Lanka,"National Cricket Stadium, St George's, Grenada",2026-02-28,
+1523982,West Indies,Sri Lanka,"National Cricket Stadium, St George's, Grenada",2026-03-01,Sri Lanka
+1523983,West Indies,Sri Lanka,"National Cricket Stadium, St George's, Grenada",2026-03-03,Sri Lanka
+1526564,Australia,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",2026-03-19,Australia
+1526565,Australia,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",2026-03-21,Australia
+1526566,Australia,West Indies,"Arnos Vale Ground, Kingstown, St Vincent",2026-03-23,Australia
+1526693,Rwanda,Ghana,"Tafawa Balewa Square Cricket Oval, Lagos",2026-03-20,Rwanda
+1526697,Nigeria,Ghana,"Tafawa Balewa Square Cricket Oval, Lagos",2026-03-22,Nigeria
+1526699,Nigeria,Rwanda,"Tafawa Balewa Square Cricket Oval, Lagos",2026-03-24,Rwanda
+1527253,India,South Africa,"Kingsmead, Durban",2026-04-17,South Africa
+1527254,India,South Africa,"Kingsmead, Durban",2026-04-19,South Africa
+1527255,India,South Africa,"The Wanderers Stadium, Johannesburg",2026-04-22,South Africa
+1527256,India,South Africa,"The Wanderers Stadium, Johannesburg",2026-04-25,India
+1527257,South Africa,India,"Willowmoore Park, Benoni",2026-04-27,South Africa
+1528282,Sri Lanka,Bangladesh,Sylhet International Cricket Stadium,2026-04-28,Sri Lanka
+1528283,Sri Lanka,Bangladesh,Sylhet International Cricket Stadium,2026-04-30,Sri Lanka
+1528284,Sri Lanka,Bangladesh,Sylhet International Cricket Stadium,2026-05-02,Sri Lanka
+1528293,Nigeria,Rwanda,"Tafawa Balewa Square Cricket Oval, Lagos",2026-03-28,Nigeria
+1528317,Brazil,Botswana,"Botswana Cricket Association Oval 1, Gaborone",2026-04-06,Brazil
+1528318,Lesotho,Malawi,"Botswana Cricket Association Oval 2, Gaborone",2026-04-06,Malawi
+1528319,Mozambique,Zambia,"Botswana Cricket Association Oval 1, Gaborone",2026-04-06,Mozambique
+1528320,Botswana,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2026-04-06,Botswana
+1528321,Brazil,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2026-04-07,Brazil
+1528322,Mozambique,Botswana,"Botswana Cricket Association Oval 2, Gaborone",2026-04-07,Mozambique
+1528323,Zambia,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2026-04-07,Lesotho
+1528324,Mozambique,Brazil,"Botswana Cricket Association Oval 2, Gaborone",2026-04-07,Brazil
+1528325,Botswana,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2026-04-08,Botswana
+1528326,Brazil,Zambia,"Botswana Cricket Association Oval 2, Gaborone",2026-04-08,Brazil
+1528327,Mozambique,Lesotho,"Botswana Cricket Association Oval 1, Gaborone",2026-04-08,Mozambique
+1528328,Botswana,Zambia,"Botswana Cricket Association Oval 2, Gaborone",2026-04-08,Botswana
+1528329,Mozambique,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2026-04-09,Malawi
+1528330,Brazil,Lesotho,"Botswana Cricket Association Oval 2, Gaborone",2026-04-09,Brazil
+1528331,Zambia,Malawi,"Botswana Cricket Association Oval 1, Gaborone",2026-04-09,Malawi
+1528332,Botswana,Brazil,"Botswana Cricket Association Oval 1, Gaborone",2026-04-10,Brazil
+1528333,Lesotho,Malawi,"Botswana Cricket Association Oval 2, Gaborone",2026-04-10,Malawi
+1528334,Mozambique,Brazil,"Botswana Cricket Association Oval 1, Gaborone",2026-04-10,Brazil
+1528335,Malawi,Zambia,"Botswana Cricket Association Oval 2, Gaborone",2026-04-10,Malawi
+1528336,Botswana,Mozambique,"Botswana Cricket Association Oval 1, Gaborone",2026-04-11,Botswana
+1528337,Lesotho,Zambia,"Botswana Cricket Association Oval 2, Gaborone",2026-04-11,Lesotho
+1528338,Mozambique,Malawi,"Botswana Cricket Association Oval 2, Gaborone",2026-04-11,Malawi
+1528538,Ireland,West Indies,"Castle Avenue, Dublin",2026-05-28,West Indies
+1528539,West Indies,Pakistan,"Castle Avenue, Dublin",2026-05-29,West Indies
+1528540,Pakistan,Ireland,"Castle Avenue, Dublin",2026-05-31,Ireland
+1528541,West Indies,Ireland,"Castle Avenue, Dublin",2026-06-01,Ireland
+1528542,Pakistan,West Indies,"Castle Avenue, Dublin",2026-06-03,
+1528722,New Zealand,Australia,North Sydney Oval,2026-10-18,Australia
+1528723,Australia,New Zealand,North Sydney Oval,2026-10-20,Australia
+1528724,New Zealand,Australia,North Sydney Oval,2026-10-22,
+1529780,Cyprus,Greece,Happy Valley Ground 2,2026-04-03,Cyprus
+1529781,Cyprus,Greece,Happy Valley Ground 2,2026-04-03,Cyprus
+1529782,Cyprus,Greece,Happy Valley Ground 2,2026-04-04,Cyprus
+1529783,Cyprus,Greece,Happy Valley Ground 2,2026-04-04,
+1529784,Cyprus,Greece,Happy Valley Ground 2,2026-04-05,Cyprus
+1529785,Cyprus,Greece,Happy Valley Ground 2,2026-04-05,Greece
+1529786,Botswana,Brazil,"Botswana Cricket Association Oval 1, Gaborone",2026-04-11,Brazil
+1531150,Italy,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2026-04-18,Italy
+1531151,United States of America,Nepal,"Gahanga International Cricket Stadium, Rwanda",2026-04-18,United States of America
+1531152,Rwanda,Vanuatu,"Gahanga B Ground, Rwanda",2026-04-19,Rwanda
+1531153,Nepal,Italy,"Gahanga B Ground, Rwanda",2026-04-19,Nepal
+1531154,Rwanda,United States of America,"Gahanga International Cricket Stadium, Rwanda",2026-04-21,Rwanda
+1531155,Vanuatu,Italy,"Gahanga International Cricket Stadium, Rwanda",2026-04-21,Italy
+1531156,Rwanda,Nepal,"Gahanga B Ground, Rwanda",2026-04-22,Nepal
+1531157,United States of America,Vanuatu,"Gahanga B Ground, Rwanda",2026-04-22,United States of America
+1531158,Vanuatu,Nepal,"Gahanga International Cricket Stadium, Rwanda",2026-04-24,Vanuatu
+1531159,United States of America,Italy,"Gahanga International Cricket Stadium, Rwanda",2026-04-24,United States of America
+1531160,Rwanda,Vanuatu,"Gahanga B Ground, Rwanda",2026-04-26,Rwanda
+1531161,Nepal,United States of America,"Gahanga B Ground, Rwanda",2026-04-26,United States of America
+1531162,Italy,Rwanda,"Gahanga International Cricket Stadium, Rwanda",2026-04-27,Rwanda
+1531163,United States of America,Vanuatu,"Gahanga International Cricket Stadium, Rwanda",2026-04-27,United States of America
+1531164,Nepal,Rwanda,"Gahanga B Ground, Rwanda",2026-04-28,Nepal
+1531165,Vanuatu,Italy,"Gahanga B Ground, Rwanda",2026-04-28,Italy
+1531166,Italy,United States of America,"Gahanga International Cricket Stadium, Rwanda",2026-04-30,United States of America
+1531167,Nepal,Vanuatu,"Gahanga International Cricket Stadium, Rwanda",2026-04-30,Nepal
+1531168,United States of America,Rwanda,"Gahanga B Ground, Rwanda",2026-05-01,
+1531169,Italy,Nepal,"Gahanga B Ground, Rwanda",2026-05-01,Nepal
+1531171,Chile,Costa Rica,Los Reyes Polo Club,2026-04-25,Costa Rica
+1531172,Chile,Costa Rica,Los Reyes Polo Club,2026-04-26,Costa Rica
+1534065,Greece,Denmark,"Marina Ground, Corfu",2026-05-09,Greece
+1534066,Denmark,Greece,"Marina Ground, Corfu",2026-05-09,Denmark
+1534067,Greece,Denmark,"Marina Ground, Corfu",2026-05-10,Denmark
+1534068,Greece,Denmark,"Marina Ground, Corfu",2026-05-10,Denmark
+1534074,Pakistan,Zimbabwe,"National Stadium, Karachi",2026-05-12,Pakistan
+1534075,Pakistan,Zimbabwe,"National Stadium, Karachi",2026-05-14,Pakistan
+1534076,Pakistan,Zimbabwe,"National Stadium, Karachi",2026-05-15,Pakistan
+1534321,Malaysia,China,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-07,Malaysia
+1534322,Hong Kong,Malaysia,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-07,Hong Kong
+1534323,China,Malaysia,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-08,
+1534324,Hong Kong,China,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-08,Hong Kong
+1534325,Hong Kong,Malaysia,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-10,Hong Kong
+1534326,Hong Kong,China,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-10,Hong Kong
+1534327,Hong Kong,Malaysia,"Mission Road Ground, Mong Kok, Hong Kong",2026-05-11,Hong Kong
+1535591,Netherlands,Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-05-28,Scotland
+1535592,Bangladesh,Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-05-30,Scotland
+1535593,Netherlands,Bangladesh,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-05-31,Netherlands
+1535594,Bangladesh,Scotland,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-06-02,Bangladesh
+1535595,Scotland,Netherlands,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-06-03,Scotland
+1535596,Bangladesh,Netherlands,"Grange Cricket Club Ground, Raeburn Place, Edinburgh",2026-06-04,Bangladesh
+1535652,Zimbabwe,India,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-10-16,India
+1535653,Zimbabwe,India,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-10-18,India
+1535654,India,Zimbabwe,"Shaheed Veer Narayan Singh International Stadium, Raipur",2026-10-20,India
+1536399,Thailand,Hong Kong,"Bayuemas Oval, Kuala Lumpur",2026-05-26,Thailand
+1536400,Indonesia,China,"Bayuemas Oval, Kuala Lumpur",2026-05-26,China
+1536401,Malaysia,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-05-27,Thailand
+1536402,Nepal,China,"Bayuemas Oval, Kuala Lumpur",2026-05-27,Nepal
+1536403,Malaysia,Hong Kong,"Bayuemas Oval, Kuala Lumpur",2026-05-28,Malaysia
+1536404,Indonesia,Nepal,"Bayuemas Oval, Kuala Lumpur",2026-05-28,Nepal
+1536405,Thailand,China,"Bayuemas Oval, Kuala Lumpur",2026-05-30,Thailand
+1536406,Nepal,Malaysia,"Bayuemas Oval, Kuala Lumpur",2026-05-30,Malaysia
+1536407,Nepal,China,"Bayuemas Oval, Kuala Lumpur",2026-05-31,China
+1536408,Malaysia,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-05-31,Thailand
+1536409,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2026-05-20,Nepal
+1536410,Malaysia,Nepal,"Bayuemas Oval, Kuala Lumpur",2026-05-22,Nepal
+1536612,Malaysia,Kuwait,"Bayuemas Oval, Kuala Lumpur",2026-06-03,Malaysia
+1536613,Saudi Arabia,United Arab Emirates,"YSD-UKM Cricket Oval, Bangi",2026-06-03,United Arab Emirates
+1536614,Mongolia,Thailand,"Selangor Turf Club, Kuala Lumpur",2026-06-03,Thailand
+1536615,Qatar,Nepal,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-03,Nepal
+1536616,Bahrain,Myanmar,"Bayuemas Oval, Kuala Lumpur",2026-06-03,Myanmar
+1536617,Oman,China,"YSD-UKM Cricket Oval, Bangi",2026-06-03,Oman
+1536618,Singapore,Indonesia,"Selangor Turf Club, Kuala Lumpur",2026-06-03,Indonesia
+1536619,Hong Kong,Bhutan,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-03,Hong Kong
+1536620,Malaysia,Singapore,"Bayuemas Oval, Kuala Lumpur",2026-06-04,Malaysia
+1536621,Bahrain,Thailand,"YSD-UKM Cricket Oval, Bangi",2026-06-04,Thailand
+1536622,Oman,United Arab Emirates,"Selangor Turf Club, Kuala Lumpur",2026-06-04,United Arab Emirates
+1536623,Nepal,Bhutan,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-04,Nepal
+1536624,Japan,Mongolia,"Bayuemas Oval, Kuala Lumpur",2026-06-04,Japan
+1536625,Philippines,Saudi Arabia,"YSD-UKM Cricket Oval, Bangi",2026-06-04,Philippines
+1536626,Kuwait,Indonesia,"Selangor Turf Club, Kuala Lumpur",2026-06-04,Indonesia
+1536627,Hong Kong,Qatar,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-04,Hong Kong
+1536628,Malaysia,Indonesia,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Indonesia
+1536629,Philippines,China,"YSD-UKM Cricket Oval, Bangi",2026-06-06,China
+1536630,Japan,Myanmar,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Japan
+1536631,Qatar,Bhutan,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-06,Bhutan
+1536632,Bahrain,Mongolia,"Bayuemas Oval, Kuala Lumpur",2026-06-06,Mongolia
+1536633,Saudi Arabia,Oman,"YSD-UKM Cricket Oval, Bangi",2026-06-06,Oman
+1536634,Singapore,Kuwait,"Selangor Turf Club, Kuala Lumpur",2026-06-06,Kuwait
+1536635,Hong Kong,Nepal,"Kolej Tuanku Jaafar Cricket Oval, Mantin",2026-06-06,Hong Kong
+1536636,Myanmar,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Thailand
+1536637,United Arab Emirates,China,"YSD-UKM Cricket Oval, Bangi",2026-06-07,United Arab Emirates
+1536638,Japan,Bahrain,"Bayuemas Oval, Kuala Lumpur",2026-06-07,Japan
+1536639,Oman,Philippines,"YSD-UKM Cricket Oval, Bangi",2026-06-07,Oman
+1536640,Thailand,Japan,"Bayuemas Oval, Kuala Lumpur",2026-06-09,Thailand
+1536641,Myanmar,Mongolia,"YSD-UKM Cricket Oval, Bangi",2026-06-09,Myanmar
+1536642,United Arab Emirates,Philippines,"Bayuemas Oval, Kuala Lumpur",2026-06-09,United Arab Emirates
+1536643,Saudi Arabia,China,"YSD-UKM Cricket Oval, Bangi",2026-06-09,
+1536644,Thailand,Nepal,"Bayuemas Oval, Kuala Lumpur",2026-06-10,Thailand
+1536645,Hong Kong,Japan,"YSD-UKM Cricket Oval, Bangi",2026-06-10,Hong Kong
+1536646,United Arab Emirates,Malaysia,"Bayuemas Oval, Kuala Lumpur",2026-06-10,United Arab Emirates
+1536647,Indonesia,Oman,"YSD-UKM Cricket Oval, Bangi",2026-06-10,Indonesia
+1536648,Indonesia,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-12,Thailand
+1536649,Hong Kong,United Arab Emirates,"Bayuemas Oval, Kuala Lumpur",2026-06-12,United Arab Emirates
+1536650,Hong Kong,Indonesia,"Bayuemas Oval, Kuala Lumpur",2026-06-13,Indonesia
+1536651,United Arab Emirates,Thailand,"Bayuemas Oval, Kuala Lumpur",2026-06-13,Thailand
+1538634,Myanmar,Kuwait,"YSD-UKM Cricket Oval, Bangi",2026-05-30,Kuwait
+1538635,Myanmar,Kuwait,"YSD-UKM Cricket Oval, Bangi",2026-05-31,Myanmar
+1538636,Bahrain,Oman,"Selangor Turf Club, Kuala Lumpur",2026-05-29,Oman
+1538637,Oman,Bahrain,"Selangor Turf Club, Kuala Lumpur",2026-05-30,Oman
+1539491,Nigeria,Malawi,"Gahanga B Ground, Rwanda",2026-06-10,Nigeria
+1539493,Nigeria,Brazil,"Gahanga International Cricket Stadium, Rwanda",2026-06-11,Brazil
+1539494,Rwanda,Malawi,"Gahanga B Ground, Rwanda",2026-06-11,Rwanda
+1539496,Rwanda,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2026-06-12,Rwanda
+1539497,Brazil,Malawi,"Gahanga B Ground, Rwanda",2026-06-12,Brazil
+1539500,Rwanda,Brazil,"Gahanga B Ground, Rwanda",2026-06-14,Rwanda
+1539501,Malawi,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2026-06-14,Nigeria
+1539503,Nigeria,Brazil,"Gahanga B Ground, Rwanda",2026-06-15,Brazil
+1539504,Rwanda,Malawi,"Gahanga International Cricket Stadium, Rwanda",2026-06-15,Rwanda
+1539506,Brazil,Malawi,"Gahanga International Cricket Stadium, Rwanda",2026-06-17,Brazil
+1539507,Rwanda,Brazil,"Gahanga B Ground, Rwanda",2026-06-18,
+1539509,Rwanda,Nigeria,"Gahanga B Ground, Rwanda",2026-06-19,Rwanda
+1539510,Brazil,Nigeria,"Gahanga International Cricket Stadium, Rwanda",2026-06-20,Nigeria
+1539512,Norway,Luxembourg,"Banks Field, Vinor",2026-06-26,Norway
+1539513,Luxembourg,Czech Republic,"Banks Field, Vinor",2026-06-26,Czech Republic
+1539514,Czech Republic,Norway,"Banks Field, Vinor",2026-06-27,Czech Republic
+1539515,Norway,Luxembourg,"Banks Field, Vinor",2026-06-27,Norway
+1539516,Luxembourg,Czech Republic,"Banks Field, Vinor",2026-06-28,Czech Republic
+1539517,Norway,Czech Republic,"Banks Field, Vinor",2026-06-28,Czech Republic
+1539583,Jersey,Guernsey,"Grainville, St Saviour",2026-06-14,Jersey
+1539584,Jersey,Guernsey,"Grainville, St Saviour",2026-06-14,Jersey
+1540322,Cyprus,Malta,Happy Valley Ground,2026-06-18,Cyprus
+1540323,Cyprus,Malta,Happy Valley Ground,2026-06-18,Cyprus
+1540324,Malta,Cyprus,Happy Valley Ground,2026-06-19,Cyprus
+1540326,Cyprus,Malta,Happy Valley Ground,2026-06-20,Cyprus
+1540543,Pakistan,Sri Lanka,Rangiri Dambulla International Stadium,2026-07-31,Sri Lanka
+1540544,Pakistan,Sri Lanka,Rangiri Dambulla International Stadium,2026-08-02,Sri Lanka
+1540545,Sri Lanka,Pakistan,Rangiri Dambulla International Stadium,2026-08-04,Pakistan
+1540948,Denmark,Switzerland,Albertslund Cricket Club,2026-06-27,Denmark
+1541615,Bulgaria,Serbia,"Vassil Levski National Sports Academy, Sofia",2026-06-26,Serbia
+1541616,Bulgaria,Serbia,"Vassil Levski National Sports Academy, Sofia",2026-06-27,Bulgaria
+1541617,Serbia,Bulgaria,"Vassil Levski National Sports Academy, Sofia",2026-06-27,Serbia
+1541618,Bulgaria,Serbia,"Vassil Levski National Sports Academy, Sofia",2026-06-28,Serbia
+1543887,Zimbabwe,South Africa,"Queens Sports Club, Bulawayo",2026-09-11,South Africa
+1543888,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",2026-09-13,South Africa
+1543889,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",2026-09-15,South Africa
+1543890,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",2026-09-17,South Africa
+1543891,South Africa,Zimbabwe,"Queens Sports Club, Bulawayo",2026-09-19,South Africa
+1544137,Germany,Switzerland,SSC Karlsruhe,2026-07-10,Germany
+1544138,Switzerland,Germany,SSC Karlsruhe,2026-07-10,Germany
+1544139,Germany,Switzerland,SSC Karlsruhe,2026-07-11,Germany
+1544140,Germany,Switzerland,SSC Karlsruhe,2026-07-11,Germany
+1544141,Switzerland,Germany,SSC Karlsruhe,2026-07-12,Switzerland
+1544142,Canada,Argentina,"St George's College Ground, Buenos Aires",2026-07-29,Argentina
+1544143,Canada,Argentina,"St George's College Ground, Buenos Aires",2026-07-30,Argentina
+1544144,Argentina,Canada,"St George's College Ground, Buenos Aires",2026-07-31,
+1544145,Argentina,Canada,"St George's College Ground, Buenos Aires",2026-08-01,Argentina
+1544146,Argentina,Canada,"St George's College Ground, Buenos Aires",2026-08-01,Canada
+1544147,Argentina,Canada,"St George's College Ground, Buenos Aires",2026-08-02,Argentina
+1544148,Canada,Argentina,"St George's College Ground, Buenos Aires",2026-08-02,Argentina
+1544599,Hong Kong,Uganda,"High Performance Oval, Windhoek",2026-07-21,Uganda
+1544600,Tanzania,Namibia,"High Performance Oval, Windhoek",2026-07-21,Namibia
+1544601,Namibia,Uganda,"High Performance Oval, Windhoek",2026-07-22,
+1544602,Hong Kong,Tanzania,"High Performance Oval, Windhoek",2026-07-22,Hong Kong
+1544603,Uganda,Tanzania,"High Performance Oval, Windhoek",2026-07-24,Uganda
+1544604,Hong Kong,Namibia,"High Performance Oval, Windhoek",2026-07-24,Namibia
+1544605,Tanzania,Namibia,"High Performance Oval, Windhoek",2026-07-25,Namibia
+1544606,Hong Kong,Uganda,"Namibia Cricket Ground, Windhoek",2026-07-25,Uganda
+1544607,Tanzania,Hong Kong,"Namibia Cricket Ground, Windhoek",2026-07-27,Hong Kong
+1544608,Uganda,Namibia,"Namibia Cricket Ground, Windhoek",2026-07-27,Namibia
+1544609,Hong Kong,Namibia,"Namibia Cricket Ground, Windhoek",2026-07-28,Namibia
+1544610,Uganda,Tanzania,"Namibia Cricket Ground, Windhoek",2026-07-28,Uganda
+1544611,Hong Kong,Tanzania,"Namibia Cricket Ground, Windhoek",2026-07-30,Tanzania
+1544612,Uganda,Namibia,"Namibia Cricket Ground, Windhoek",2026-07-30,Uganda
+1547107,Estonia,Finland,Estonian National Cricket and Rugby Field,2026-07-25,Finland
+1547108,Estonia,Finland,Estonian National Cricket and Rugby Field,2026-07-25,Finland
+1548522,Belgium,Luxembourg,Pierre Werner Cricket Ground,2026-08-22,Belgium
+1548523,Belgium,Luxembourg,Pierre Werner Cricket Ground,2026-08-22,Luxembourg
+1548524,Belgium,Luxembourg,Pierre Werner Cricket Ground,2026-08-23,Luxembourg
+1548525,Luxembourg,Belgium,Pierre Werner Cricket Ground,2026-08-23,Luxembourg
+1548658,Germany,Sweden,"GelsenTrabPark, Gelsenkirchen",2026-08-28,Sweden
+1548659,Sweden,Denmark,"GelsenTrabPark, Gelsenkirchen",2026-08-28,Sweden
+1548660,Germany,Denmark,"GelsenTrabPark, Gelsenkirchen",2026-08-29,Denmark
+1548661,Sweden,Germany,"GelsenTrabPark, Gelsenkirchen",2026-08-29,
+1548663,Germany,Denmark,"GelsenTrabPark, Gelsenkirchen",2026-08-30,Germany
+1548891,Thailand,Hong Kong,Dubai International Cricket Stadium,2026-08-28,Thailand
+1548892,United Arab Emirates,Sri Lanka,Dubai International Cricket Stadium,2026-08-29,Sri Lanka
+1548893,India,Thailand,Dubai International Cricket Stadium,2026-08-30,India
+1548894,Bangladesh,Indonesia,Dubai International Cricket Stadium,2026-08-31,Bangladesh
+1548895,Pakistan,Thailand,Dubai International Cricket Stadium,2026-09-01,Pakistan
+1548896,Sri Lanka,Indonesia,Dubai International Cricket Stadium,2026-09-02,Sri Lanka
+1548897,India,Hong Kong,Dubai International Cricket Stadium,2026-09-03,India
+1548898,Indonesia,United Arab Emirates,Dubai International Cricket Stadium,2026-09-04,United Arab Emirates
+1548899,Pakistan,India,Dubai International Cricket Stadium,2026-09-05,India
+1548900,Bangladesh,Sri Lanka,Dubai International Cricket Stadium,2026-09-06,Sri Lanka
+1548901,Pakistan,Hong Kong,Dubai International Cricket Stadium,2026-09-07,Pakistan
+1548902,Bangladesh,United Arab Emirates,Dubai International Cricket Stadium,2026-09-08,Bangladesh
+1548903,India,Bangladesh,Dubai International Cricket Stadium,2026-09-10,India
+1548904,Pakistan,Sri Lanka,Dubai International Cricket Stadium,2026-09-11,Sri Lanka
+1548905,India,Sri Lanka,Dubai International Cricket Stadium,2026-09-13,India
+1549194,Austria,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-26,Turkey
+1549195,Romania,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-26,Isle of Man
+1549196,Austria,Guernsey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-26,Austria
+1549197,Greece,Isle of Man,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-27,Isle of Man
+1549198,Czech Republic,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-27,Turkey
+1549200,Romania,Greece,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-28,Romania
+1549201,Turkey,Guernsey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-28,Turkey
+1549202,Czech Republic,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-28,Austria
+1549203,Greece,Norway,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-29,Norway
+1549204,Czech Republic,Guernsey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-29,Guernsey
+1549205,Isle of Man,Norway,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-29,Isle of Man
+1549206,Norway,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-30,Austria
+1549207,Isle of Man,Turkey,"Moara Vlasiei Cricket Ground, Ilfov County",2026-08-30,Turkey
+1549208,Thailand,Papua New Guinea,"Amini Park, Port Moresby",2026-08-10,Papua New Guinea
+1549209,Papua New Guinea,Thailand,"Amini Park, Port Moresby",2026-08-11,Thailand
+1550475,Thailand,Pakistan,"Korogi Sports Park, Nisshin",2026-09-17,Pakistan
+1550476,Sri Lanka,Malaysia,Korogi Sports Park,2026-09-18,Sri Lanka
+1550477,Japan,India,Korogi Sports Park,2026-09-18,India
+1550478,Pakistan,Sri Lanka,Korogi Sports Park,2026-09-20,Sri Lanka
+1550479,India,Bangladesh,Korogi Sports Park,2026-09-20,India
+1550480,Pakistan,Bangladesh,Korogi Sports Park,2026-09-22,Pakistan
+1550481,India,Sri Lanka,Korogi Sports Park,2026-09-22,India
+1551066,Croatia,Serbia,Lisicji Jarak Cricket Ground,2026-09-04,Croatia
+1551067,Croatia,Bulgaria,Lisicji Jarak Cricket Ground,2026-09-04,Croatia
+1551069,Bulgaria,Serbia,Lisicji Jarak Cricket Ground,2026-09-05,Serbia
+1551070,Serbia,Croatia,Lisicji Jarak Cricket Ground,2026-09-06,Croatia
+1551071,Bulgaria,Serbia,Lisicji Jarak Cricket Ground,2026-09-06,Serbia
+1551072,Portugal,Belgium,"Scott Page Field, Vinor",2026-09-04,Portugal
+1551073,Portugal,Czech Republic,"Scott Page Field, Vinor",2026-09-04,Czech Republic
+1551074,Czech Republic,Belgium,"Scott Page Field, Vinor",2026-09-04,Czech Republic
+1551075,Belgium,Portugal,"Scott Page Field, Vinor",2026-09-05,Portugal
+1551076,Belgium,Czech Republic,"Scott Page Field, Vinor",2026-09-05,Czech Republic
+1551077,Portugal,Czech Republic,"Scott Page Field, Vinor",2026-09-05,Czech Republic
+1551078,Belgium,Portugal,"Scott Page Field, Vinor",2026-09-06,Portugal
+1551079,Czech Republic,Portugal,"Scott Page Field, Vinor",2026-09-06,Portugal
+1552312,Malaysia,Japan,Sano International Cricket Ground,2026-09-12,Malaysia
+1552313,Japan,Malaysia,Sano International Cricket Ground,2026-09-13,Japan
+1554978,Zimbabwe,West Indies,"Takashinga Sports Club, Highfield, Harare",2026-10-03,West Indies
+1554979,Zimbabwe,West Indies,"Takashinga Sports Club, Highfield, Harare",2026-10-05,West Indies
+1554980,Zimbabwe,West Indies,"Takashinga Sports Club, Highfield, Harare",2026-10-07,West Indies
+1555256,Chile,Costa Rica,"Pocos Oval, Pocos de Caldas",2026-09-23,Costa Rica
+1555259,Chile,Costa Rica,"Pocos Oval, Pocos de Caldas",2026-09-25,Costa Rica
+1558244,Austria,Sweden,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-15,Sweden
+1558245,Bulgaria,Sweden,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-15,Sweden
+1558246,Romania,Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-16,Bulgaria
+1558247,Bulgaria,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-16,Austria
+1558248,Romania,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-17,Austria
+1558249,Romania,Sweden,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-17,Sweden
+1558250,Sweden,Austria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-18,Sweden
+1558251,Romania,Bulgaria,"Moara Vlasiei Cricket Ground, Ilfov County",2026-10-18,Bulgaria
+1558571,Argentina,Mexico,Complejo Municipal de Beisbol de Texcoco,2026-10-24,Argentina
+1558572,Argentina,Mexico,Complejo Municipal de Beisbol de Texcoco,2026-10-24,Argentina
+355988,India,New Zealand,Trent Bridge,2009-06-18,New Zealand
+355989,England,Australia,Kennington Oval,2009-06-19,England
+391794,England,Australia,County Ground,2009-06-25,Australia
+412716,Australia,India,"Beausejour Stadium, Gros Islet",2010-05-13,Australia
+412717,West Indies,New Zealand,"Beausejour Stadium, Gros Islet",2010-05-14,New Zealand
+412718,Australia,New Zealand,"Kensington Oval, Bridgetown",2010-05-16,Australia
+423391,South Africa,West Indies,Boland Bank Park,2009-10-28,West Indies
+476947,New Zealand,Australia,Saxton Oval,2010-12-30,Australia
+492547,England,India,County Ground,2011-06-26,England
+527683,South Africa,England,Senwes Park,2011-10-29,
+527688,New Zealand,England,Westpac Stadium,2012-02-17,England
+527689,New Zealand,England,Seddon Park,2012-02-19,England
+527690,New Zealand,England,Eden Park,2012-02-22,England
+533299,Sri Lanka,South Africa,Galle International Stadium,2012-09-26,South Africa
+533300,New Zealand,West Indies,Galle International Stadium,2012-09-26,West Indies
+533301,England,Pakistan,Galle International Stadium,2012-09-27,England
+533302,Australia,India,Galle International Stadium,2012-09-27,Australia
+533303,New Zealand,South Africa,Galle International Stadium,2012-09-28,New Zealand
+533304,Sri Lanka,West Indies,Galle International Stadium,2012-09-28,Sri Lanka
+533305,Australia,Pakistan,Galle International Stadium,2012-09-29,Australia
+533306,England,India,Galle International Stadium,2012-09-29,England
+533307,South Africa,West Indies,Galle International Stadium,2012-09-30,West Indies
+533308,Sri Lanka,New Zealand,Galle International Stadium,2012-09-30,New Zealand
+533309,India,Pakistan,Galle International Stadium,2012-10-01,Pakistan
+533310,Australia,England,Galle International Stadium,2012-10-01,England
+533311,England,New Zealand,R Premadasa Stadium,2012-10-04,England
+533312,Australia,West Indies,R Premadasa Stadium,2012-10-05,Australia
+533313,Australia,England,R Premadasa Stadium,2012-10-07,Australia
+542850,England,India,St Lawrence Ground,2012-06-26,England
+542851,England,India,County Ground,2012-06-28,England
+551593,England,West Indies,Riverside Ground,2012-09-08,England
+551594,England,West Indies,Old Trafford,2012-09-10,England
+551595,England,West Indies,County Ground,2012-09-13,England
+551596,England,West Indies,County Ground,2012-09-15,England
+551597,England,West Indies,Arundel Castle Cricket Club Ground,2012-09-16,West Indies
+565844,England,Pakistan,Haslegrave Ground,2012-09-04,England
+565845,England,Pakistan,Haslegrave Ground,2012-09-05,England
+584772,Sri Lanka,India,Nondescripts Cricket Club Ground,2012-10-03,India
+584923,Bangladesh,Sri Lanka,Guanggong International Cricket Stadium,2012-10-28,Bangladesh
+584924,India,Pakistan,Guanggong International Cricket Stadium,2012-10-28,India
+584928,Bangladesh,Pakistan,Guanggong International Cricket Stadium,2012-10-30,Pakistan
+584929,India,Pakistan,Guanggong International Cricket Stadium,2012-10-31,India
+588498,West Indies,South Africa,"Beausejour Stadium, Gros Islet",2013-01-19,West Indies
+588499,West Indies,South Africa,"Beausejour Stadium, Gros Islet",2013-01-20,West Indies
+593726,England,Australia,County Ground,2013-08-27,England
+593727,England,Australia,The Rose Bowl,2013-08-29,England
+593728,England,Australia,Riverside Ground,2013-08-31,England
+603243,Sri Lanka,West Indies,R Premadasa Stadium,2013-03-03,West Indies
+603244,Sri Lanka,West Indies,R Premadasa Stadium,2013-03-05,West Indies
+603246,Sri Lanka,West Indies,R Premadasa Stadium,2013-03-08,West Indies
+627008,England,Pakistan,Haslegrave Ground,2013-07-05,England
+627009,England,Pakistan,Haslegrave Ground,2013-07-05,Pakistan
+640947,Ireland,Pakistan,YMCA Cricket Club,2013-07-29,Pakistan
+640955,Pakistan,Sri Lanka,YMCA Cricket Club,2013-07-31,
+644941,Ireland,Pakistan,YMCA Cricket Club,2013-07-16,Pakistan
+664293,South Africa,Bangladesh,Senwes Park,2013-09-14,South Africa
+664295,South Africa,Bangladesh,Senwes Park,2013-09-15,South Africa
+666047,Australia,England,Melbourne Cricket Ground,2014-01-31,Australia
+666049,Australia,England,Stadium Australia,2014-02-02,Australia
+668515,South Africa,Sri Lanka,Senwes Park,2013-10-31,South Africa
+668517,South Africa,Sri Lanka,Senwes Park,2013-11-02,Sri Lanka
+668519,South Africa,Sri Lanka,Senwes Park,2013-11-04,South Africa
+682967,Australia,New Zealand,Sylhet Stadium,2014-03-23,New Zealand
+682971,England,West Indies,Sylhet Stadium,2014-03-24,West Indies
+682973,India,Sri Lanka,Sylhet Stadium,2014-03-24,Sri Lanka
+682975,Ireland,New Zealand,Sylhet Stadium,2014-03-25,New Zealand
+682979,Bangladesh,West Indies,Sylhet Stadium,2014-03-26,West Indies
+682981,England,India,Sylhet Stadium,2014-03-26,England
+682985,New Zealand,Pakistan,Sylhet Stadium,2014-03-27,New Zealand
+682989,Sri Lanka,West Indies,Sylhet Stadium,2014-03-28,West Indies
+682991,Ireland,South Africa,Sylhet Stadium,2014-03-29,South Africa
+682993,Australia,Pakistan,Sylhet Stadium,2014-03-29,Australia
+682995,Bangladesh,India,Sylhet Stadium,2014-03-30,India
+682997,England,Sri Lanka,Sylhet Stadium,2014-03-30,England
+682999,Ireland,Pakistan,Sylhet Stadium,2014-03-31,Pakistan
+683001,New Zealand,South Africa,Sylhet Stadium,2014-03-31,South Africa
+683003,Bangladesh,Sri Lanka,Sylhet Stadium,2014-04-01,Bangladesh
+683005,India,West Indies,Sylhet Stadium,2014-04-01,India
+683007,New Zealand,Sri Lanka,Sylhet Stadium,2014-04-02,New Zealand
+683009,India,Pakistan,Sylhet Stadium,2014-04-02,India
+683011,Australia,West Indies,Shere Bangla National Stadium,2014-04-03,Australia
+683013,England,South Africa,Shere Bangla National Stadium,2014-04-04,England
+683015,Australia,England,Shere Bangla National Stadium,2014-04-06,Australia
+693433,England,South Africa,County Ground,2014-09-01,England
+693435,England,South Africa,County Ground,2014-09-03,England
+693437,England,South Africa,Edgbaston,2014-09-07,England
+698983,Pakistan,South Africa,West End Park International Cricket Stadium,2014-01-19,Pakistan
+698985,Ireland,Pakistan,West End Park International Cricket Stadium,2014-01-19,Ireland
+698987,Ireland,South Africa,West End Park International Cricket Stadium,2014-01-20,South Africa
+698995,Pakistan,South Africa,West End Park International Cricket Stadium,2014-01-24,Pakistan
+718465,Pakistan,Sri Lanka,Sylhet Stadium,2014-04-03,Pakistan
+718467,Bangladesh,Ireland,Sylhet Stadium,2014-04-03,Bangladesh
+754793,Australia,Pakistan,Kerrydale Oval,2014-08-30,Australia
+754795,Australia,Pakistan,Kerrydale Oval,2014-08-31,Australia
+754797,Australia,Pakistan,Kerrydale Oval,2014-09-03,Australia
+754799,Australia,Pakistan,Kerrydale Oval,2014-09-05,Australia
+754801,Australia,West Indies,North Sydney Oval,2014-11-02,Australia
+754805,Australia,West Indies,Melbourne Cricket Ground,2014-11-07,Australia
+757511,Sri Lanka,South Africa,Colts Cricket Club Ground,2014-10-23,Sri Lanka
+757513,Sri Lanka,South Africa,Colts Cricket Club Ground,2014-10-25,South Africa
+757515,Sri Lanka,South Africa,Mercantile Cricket Association Ground,2014-10-26,South Africa
+798377,England,Australia,County Ground,2015-08-26,England
+798379,England,Australia,County Ground,2015-08-28,Australia
+798381,England,Australia,Sophia Gardens,2015-08-31,England
+798615,Ireland,Australia,YMCA Cricket Club,2015-08-19,Australia
+798619,Ireland,Australia,YMCA Cricket Club,2015-08-21,Australia
+798621,Ireland,Australia,YMCA Cricket Club,2015-08-22,Australia
+808869,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2015-01-16,Pakistan
+808871,Pakistan,Sri Lanka,Sharjah Cricket Stadium,2015-01-17,Sri Lanka
+828247,Pakistan,South Africa,Sharjah Cricket Stadium,2015-03-19,Pakistan
+828249,Pakistan,South Africa,Sharjah Cricket Stadium,2015-03-20,Pakistan
+828251,Pakistan,South Africa,Sharjah Cricket Stadium,2015-03-22,South Africa
+856117,Sri Lanka,West Indies,R Premadasa Stadium,2015-05-23,Sri Lanka
+856119,Sri Lanka,West Indies,R Premadasa Stadium,2015-05-25,West Indies
+856121,Sri Lanka,West Indies,R Premadasa Stadium,2015-05-26,West Indies
+881755,Bangladesh,Ireland,Terdthai Cricket Ground,2015-12-05,Ireland
+892043,West Indies,Pakistan,"National Cricket Stadium, St George's",2015-10-29,West Indies
+895789,Australia,India,Melbourne Cricket Ground,2016-01-29,India
+895791,Australia,India,Sydney Cricket Ground,2016-01-31,Australia
+907381,South Africa,England,Boland Park,2016-02-18,England
+907385,South Africa,England,New Wanderers Stadium,2016-02-21,England
+907395,South Africa,West Indies,Kingsmead,2016-03-04,South Africa
+907399,South Africa,West Indies,Newlands,2016-03-09,South Africa
+923321,Pakistan,Bangladesh,Southend Club Cricket Stadium,2015-09-30,Pakistan
+923323,Pakistan,Bangladesh,Southend Club Cricket Stadium,2015-10-01,Pakistan
+946551,England,Pakistan,County Ground,2016-07-03,England
+946553,England,Pakistan,The Rose Bowl,2016-07-05,England
+946555,England,Pakistan,County Ground,2016-07-07,England
+951375,India,Bangladesh,M Chinnaswamy Stadium,2016-03-15,India
+951377,New Zealand,Sri Lanka,Feroz Shah Kotla,2016-03-15,New Zealand
+951379,Pakistan,West Indies,"MA Chidambaram Stadium, Chepauk",2016-03-16,West Indies
+951381,Bangladesh,England,M Chinnaswamy Stadium,2016-03-17,England
+951383,Ireland,New Zealand,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-03-18,New Zealand
+951385,Australia,South Africa,"Vidarbha Cricket Association Stadium, Jamtha",2016-03-18,Australia
+951387,India,Pakistan,Feroz Shah Kotla,2016-03-19,Pakistan
+951389,Bangladesh,West Indies,"MA Chidambaram Stadium, Chepauk",2016-03-20,West Indies
+951391,Sri Lanka,Ireland,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-03-20,Sri Lanka
+951393,Australia,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",2016-03-21,New Zealand
+951395,India,England,Himachal Pradesh Cricket Association Stadium,2016-03-22,England
+951397,Ireland,South Africa,"MA Chidambaram Stadium, Chepauk",2016-03-23,South Africa
+951399,England,West Indies,Himachal Pradesh Cricket Association Stadium,2016-03-24,England
+951401,Australia,Sri Lanka,Feroz Shah Kotla,2016-03-24,Australia
+951403,Bangladesh,Pakistan,Feroz Shah Kotla,2016-03-24,Pakistan
+951405,Australia,Ireland,Feroz Shah Kotla,2016-03-26,Australia
+951407,New Zealand,South Africa,M Chinnaswamy Stadium,2016-03-26,New Zealand
+951409,India,West Indies,"Punjab Cricket Association IS Bindra Stadium, Mohali",2016-03-27,West Indies
+951411,England,Pakistan,"MA Chidambaram Stadium, Chepauk",2016-03-27,England
+951413,South Africa,Sri Lanka,M Chinnaswamy Stadium,2016-03-28,Sri Lanka
+951415,Australia,England,Feroz Shah Kotla,2016-03-30,Australia
+951417,New Zealand,West Indies,Wankhede Stadium,2016-03-31,West Indies
+951419,Australia,West Indies,Eden Gardens,2016-04-03,West Indies
+962023,Ireland,Bangladesh,"Bready Cricket Club, Magheramason",2016-09-05,Ireland
