@@ -2,6 +2,16 @@ import streamlit as st
 import pickle
 import pandas as pd
 import warnings, os, json, glob
+import requests
+MODEL_URL = "https://github.com/Palesa02/CrickIQ/releases/download/v1.1-model/cricket_predictor_final.pkl"
+MODEL_FILE = "cricket_predictor_final.pkl"
+if not os.path.exists(MODEL_FILE):
+    with requests.get(MODEL_URL, stream=True) as r:
+        r.raise_for_status()
+        with open(MODEL_FILE, 'wb') as f:
+            for chunk in r.iter_content(chunk_size=8192):
+                if chunk:
+                    f.write(chunk)
 from collections import defaultdict
 warnings.filterwarnings("ignore")
 
